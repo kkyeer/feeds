@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tech.meituan.com/</id>
     <title>美团技术博客</title>
-    <updated>2021-08-02T13:42:05.895Z</updated>
+    <updated>2021-08-02T17:12:58.110Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://awps-assets.meituan.net/mit/blog/v20190629/asset/icon/android-icon-192x192.png?v=Whistle&amp;t=20181017-1r</icon>
     <entry>
@@ -164,12 +164,5 @@
         <updated>2021-08-02T13:42:05.734Z</updated>
         <content type="html"><![CDATA[对美团安全团队来说，引入领先的安全技术设计能力，构建全方位、多维度智能防御体系，是我们不懈追求的目标。美团有众多基础设施，核心业务系统也需要以成熟的方法论进行威胁评审。本文将着重分享威胁建模是如何帮助美团安全团队评估、发现大量安全设计的风险，以及互联网企业应该如何大范围地实施威胁建模并完整地进行落地。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2021/04/08/threat-modeling-security.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20]]></title>
-        <id>https://tech.meituan.com/</id>
-        <link href="https://tech.meituan.com/"/>
-        <updated>2021-08-02T13:42:05.627Z</updated>
-        <content type="html"><![CDATA[<div class="row"><div class="col-md-4"><a class="btn btn-primary home-browser-more-btn" href="/page/2.html">浏览更多文章</a></div><div class="col-md-8"></div></div>]]></content>
     </entry>
 </feed>
