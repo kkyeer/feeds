@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kkyeer.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-08-04T17:45:11.066Z</updated>
+    <updated>2021-08-05T17:43:02.559Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[ACL 2021 | 一文详解美团技术团队7篇精选论文 (美团技术博客)]]></title>
+        <id>https://tech.meituan.com/2021/08/05/acl-2021-meituan-07-papers.html</id>
+        <link href="https://tech.meituan.com/2021/08/05/acl-2021-meituan-07-papers.html"/>
+        <updated>2021-08-05T17:43:00.900Z</updated>
+        <content type="html"><![CDATA[ACL是计算语言学和自然语言处理领域最重要的顶级国际会议，该会议由国际计算语言学协会组织，每年举办一次。据谷歌学术计算语言学刊物指标显示，ACL影响力位列第一，是CCF-A类推荐会议。美团技术团队共有7篇论文（其中6篇长文，1篇短文）被ACL 2021接收，这些论文是美团技术团队在事件抽取、实体识别、意图识别、新槽位发现、无监督句子表示、语义解析、文档检索等自然语言处理任务上的一些前沿探索及应用。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2021/08/05/acl-2021-meituan-07-papers.html">阅读全文</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美团App页面视图可测性改造实践 (美团技术博客)]]></title>
         <id>https://tech.meituan.com/2021/07/28/app-xraysdk.html</id>
@@ -155,14 +163,6 @@
         <updated>2021-08-02T13:42:05.734Z</updated>
         <content type="html"><![CDATA[数据开发过程中会不断引入一些问题，而数据治理就是要不断消除引入的问题，保障数据准确、全面和完整，为业务带来价值，同时合理管理数据权限，避免数据泄露带来的业务风险。数据治理是数据化公司的一项重要能力。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2021/04/15/data-governance-in-meituan-jiulv.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[实践之后，我们来谈谈如何做好威胁建模 (美团技术博客)]]></title>
-        <id>https://tech.meituan.com/2021/04/08/threat-modeling-security.html</id>
-        <link href="https://tech.meituan.com/2021/04/08/threat-modeling-security.html"/>
-        <updated>2021-08-02T13:42:05.734Z</updated>
-        <content type="html"><![CDATA[对美团安全团队来说，引入领先的安全技术设计能力，构建全方位、多维度智能防御体系，是我们不懈追求的目标。美团有众多基础设施，核心业务系统也需要以成熟的方法论进行威胁评审。本文将着重分享威胁建模是如何帮助美团安全团队评估、发现大量安全设计的风险，以及互联网企业应该如何大范围地实施威胁建模并完整地进行落地。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2021/04/08/threat-modeling-security.html">阅读全文</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[有赞广告简介与广告业务测试 (有赞技术团队)]]></title>
