@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tech.meituan.com/</id>
     <title>美团技术博客</title>
-    <updated>2021-08-12T17:41:05.110Z</updated>
+    <updated>2021-08-13T17:42:06.445Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://awps-assets.meituan.net/mit/blog/v20190629/asset/icon/android-icon-192x192.png?v=Whistle&amp;t=20181017-1r</icon>
+    <entry>
+        <title type="html"><![CDATA[KDD 2021｜美团联合多高校提出多任务学习模型，已应用于联名卡获客场景]]></title>
+        <id>https://tech.meituan.com/2021/08/12/kdd-2021-aitm.html</id>
+        <link href="https://tech.meituan.com/2021/08/12/kdd-2021-aitm.html"/>
+        <updated>2021-08-13T17:42:01.067Z</updated>
+        <content type="html"><![CDATA[很多应用通常都需要用定向展示广告来进行获客，对信用卡广告来说，由于用户转化存在较长的链路，持续有效的获客比传统广告更具挑战性。本文结合美团联名信用卡业务中的具体实践，以及今年发表在KDD 2021上的论文，介绍了一种自适应信息迁移多任务（AITM）框架，通过该框架可建模用户多步转化之间的序列依赖关系，并提高端到端获客转化率。希望能对从事相关研究的同学有所帮助或者启发。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2021/08/12/kdd-2021-aitm.html">阅读全文</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spock单元测试框架介绍以及在美团优选的实践]]></title>
+        <id>https://tech.meituan.com/2021/08/06/spock-practice-in-meituan.html</id>
+        <link href="https://tech.meituan.com/2021/08/06/spock-practice-in-meituan.html"/>
+        <updated>2021-08-13T17:42:01.067Z</updated>
+        <content type="html"><![CDATA[Spock是一款国外优秀的测试框架，基于BDD（行为驱动开发）思想实现，功能非常强大。Spock结合Groovy动态语言的特点，提供了各种标签，并采用简单、通用、结构化的描述语言，让编写测试代码更加简洁、高效。目前，美团优选物流绝大部分后端服务已经采用了Spock作为测试框架，在开发效率、可读性和维护性方面均取得了不错的收益。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2021/08/06/spock-practice-in-meituan.html">阅读全文</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ACL 2021 | 一文详解美团技术团队7篇精选论文]]></title>
         <id>https://tech.meituan.com/2021/08/05/acl-2021-meituan-07-papers.html</id>
@@ -148,21 +164,5 @@
         <updated>2021-08-02T13:42:05.732Z</updated>
         <content type="html"><![CDATA[GraphQL是Facebook提出的一种数据查询语言，核心特性是数据聚合和按需索取，目前被广泛应用于前后端之间，解决客户端灵活使用数据问题。本文介绍的是GraphQL的另一种实践，我们将GraphQL下沉至后端BFF层之下，结合元数据技术，实现数据和加工逻辑的按需查询和执行。这样不仅解决了后端BFF层灵活使用数据的问题，这些字段加工逻辑还可以直接复用，大幅度提升了研发的效率。本文介绍的实践方案已经在美团部分业务场景中落地，并取得不错效果，希望这些经验能够对大家有帮助。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2021/05/06/bff-graphql.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美团Serverless平台Nest的探索与实践]]></title>
-        <id>https://tech.meituan.com/2021/04/21/nest-serverless.html</id>
-        <link href="https://tech.meituan.com/2021/04/21/nest-serverless.html"/>
-        <updated>2021-08-02T13:42:05.733Z</updated>
-        <content type="html"><![CDATA[Serverless是目前比较热门的技术话题，各个大云厂商以及互联网大厂内部都在积极建设Serverless产品。本文将介绍美团Serverless产品在落地过程中的一些实践经验，其中包括技术选型的考量、系统的详细设计、系统稳定性优化、产品的周边生态建设以及在美团的落地情况。虽然各个公司的背景不尽相同，但总有一些可以相互借鉴的思路或方法，希望能给大家带来一些启发或者帮助。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2021/04/21/nest-serverless.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美团酒旅数据治理实践]]></title>
-        <id>https://tech.meituan.com/2021/04/15/data-governance-in-meituan-jiulv.html</id>
-        <link href="https://tech.meituan.com/2021/04/15/data-governance-in-meituan-jiulv.html"/>
-        <updated>2021-08-02T13:42:05.734Z</updated>
-        <content type="html"><![CDATA[数据开发过程中会不断引入一些问题，而数据治理就是要不断消除引入的问题，保障数据准确、全面和完整，为业务带来价值，同时合理管理数据权限，避免数据泄露带来的业务风险。数据治理是数据化公司的一项重要能力。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2021/04/15/data-governance-in-meituan-jiulv.html">阅读全文</a>]]></content>
     </entry>
 </feed>
