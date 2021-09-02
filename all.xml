@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kkyeer.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-09-02T05:36:16.035Z</updated>
+    <updated>2021-09-02T17:44:00.186Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[美团商品知识图谱的构建及应用 (美团技术博客)]]></title>
+        <id>https://tech.meituan.com/2021/09/02/meituan-commodity-nlp-practice.html</id>
+        <link href="https://tech.meituan.com/2021/09/02/meituan-commodity-nlp-practice.html"/>
+        <updated>2021-09-02T17:43:53.566Z</updated>
+        <content type="html"><![CDATA[商品知识图谱作为新零售行业数字化的基石，提供了围绕商品的精准结构化理解，对业务应用起到了至关重要的作用。相比于美团大脑中原有的围绕商户的图谱而言，商品图谱需应对更加分散、复杂、海量的数据和业务场景，且面临着信息来源质量低、数据维度多、依赖常识以及专业知识等挑战。本文将围绕零售商品知识图谱，介绍美团在商品层级建设、属性体系建设、图谱建设人效提升等方向的探索，希望对大家有所帮助或启发。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2021/09/02/meituan-commodity-nlp-practice.html">阅读全文</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美团外卖实时数仓建设实践 (美团技术博客)]]></title>
         <id>https://tech.meituan.com/2021/08/26/data-warehouse-in-meituan-waimai.html</id>
@@ -155,14 +163,6 @@
         <updated>2021-08-02T13:42:05.730Z</updated>
         <content type="html"><![CDATA[菜品是外卖交易过程的核心要素，对菜品的理解也是实现外卖供需匹配的重点。今天我们将一次推送三篇文章，系统地介绍了美团外卖美食知识图谱的构建和应用。《美团外卖美食知识图谱的迭代及应用》会介绍外卖知识图谱的体系全貌，包括菜品类目、标准菜品、美食基础属性和美食业务主题属性。《外卖商品的标准化建设与应用》将重点介绍外卖菜品标准化建设思路、技术方案和业务应用。由于外卖的业务特点是搭配成单，而《外卖套餐搭配的探索和应用》一文会针对性地介绍外卖套餐搭配技术的迭代以及应用实践。希望对从事相关工作的同学能够带来一些启发或者帮助。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2021/05/27/food-knowledge-graph.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[百亿规模API网关服务Shepherd的设计与实现 (美团技术博客)]]></title>
-        <id>https://tech.meituan.com/2021/05/20/shepherd-api-gateway.html</id>
-        <link href="https://tech.meituan.com/2021/05/20/shepherd-api-gateway.html"/>
-        <updated>2021-08-02T13:42:05.731Z</updated>
-        <content type="html"><![CDATA[在微服务架构下，服务拆分会让API的规模成倍增长，使用API网关来管理API逐渐成为一种趋势。美团统一API网关服务Shepherd就是在这种背景下应运而生，适用于美团业务且完全自研，用于替换传统的Web层网关应用，业务研发人员通过配置的方式即可对外开放功能和数据。本文将介绍美团统一API网关诞生的背景、关键的技术设计和实现，以及API网关未来的规划，希望能给大家带来一些帮助或者启发。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2021/05/20/shepherd-api-gateway.html">阅读全文</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[有赞多平台推广接入与测试 (有赞技术团队)]]></title>
