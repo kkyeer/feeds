@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kkyeer.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-09-02T17:44:00.186Z</updated>
+    <updated>2021-09-03T05:36:04.008Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[美团商品知识图谱的构建及应用 (美团技术博客)]]></title>
@@ -165,6 +165,27 @@
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2021/05/27/food-knowledge-graph.html">阅读全文</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[千亿级公司低代码平台的测试体系介绍 (有赞技术团队)]]></title>
+        <id>https://tech.youzan.com/qian-yi-ji-gong-si-di-dai-ma-ping-tai-de-ce-shi-ti-xi-jie-shao/</id>
+        <link href="https://tech.youzan.com/qian-yi-ji-gong-si-di-dai-ma-ping-tai-de-ce-shi-ti-xi-jie-shao/"/>
+        <updated>2021-09-03T05:36:03.365Z</updated>
+        <content type="html"><![CDATA[一、有赞低代码平台-bos介绍 1.1、什么是低代码平台 &nbsp; &nbsp; &nbsp; &nbsp;低代码开发平台已经成为现在很多企业开发管理应用程序的重要工具，低代码平台的出现帮助企业降低了软件开发的成本，提高了软件开发的效率，越来越多的公司开始开发低代码平台，甚至基于低代码平台开始商业化，比如微软的Power Platform,Salesforce的Lightning，阿里的星环等，我在这里介绍一下有赞的低代码开发平台-BOS。 1.2、什么是BOS，解决什么问题 &nbsp; &nbsp; &nbsp; &nbsp; 商业操作系统（Business Operating System），商家的经营需要广告曝光，销售员，…]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数据中心数据质量线上监控的实践 (有赞技术团队)]]></title>
+        <id>https://tech.youzan.com/shu-ju-zhong-xin-shu-ju-zhi-liang-xian-shang-jian-kong-de-shi-jian/</id>
+        <link href="https://tech.youzan.com/shu-ju-zhong-xin-shu-ju-zhi-liang-xian-shang-jian-kong-de-shi-jian/"/>
+        <updated>2021-09-03T05:36:03.366Z</updated>
+        <content type="html"><![CDATA[有赞数据报表中心为商家提供了多维度、多渠道、多周期的数据，帮助商家更合理、科学的运营店铺，同时也直接提供分析决策方法供商家使用。 多维度是指支持正逆向交易、商品、客户、流量、营销活动... 多渠道是指支持全渠道、H5、APP、小程序（微信、支付宝、百度...）... 多周期是指支持实时、自然日、自然周、自然月、近7天、近30天、季度、…]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微信小程序自动化框架minium实践 (有赞技术团队)]]></title>
+        <id>https://tech.youzan.com/wei-xin-xiao-cheng-xu-zi-dong-hua-kuang-jia-shi-jian/</id>
+        <link href="https://tech.youzan.com/wei-xin-xiao-cheng-xu-zi-dong-hua-kuang-jia-shi-jian/"/>
+        <updated>2021-09-03T05:36:03.369Z</updated>
+        <content type="html"><![CDATA[一、背景需求 精选小程序发生了一次线上问题，测试阶段的小程序开发码测试ok，但是小程序正式码由于打包问题，"我的订单"页面文件打包失败，导致线上用户访问我的页面白屏。 当前并不能避免该打包问题，为了规避异常版本发布至线上，需要在预发、体验码发布、正式码发布等各阶段进行主流程回归。手动回归测试非常耗时，在发布前的各阶段，测试人员须重复执行大量测试用例，以确保本次上线功能OK且对其他功能无影响。 一遍又一遍执行相同的测试用例，不仅要花费更多的时间，而且还会降低整体测试效率，因此引入微信小程序自动化以解放重复人力。 二、调研 1.Jest+…]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[有赞多平台推广接入与测试 (有赞技术团队)]]></title>
         <id>https://tech.youzan.com/you-zan-duo-ping-tai-tui-yan-jie-ru-yu-ce-shi/</id>
         <link href="https://tech.youzan.com/you-zan-duo-ping-tai-tui-yan-jie-ru-yu-ce-shi/"/>
@@ -177,26 +198,5 @@
         <link href="https://tech.youzan.com/you-zan-yan-gao-jian-jie-yu-yan-gao-ye-wu-ce-shi/"/>
         <updated>2021-08-02T17:12:57.974Z</updated>
         <content type="html"><![CDATA[&nbsp; 一、有赞广告：DSP简介 1.1 是什么？ DSP（Demand Side Platform）是广告需求⽅平台的简称，以精准营销为核心理念，帮助广告主进行广告投放。   目前，有赞DSP 广告投放渠道主要有：  腾讯朋友圈（跳转小程序为主）  头条、百度、快手的APP（跳转H5为主）   1.…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有赞服务注册与发现架构演进 (有赞技术团队)]]></title>
-        <id>https://tech.youzan.com/you-zan-fu-wu-zhu-ce-yu-fa-xian-yan-jin/</id>
-        <link href="https://tech.youzan.com/you-zan-fu-wu-zhu-ce-yu-fa-xian-yan-jin/"/>
-        <updated>2021-08-02T17:12:57.975Z</updated>
-        <content type="html"><![CDATA[一、概述 近几年，随着有赞业务的快速发展，应用数目与实例规模在快速地增加。有赞的服务注册与发现架构近几年也一直在快速平稳地演进，以支撑业务的发展。本文主要介绍有赞近几年服务注册与发现架构的演进过程。 有赞的后台业务应用主要是基于 Dubbo 框架开发的，因此，服务注册与发现的方案也都离不开对 Dubbo 服务模型的支持。近几年，Dubbo 社区也一直在演进服务注册与发现解决方案，但有赞的演进路线跟 Dubbo 社区并不相同。有赞根据内部独特的历史背景以及未来规划走出了具有自己特色的演进道路。 本文将分为三个阶段来介绍近几年有赞服务注册与发现架构的演进：接口级服务注册与发现，接口级服务注册与应用级服务发现，…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有赞移动天网平台搭建 (有赞技术团队)]]></title>
-        <id>https://tech.youzan.com/mobileskynet/</id>
-        <link href="https://tech.youzan.com/mobileskynet/"/>
-        <updated>2021-08-02T17:12:57.978Z</updated>
-        <content type="html"><![CDATA[作者：王前、浅浅 一、背景 在快速迭代的业务需求下，难免会出现一些线上 bug ，特别是在 SaaS 业务领域，线上 bug 对于商家来说大概率会影响经营，严重的话很可能引发故障。所以，我们对线上质量要求很高。针对线上 bug ，除了商家主动上报问题，后端还有自己的天网监控体系，进行主动发现问题，那移动端如何进行主动防控呢？所以我们也需要自己的主动防控平台。 为什么不可以直接使用后端的天网系统？…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有赞TCP网络编程最佳实践 (有赞技术团队)]]></title>
-        <id>https://tech.youzan.com/you-zan-tcpwang-luo-bian-cheng-zui-jia-shi-jian/</id>
-        <link href="https://tech.youzan.com/you-zan-tcpwang-luo-bian-cheng-zui-jia-shi-jian/"/>
-        <updated>2021-08-02T17:12:57.979Z</updated>
-        <content type="html"><![CDATA[概述 本文是根据有赞中间件团队多年的TCP网络编程实践经验总结而来，目的是为了避免应用因各种网络异常而出现各种非预期行为，从而造成非预期的影响，影响系统稳定性与可靠性。 本文不会涉及TCP的各个基础知识点，主要是总结一些TCP网络编程实践中可能碰到的一些问题，以及相应的经过实践验证的解决方案等。虽然本文档很多细节主要是针对于Linux系统，不过，大部分建议适合于所有系统。 本文共总结了16项建议，下面逐一进行介绍。 1. 服务端监听设置SO_REUSEADDR选项 当我们重启服务端程序的时候可能会碰到“address already in use”这样的报错信息，即地址已被使用，导致程序无法快速成功重启。老的进程关闭退出了，…]]></content>
     </entry>
 </feed>
