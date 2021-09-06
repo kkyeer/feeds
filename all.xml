@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kkyeer.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-09-06T05:36:25.334Z</updated>
+    <updated>2021-09-06T17:42:27.809Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[美团商品知识图谱的构建及应用 (美团技术博客)]]></title>
@@ -165,6 +165,13 @@
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2021/05/27/food-knowledge-graph.html">阅读全文</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[浅谈有赞搜索质量保障体系 (有赞技术团队)]]></title>
+        <id>https://tech.youzan.com/qian-tan-sou-suo-zhi-liang-bao-zhang-ti-xi/</id>
+        <link href="https://tech.youzan.com/qian-tan-sou-suo-zhi-liang-bao-zhang-ti-xi/"/>
+        <updated>2021-09-06T17:42:27.155Z</updated>
+        <content type="html"><![CDATA[前言 有赞搜索中台的前身是ES中间件，并没有一个中台的概念，相应的就会有一个问题，业务接入搜索场景的时候还需要为此投入开发资源同步搜索设计，一个需求上线往往耗时很久，重复性工作较多，所以就有了后来的搜索中台的成立，将搜索完整链路的复杂性折叠成一个简单完整的搜索产品，让业务方直击搜索需求，无需费心搜索实现；在此前提下，如何针对搜索中台进行一个从0到1的完整的质量保障也是一个挑战，且中台面临的问题可能跟传统业务面临的不大一样，保障手段也需要更多样化。 一、搜索质量面临的问题及痛点 目前搜索业务架构如下图所示，笼统的说可以分两层，最上面一层协同网络效应层，也就是服务业务层，包括商品、交易、会员、营销、…]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[千亿级公司低代码平台的测试体系介绍 (有赞技术团队)]]></title>
         <id>https://tech.youzan.com/qian-yi-ji-gong-si-di-dai-ma-ping-tai-de-ce-shi-ti-xi-jie-shao/</id>
         <link href="https://tech.youzan.com/qian-yi-ji-gong-si-di-dai-ma-ping-tai-de-ce-shi-ti-xi-jie-shao/"/>
@@ -191,12 +198,5 @@
         <link href="https://tech.youzan.com/you-zan-duo-ping-tai-tui-yan-jie-ru-yu-ce-shi/"/>
         <updated>2021-08-17T05:35:48.851Z</updated>
         <content type="html"><![CDATA[一、基本概念    CPS(Cost Per Sale)是网络广告中效果营销体系中的主要形式之一，是一种以实际销售额来计算广告费用的广告，它可以理解为销售额提成，这种广告更多的适合购物类、导购类、网址导航类的网站，需要精准的流量才能带来转化。或者可以理解成商品推广解决方案(Commodity Promotion Solution)：作为一种电商推广手段，其本质就是如何帮助商家有效的带货，商家可以是厂商、分销商、个人卖家。而带货的形式可以是在朋友圈发商品信息、维护社群关系、通过直播带货、…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有赞广告简介与广告业务测试 (有赞技术团队)]]></title>
-        <id>https://tech.youzan.com/you-zan-yan-gao-jian-jie-yu-yan-gao-ye-wu-ce-shi/</id>
-        <link href="https://tech.youzan.com/you-zan-yan-gao-jian-jie-yu-yan-gao-ye-wu-ce-shi/"/>
-        <updated>2021-08-02T17:12:57.974Z</updated>
-        <content type="html"><![CDATA[&nbsp; 一、有赞广告：DSP简介 1.1 是什么？ DSP（Demand Side Platform）是广告需求⽅平台的简称，以精准营销为核心理念，帮助广告主进行广告投放。   目前，有赞DSP 广告投放渠道主要有：  腾讯朋友圈（跳转小程序为主）  头条、百度、快手的APP（跳转H5为主）   1.…]]></content>
     </entry>
 </feed>
