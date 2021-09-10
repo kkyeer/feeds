@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tech.meituan.com/</id>
     <title>美团技术博客</title>
-    <updated>2021-09-09T05:36:05.329Z</updated>
+    <updated>2021-09-10T17:40:48.042Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://awps-assets.meituan.net/mit/blog/v20190629/asset/icon/android-icon-192x192.png?v=Whistle&amp;t=20181017-1r</icon>
+    <entry>
+        <title type="html"><![CDATA[新一代CTR预测服务的GPU优化实践]]></title>
+        <id>https://tech.meituan.com/2021/09/09/ctr-gpu-practice.html</id>
+        <link href="https://tech.meituan.com/2021/09/09/ctr-gpu-practice.html"/>
+        <updated>2021-09-10T17:40:41.594Z</updated>
+        <content type="html"><![CDATA[CTR模型在互联网的搜索、推荐、广告等场景有着广泛的应用。近年来，随着深度神经网络的引入，CTR模型的推理对硬件算力的要求逐渐增加。本文介绍了美团在CTR模型优化的实践。通过分析模型结构特点，结合GPU硬件架构，我们设计了一系列流程对模型进行定制优化，达到了降低延迟、提高吞吐、节省成本的目标。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2021/09/09/ctr-gpu-practice.html">阅读全文</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美团商品知识图谱的构建及应用]]></title>
         <id>https://tech.meituan.com/2021/09/02/meituan-commodity-nlp-practice.html</id>
@@ -156,13 +164,5 @@
         <updated>2021-08-02T13:42:05.729Z</updated>
         <content type="html"><![CDATA[本文系外卖美食知识图谱系列的第三篇文章，从技术层面我们会介绍外卖套餐搭配的技术方案，包括离线、实时的套餐搭配的迭代，套餐质量评估方案，同时会介绍套餐搭配的业务应用。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2021/05/27/set-meal-recommendation.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美团外卖美食知识图谱的迭代及应用]]></title>
-        <id>https://tech.meituan.com/2021/05/27/food-knowledge-graph.html</id>
-        <link href="https://tech.meituan.com/2021/05/27/food-knowledge-graph.html"/>
-        <updated>2021-08-02T13:42:05.730Z</updated>
-        <content type="html"><![CDATA[菜品是外卖交易过程的核心要素，对菜品的理解也是实现外卖供需匹配的重点。今天我们将一次推送三篇文章，系统地介绍了美团外卖美食知识图谱的构建和应用。《美团外卖美食知识图谱的迭代及应用》会介绍外卖知识图谱的体系全貌，包括菜品类目、标准菜品、美食基础属性和美食业务主题属性。《外卖商品的标准化建设与应用》将重点介绍外卖菜品标准化建设思路、技术方案和业务应用。由于外卖的业务特点是搭配成单，而《外卖套餐搭配的探索和应用》一文会针对性地介绍外卖套餐搭配技术的迭代以及应用实践。希望对从事相关工作的同学能够带来一些启发或者帮助。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2021/05/27/food-knowledge-graph.html">阅读全文</a>]]></content>
     </entry>
 </feed>
