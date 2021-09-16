@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kkyeer.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-09-15T17:40:50.394Z</updated>
+    <updated>2021-09-16T17:41:13.398Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[如何优雅地记录操作日志？ (美团技术博客)]]></title>
+        <id>https://tech.meituan.com/2021/09/16/operational-logbook.html</id>
+        <link href="https://tech.meituan.com/2021/09/16/operational-logbook.html"/>
+        <updated>2021-09-16T17:41:07.014Z</updated>
+        <content type="html"><![CDATA[操作日志广泛存在于各个B端和一些C端系统中，比如：客服可以根据工单的操作日志快速知道哪些人对这个工单做了哪些操作，进而快速地定位问题。操作日志和系统日志不一样，操作日志必须要做到简单易懂。所以如何让操作日志不和业务逻辑耦合，如何让操作日志的内容易于理解，让操作日志的接入更加简单？上面这些都是本文要回答的问题，主要围绕着如何“优雅”地记录操作日志展开描述。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2021/09/16/operational-logbook.html">阅读全文</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新一代CTR预测服务的GPU优化实践 (美团技术博客)]]></title>
         <id>https://tech.meituan.com/2021/09/09/ctr-gpu-practice.html</id>
@@ -155,14 +163,6 @@
         <updated>2021-08-02T13:42:05.726Z</updated>
         <content type="html"><![CDATA[外卖菜品命名个性化程度高，为运营分析、召回排序、后台管理等业务带来一定的困难。本文系外卖美食知识图谱系列的第二篇文章，介绍了外卖从零到一建设菜品标准化体系的过程及方案，涉及的主要技术包括NLP领域的实体抽取、文本匹配、关系分类，以及CV领域的图像匹配等。最后，通过标准名在外卖业务中的应用实践，验证了标准名体系建设的价值和意义。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2021/05/27/food-name-standardization.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[外卖套餐搭配的探索和应用 (美团技术博客)]]></title>
-        <id>https://tech.meituan.com/2021/05/27/set-meal-recommendation.html</id>
-        <link href="https://tech.meituan.com/2021/05/27/set-meal-recommendation.html"/>
-        <updated>2021-08-02T13:42:05.729Z</updated>
-        <content type="html"><![CDATA[本文系外卖美食知识图谱系列的第三篇文章，从技术层面我们会介绍外卖套餐搭配的技术方案，包括离线、实时的套餐搭配的迭代，套餐质量评估方案，同时会介绍套餐搭配的业务应用。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2021/05/27/set-meal-recommendation.html">阅读全文</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[有赞保险业务的分析与架构设计 (有赞技术团队)]]></title>
