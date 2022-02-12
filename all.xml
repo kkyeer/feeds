@@ -2,8 +2,152 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kkyeer.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-01T17:42:47.689Z</updated>
+    <updated>2022-02-12T09:41:23.708Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[美团技术年货：1200+页电子书，覆盖前后端、算法、数据、安全、测试、顶会论文 (美团技术博客)]]></title>
+        <id>https://tech.meituan.com/2022/01/20/2022-happy-new-year.html</id>
+        <link href="https://tech.meituan.com/2022/01/20/2022-happy-new-year.html"/>
+        <updated>2022-02-12T09:41:07.591Z</updated>
+        <content type="html"><![CDATA[在2022年春节到来之际，我们精选过去一年公众号50多篇技术文章以及20多篇国际顶会论文，整理制作成一本厚达1200多页的电子书，作为新年礼物赠送给大家。这本电子书内容覆盖前端、后端、算法、数据、安全、测试等多个领域，希望能对同学们的工作和学习有所帮助。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2022/01/20/2022-happy-new-year.html">阅读全文</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DSTC10开放领域对话评估比赛冠军方法总结 (美团技术博客)]]></title>
+        <id>https://tech.meituan.com/2022/01/13/dstc10.html</id>
+        <link href="https://tech.meituan.com/2022/01/13/dstc10.html"/>
+        <updated>2022-02-12T09:41:07.591Z</updated>
+        <content type="html"><![CDATA[本文介绍了国际竞赛DSTC10开放领域对话评估赛道的冠军方法MME-CRS，该方法设计了多种评估指标，并利用相关性重归一化算法来集成不同指标的打分，为对话评估领域设计更有效的评估指标提供了参考。相关方法已同步发表在AAAI 2022 Workshop上。希望能给从事该技术领域工作的同学一些启发或帮助。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2022/01/13/dstc10.html">阅读全文</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从0到1：美团端侧CDN容灾解决方案 (美团技术博客)]]></title>
+        <id>https://tech.meituan.com/2022/01/13/phoenix-cdn.html</id>
+        <link href="https://tech.meituan.com/2022/01/13/phoenix-cdn.html"/>
+        <updated>2022-02-12T09:41:07.591Z</updated>
+        <content type="html"><![CDATA[CDN已经成为互联网重要的基建之一，越来越多的网络服务离不开CDN，它的稳定性也直接影响到业务的可用性。CDN的容灾一直由美团的SRE团队在负责，在端侧鲜有方案和实践。本文结合美团外卖业务中的具体实践，介绍了一种在端侧感知CDN可用性状况并进行自动容灾切换的方案，通过该方案可有效降低业务对CDN异常的敏感，提高业务的可用性，同时降低CDN运维压力。希望本方案能够对被CDN问题所困扰的同学有所帮助或者启发。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2022/01/13/phoenix-cdn.html">阅读全文</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7次KDD Cup&Kaggle冠军的经验分享：从多领域优化到AutoML框架 (美团技术博客)]]></title>
+        <id>https://tech.meituan.com/2022/01/06/7-kdd-cup-kaggle-automl.html</id>
+        <link href="https://tech.meituan.com/2022/01/06/7-kdd-cup-kaggle-automl.html"/>
+        <updated>2022-02-12T09:41:07.591Z</updated>
+        <content type="html"><![CDATA[反馈快速，竞争激烈的算法比赛是算法从业者提升技术水平的重要方式，从若干行业核心问题抽象出的算法比赛具有很强的实际意义。本文结合笔者在7次Kaggle/KDD Cup中的冠军经验，对于多领域建模优化，AutoML技术框架，以及面对新问题如何分析建模三个方面进行了介绍。希望能够让读者收获比赛中的通用高效建模方法与问题理解思路。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2022/01/06/7-kdd-cup-kaggle-automl.html">阅读全文</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021年美团技术团队最受欢迎的22篇技术文章 (美团技术博客)]]></title>
+        <id>https://tech.meituan.com/2022/01/01/2021-summary.html</id>
+        <link href="https://tech.meituan.com/2022/01/01/2021-summary.html"/>
+        <updated>2022-02-12T09:41:07.595Z</updated>
+        <content type="html"><![CDATA[「美团技术团队」微信公众号祝大家新年快乐！温故而知新，我们根据文章的「阅读量」和「在看」数，以及所覆盖的技术领域，精选了22篇技术文章作为新年礼物送给大家。希望在2022年，继续陪大家一起，静心苦练，砥砺向前。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2022/01/01/2021-summary.html">阅读全文</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FlutterWeb性能优化探索与实践 (美团技术博客)]]></title>
+        <id>https://tech.meituan.com/2021/12/16/flutterweb-practice-in-meituan-waimai.html</id>
+        <link href="https://tech.meituan.com/2021/12/16/flutterweb-practice-in-meituan-waimai.html"/>
+        <updated>2022-02-12T09:41:07.597Z</updated>
+        <content type="html"><![CDATA[美团外卖商家端基于 FlutterWeb 的技术探索已久，目前在多个业务中落地了App、PC、H5的多端复用，有效提升了产研的整体效率。在这过程中，性能问题是我们面临的最大挑战，本文结合实际业务场景进行思考，介绍美团外卖商家端在 FlutterWeb 性能优化上所进行的探索和实践，希望对大家能有所帮助或启发。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2021/12/16/flutterweb-practice-in-meituan-waimai.html">阅读全文</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TensorFlow在推荐系统中的分布式训练优化实践 (美团技术博客)]]></title>
+        <id>https://tech.meituan.com/2021/12/09/meituan-tensorflow-in-recommender-systems.html</id>
+        <link href="https://tech.meituan.com/2021/12/09/meituan-tensorflow-in-recommender-systems.html"/>
+        <updated>2022-02-12T09:41:07.597Z</updated>
+        <content type="html"><![CDATA[美团内部深度定制的TensorFlow版本，基于原生TensorFlow 1.x架构与接口，从大规模稀疏参数的支持、训练模式、分布式通信优化、流水线优化、算子优化融合等多维度进行了深度优化。在推荐系统场景，分布式扩展性提升10倍以上，单位算力性能也有显著提升，并在美团内部业务中大量使用，本文介绍了相关的优化与实践工作。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2021/12/09/meituan-tensorflow-in-recommender-systems.html">阅读全文</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[细粒度情感分析在到餐场景中的应用 (美团技术博客)]]></title>
+        <id>https://tech.meituan.com/2021/12/09/meituan-aspect-based-sentiment-analysis-daodian.html</id>
+        <link href="https://tech.meituan.com/2021/12/09/meituan-aspect-based-sentiment-analysis-daodian.html"/>
+        <updated>2022-02-12T09:41:07.597Z</updated>
+        <content type="html"><![CDATA[经典的细粒度情感分析（ABSA，Aspect-based Sentiment Analysis）主要包含三个子任务，分别为属性抽取、观点抽取以及属性-观点对的情感倾向判定三个级联任务。本文介绍了美团到店到餐应用算法团队通过结合学界最先进的阅读理解、注意力机制等方面的实体抽取、情感分析经验，解决到餐（菜品，属性，观点，情感）四元组抽取问题，并在多个业务场景应用落地，希望能对从事相关工作的同学有所帮助或启发。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2021/12/09/meituan-aspect-based-sentiment-analysis-daodian.html">阅读全文</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美团外卖终端容器无关化研发框架 (美团技术博客)]]></title>
+        <id>https://tech.meituan.com/2021/12/02/meituan-waimai-containerless-framework.html</id>
+        <link href="https://tech.meituan.com/2021/12/02/meituan-waimai-containerless-framework.html"/>
+        <updated>2022-02-12T09:41:07.600Z</updated>
+        <content type="html"><![CDATA[2019年9月，美团外卖技术团队联合多个研发部门正式推出了React2X，面向所有的前端研发人员，特别是按业务领域划分的团队，为大家提供一个完整的、开放的多终端容器无关化（Containerless）研发框架。研发同学可以通过React2X框架快速创建、开发、构建、部署项目，在人力消耗最小的前提下，以期在不同终端上达到相对最佳的性能体验，并且能大幅降低因容器升级带来的替换和改造成本，让代码同构的复用率最大化。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2021/12/02/meituan-waimai-containerless-framework.html">阅读全文</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[预训练技术在美团到店搜索广告中的应用 (美团技术博客)]]></title>
+        <id>https://tech.meituan.com/2021/12/02/application-of-pre-training-technology-in-meituan-search-ads.html</id>
+        <link href="https://tech.meituan.com/2021/12/02/application-of-pre-training-technology-in-meituan-search-ads.html"/>
+        <updated>2022-02-12T09:41:07.610Z</updated>
+        <content type="html"><![CDATA[搜索广告在优化流量变现效率等商业指标之外，也需要重点优化用户体验，降低不相关广告对用户体验的损害，这样才能保证平台生态的健康发展。本文对预训练技术在广告相关性的落地方案进行了介绍，既包括训练样本上的数据增强、预训练及微调阶段的BERT模型优化等算法探索层面的工作，也包括知识蒸馏、相关性服务链路优化等实践经验。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2021/12/02/application-of-pre-training-technology-in-meituan-search-ads.html">阅读全文</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fairplay DRM与混淆实现的研究 (美团技术博客)]]></title>
+        <id>https://tech.meituan.com/2021/11/25/fairplay-drm.html</id>
+        <link href="https://tech.meituan.com/2021/11/25/fairplay-drm.html"/>
+        <updated>2022-02-12T09:41:07.610Z</updated>
+        <content type="html"><![CDATA[研究Fairplay DRM（Digital Rights Management，即数字版权保护）最关键的两点是授权和加密。但长久以来，关于App DRM的研究却很少，而就是在这样的前提下，Fairplay DRM又为iOS App的安全研究叠加了一层“阻碍”。我们通过分析混淆系统的设计和实现过程中的问题，克服调试跟踪的障碍，设计了多种静态和动态的对抗方案；同时通过大量的逆向工程，填补了安全研究人员对macOS系统机制中，关于Fairplay这一部分的认知空白。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2021/11/25/fairplay-drm.html">阅读全文</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美团跨端一体化富文本管理技术实践 (美团技术博客)]]></title>
+        <id>https://tech.meituan.com/2021/11/25/page-webide-thrift.html</id>
+        <link href="https://tech.meituan.com/2021/11/25/page-webide-thrift.html"/>
+        <updated>2022-02-12T09:41:07.610Z</updated>
+        <content type="html"><![CDATA[在互联网圈，开发和产品经理之间相爱相杀的故事，相信大家都有所耳闻。为了减少产品和前端开发人员之间的矛盾，不断降本提效，美团医药技术部构建了跨端一体化富文本管理平台Page-佩奇。本文系统介绍了该平台的定位、设计思路、实现原理以及取得的成效。希望这些实战经验与总结，能给大家带来一些启发或帮助。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2021/11/25/page-webide-thrift.html">阅读全文</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美团搜索多业务商品排序探索与实践 (美团技术博客)]]></title>
+        <id>https://tech.meituan.com/2021/11/19/exploration-and-practice-of-multi-business-commodities-ranking-in-meituan-search.html</id>
+        <link href="https://tech.meituan.com/2021/11/19/exploration-and-practice-of-multi-business-commodities-ranking-in-meituan-search.html"/>
+        <updated>2022-02-12T09:41:07.611Z</updated>
+        <content type="html"><![CDATA[首页搜索是美团 App 上十分重要的模块，每天服务于数千万用户。随着美团零售商品类业务的不断发展，美团搜索在商品类业务上的相关技术也在不断迭代，排序模块作为整个搜索系统的重要组成部分，极大地影响着用户最终的搜索体验。本文介绍了美团搜索在商品多业务排序上相关的探索以及实践，希望能对从事相关工作的同学有所帮助或者启发。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2021/11/19/exploration-and-practice-of-multi-business-commodities-ranking-in-meituan-search.html">阅读全文</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美团知识图谱问答技术实践与探索 (美团技术博客)]]></title>
+        <id>https://tech.meituan.com/2021/11/03/knowledge-based-question-answering-in-meituan.html</id>
+        <link href="https://tech.meituan.com/2021/11/03/knowledge-based-question-answering-in-meituan.html"/>
+        <updated>2022-02-12T09:41:07.614Z</updated>
+        <content type="html"><![CDATA[知识图谱问答（Knowledge-based Question Answering, KBQA）是指给定自然语言问题，通过对问题进行语义理解和解析，进而利用知识库进行查询、推理得出答案。美团在平台服务的售前、售中、售后全链路的多个场景中都存在大量的咨询问题。我们基于问答系统，以自动智能回复或推荐回复的方式，来帮助商家提升回答用户问题的效率，同时更快地解决用户问题。本文结合KBQA在美团场景中的具体实践，以及发表在EMNLP 2021上的论文，介绍了KBQA系统整体设计、难点突破以及端到端问答的探索，希望能对从事相关研究的同学有所帮助或者启发。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2021/11/03/knowledge-based-question-answering-in-meituan.html">阅读全文</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美团基于知识图谱的剧本杀标准化建设与应用 (美团技术博客)]]></title>
+        <id>https://tech.meituan.com/2021/10/28/standardization-of-larp-games-based-on-knowledge-graph.html</id>
+        <link href="https://tech.meituan.com/2021/10/28/standardization-of-larp-games-based-on-knowledge-graph.html"/>
+        <updated>2022-02-12T09:41:07.614Z</updated>
+        <content type="html"><![CDATA[剧本杀作为爆发式增长的新兴业务，在商家上单、用户选购、供需匹配等方面存在不足，供给标准化能为用户、商家、平台三方创造价值，助力业务增长。本文介绍了美团到店综合业务数据团队从0到1快速建设剧本杀供给标准化的过程及算法方案。我们将美团到店综合知识图谱（GENE，GEneral NEeds net）覆盖至剧本杀行业，构建剧本杀知识图谱，实现供给标准化建设，包括剧本杀供给挖掘、标准剧本库构建、供给与标准剧本关联等环节，并在多个场景进行应用落地，希望给大家带来一些帮助或启发。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2021/10/28/standardization-of-larp-games-based-on-knowledge-graph.html">阅读全文</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[情感分析技术在美团的探索与应用 (美团技术博客)]]></title>
+        <id>https://tech.meituan.com/2021/10/20/the-applications-of-sentiment-analysis-meituan.html</id>
+        <link href="https://tech.meituan.com/2021/10/20/the-applications-of-sentiment-analysis-meituan.html"/>
+        <updated>2022-02-12T09:41:07.614Z</updated>
+        <content type="html"><![CDATA[2021年5月，美团NLP中心开源了迄今规模最大的基于真实场景的中文属性级情感分析数据集ASAP，该数据集相关论文被自然语言处理顶会NAACL2021录用，同时该数据集加入中文开源数据计划千言，将与其他开源数据集一起推动中文信息处理技术的进步。本文回顾了美团情感分析技术的演进和在典型业务场景中的应用，包括篇章/句子级情感分析、属性级情感分析和观点三元组分析。在业务应用上，依托情感分析技术能力构建了在线实时预测服务和离线批量预测服务。截至目前，情感分析服务已经为美团内部十多个业务场景提供了服务。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2021/10/20/the-applications-of-sentiment-analysis-meituan.html">阅读全文</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[广告深度预估技术在美团到店场景下的突破与畅想 (美团技术博客)]]></title>
+        <id>https://tech.meituan.com/2021/10/14/breakthrough-and-prospect-of-deep-ctr-prediction-in-meituan-ads.html</id>
+        <link href="https://tech.meituan.com/2021/10/14/breakthrough-and-prospect-of-deep-ctr-prediction-in-meituan-ads.html"/>
+        <updated>2022-02-12T09:41:07.614Z</updated>
+        <content type="html"><![CDATA[后深度学习时代下，技术迭代全面进入深水区，以提升模型复杂度为主体的广告预估模型优化已经不再奏效。美团到店广告质量预估团队紧密结合业务特点，发挥深度模型结构灵活多变的优势，实现了进一步破局。本文先介绍了美团业务的LBS空间距离约束和长周期性两大挑战，然后介绍了上下文、用户、广告、训练方式四个维度的应对方案，具体如下四个技术突破：a.基于位次组合的上下文偏差感知预估；b.基于时空依赖的超长序列建模；c.广告候选动态化；d.灾难遗忘与持续学习，带动线上指标显著提升的同时，整理为论文发表在SIGIR、CIKM等国际顶级会议。最后，基于新一轮理解，提出推理量级动态化、评估指标差异化等预估技术新趋势。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2021/10/14/breakthrough-and-prospect-of-deep-ctr-prediction-in-meituan-ads.html">阅读全文</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美团智能客服核心技术与实践 (美团技术博客)]]></title>
+        <id>https://tech.meituan.com/2021/09/30/artificial-intelligence-customer-service.html</id>
+        <link href="https://tech.meituan.com/2021/09/30/artificial-intelligence-customer-service.html"/>
+        <updated>2022-02-12T09:41:07.614Z</updated>
+        <content type="html"><![CDATA[客服是在用户服务体验不完美的情况下，尽可能帮助体验顺畅进行下去的一种解决办法，是问题发生后的一种兜底方案。而智能客服能让大部分简单的问题得以快速自助解决，让复杂问题有机会被人工高效解决。在用户服务的全旅程中，美团平台/搜索与NLP部提供了问题推荐、问题理解、对话管理、答案供给、话术推荐和会话摘要等六大智能客服核心能力，以期达到低成本、高效率、高质量地与用户进行沟通的目的。本文主要介绍了美团智能客服核心技术以及在美团的实践，希望能给从事相关工作的同学带来一些启发或者帮助。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2021/09/30/artificial-intelligence-customer-service.html">阅读全文</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何优雅地记录操作日志？ (美团技术博客)]]></title>
         <id>https://tech.meituan.com/2021/09/16/operational-logbook.html</id>
@@ -21,182 +165,38 @@
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2021/09/09/ctr-gpu-practice.html">阅读全文</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[美团商品知识图谱的构建及应用 (美团技术博客)]]></title>
-        <id>https://tech.meituan.com/2021/09/02/meituan-commodity-nlp-practice.html</id>
-        <link href="https://tech.meituan.com/2021/09/02/meituan-commodity-nlp-practice.html"/>
-        <updated>2021-09-02T17:43:53.566Z</updated>
-        <content type="html"><![CDATA[商品知识图谱作为新零售行业数字化的基石，提供了围绕商品的精准结构化理解，对业务应用起到了至关重要的作用。相比于美团大脑中原有的围绕商户的图谱而言，商品图谱需应对更加分散、复杂、海量的数据和业务场景，且面临着信息来源质量低、数据维度多、依赖常识以及专业知识等挑战。本文将围绕零售商品知识图谱，介绍美团在商品层级建设、属性体系建设、图谱建设人效提升等方向的探索，希望对大家有所帮助或启发。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2021/09/02/meituan-commodity-nlp-practice.html">阅读全文</a>]]></content>
+        <title type="html"><![CDATA[逻辑表在OLAP场景下的应用与实现 (有赞技术团队)]]></title>
+        <id>https://tech.youzan.com/luo-ji-biao-zai-olapchang-jing-xia-de-ying-yong-yu-shi-xian/</id>
+        <link href="https://tech.youzan.com/luo-ji-biao-zai-olapchang-jing-xia-de-ying-yong-yu-shi-xian/"/>
+        <updated>2022-02-12T09:41:23.079Z</updated>
+        <content type="html"><![CDATA[一.背景 数据中心为微商城和零售的商家后台分别建立了一套数据模型、 数据服务， 在此基础上分别建立了一套数据分析的产品体系，随着微商城和零售慢慢往连锁版本融合并伴随着新业务接入，目前的开发模式遇到了以下痛点： 两套数据服务有很多相同之处，重复烟囱式的开发，造成了人力资源浪费，而且开发效率低，从数据开发到最终交付数据服务，需要经历较长的周期；   两套数据模型在指标上存在大量重合，相同的指标的重复开发，增加了开发和维护成本，且存在口径不一致的风险，导致众多线上咨询，损害了商家对数据可靠性的信任。 基于上述痛点，数据应用团队搭建了统一的数据模型和数据服务。本文将介绍在搭建统一数据模型的过程中遇到的问题并给出相应的解决方案。 二.统一数据模型实现 上层的数据分析模型会在某个主题下，…]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[美团外卖实时数仓建设实践 (美团技术博客)]]></title>
-        <id>https://tech.meituan.com/2021/08/26/data-warehouse-in-meituan-waimai.html</id>
-        <link href="https://tech.meituan.com/2021/08/26/data-warehouse-in-meituan-waimai.html"/>
-        <updated>2021-08-27T05:36:05.091Z</updated>
-        <content type="html"><![CDATA[本文主要介绍一种通用的实时数仓构建的方法与实践。实时数仓以端到端低延迟、SQL标准化、快速响应变化、数据统一为目标。美团外卖数据智能组总结的最佳实践是：一个通用的实时生产平台跟一个通用交互式实时分析引擎相互配合，同时满足实时和准实时业务场景。两者合理分工，互相补充，形成易开发、易维护且效率高的流水线，兼顾开发效率与生产成本，以较好的投入产出比满足业务的多样性需求。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2021/08/26/data-warehouse-in-meituan-waimai.html">阅读全文</a>]]></content>
+        <title type="html"><![CDATA[效能指标「研发浓度」在项目度量中的应用 (有赞技术团队)]]></title>
+        <id>https://tech.youzan.com/development-density-index/</id>
+        <link href="https://tech.youzan.com/development-density-index/"/>
+        <updated>2022-02-12T09:41:23.081Z</updated>
+        <content type="html"><![CDATA[文 | 费解 on 效能改进 1. 背景 在研发管理领域，业界一直在试图寻找可以衡量研发交付效率的指标。常见的指标有：吞吐率（多）、研发周期（快）、资源利用率（省）。然而，在实践中，我们发现，上述三项无法直接作为指导改进的北极星指标： 1）吞吐率，在一段时间内交付项目的个数，是产品需求方关注的指标。若项目未交付，则不落入统计，…]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[小样本学习及其在美团场景中的应用 (美团技术博客)]]></title>
-        <id>https://tech.meituan.com/2021/08/19/low-resource-learning.html</id>
-        <link href="https://tech.meituan.com/2021/08/19/low-resource-learning.html"/>
-        <updated>2021-08-20T05:35:56.276Z</updated>
-        <content type="html"><![CDATA[美团的各个业务有着丰富的NLP场景，而这些场景中模型的构建需要很多的标注资源，成本很高。小样本学习致力于在数据资源稀少的情况下训练出比较好的模型。本文从主动学习、数据增强、半监督学习、领域迁移、集成学习&amp;自训练几个方向介绍了现有的一些方法，并在美团场景进行了实验，效果上也取得了一定的提升。希望能对从事相关研究的同学有所帮助或者启发。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2021/08/19/low-resource-learning.html">阅读全文</a>]]></content>
+        <title type="html"><![CDATA[数据测试方法 (有赞技术团队)]]></title>
+        <id>https://tech.youzan.com/shu-ju-ce-shi-fang-fa/</id>
+        <link href="https://tech.youzan.com/shu-ju-ce-shi-fang-fa/"/>
+        <updated>2022-02-12T09:41:23.087Z</updated>
+        <content type="html"><![CDATA[有赞数据报表中心为商家提供了丰富的数据指标，包括30+页面，100+数据报表以及400+不同类型的数据指标，它们帮助商家更合理、科学地运营店铺，同时也直接提供分析决策方法供商家使用。并且，每天在跑的底层任务和涉及的数据表已经达到千级别。面对如此庞大的数据体系，作为测试如何制定质量保障策略呢？这篇文章将从：1、有赞数据链路 2、数据层测试 3、应用层测试 4、后续规划四个方面展开 一、有赞数据链路 1、…]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[KDD 2021｜美团联合多高校提出多任务学习模型，已应用于联名卡获客场景 (美团技术博客)]]></title>
-        <id>https://tech.meituan.com/2021/08/12/kdd-2021-aitm.html</id>
-        <link href="https://tech.meituan.com/2021/08/12/kdd-2021-aitm.html"/>
-        <updated>2021-08-13T17:42:01.067Z</updated>
-        <content type="html"><![CDATA[很多应用通常都需要用定向展示广告来进行获客，对信用卡广告来说，由于用户转化存在较长的链路，持续有效的获客比传统广告更具挑战性。本文结合美团联名信用卡业务中的具体实践，以及今年发表在KDD 2021上的论文，介绍了一种自适应信息迁移多任务（AITM）框架，通过该框架可建模用户多步转化之间的序列依赖关系，并提高端到端获客转化率。希望能对从事相关研究的同学有所帮助或者启发。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2021/08/12/kdd-2021-aitm.html">阅读全文</a>]]></content>
+        <title type="html"><![CDATA[Redis源码解析 (有赞技术团队)]]></title>
+        <id>https://tech.youzan.com/redisyuan-ma-jie-xi/</id>
+        <link href="https://tech.youzan.com/redisyuan-ma-jie-xi/"/>
+        <updated>2022-02-12T09:41:23.087Z</updated>
+        <content type="html"><![CDATA[一、引言 作为后端开发，redis是工作中最绕不开的中间件之一，在工作中通常有以下几个常用用途 1.缓存，可以抗十万级别的qps  2.计数器，如点赞数，pv等  3.分布式锁  4.限流 另外丰富的redis数据类型支持了一些扩展功能，如排行榜，消息队列，布隆过滤器，位图等等。而redis的底层实现是十分简单的，核心源码也仅有几万行。本文就带大家来领略，小小的redis是如何实现这些复杂功能的~…]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Spock单元测试框架介绍以及在美团优选的实践 (美团技术博客)]]></title>
-        <id>https://tech.meituan.com/2021/08/06/spock-practice-in-meituan.html</id>
-        <link href="https://tech.meituan.com/2021/08/06/spock-practice-in-meituan.html"/>
-        <updated>2021-08-13T17:42:01.067Z</updated>
-        <content type="html"><![CDATA[Spock是一款国外优秀的测试框架，基于BDD（行为驱动开发）思想实现，功能非常强大。Spock结合Groovy动态语言的特点，提供了各种标签，并采用简单、通用、结构化的描述语言，让编写测试代码更加简洁、高效。目前，美团优选物流绝大部分后端服务已经采用了Spock作为测试框架，在开发效率、可读性和维护性方面均取得了不错的收益。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2021/08/06/spock-practice-in-meituan.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ACL 2021 | 一文详解美团技术团队7篇精选论文 (美团技术博客)]]></title>
-        <id>https://tech.meituan.com/2021/08/05/acl-2021-meituan-07-papers.html</id>
-        <link href="https://tech.meituan.com/2021/08/05/acl-2021-meituan-07-papers.html"/>
-        <updated>2021-08-05T17:43:00.900Z</updated>
-        <content type="html"><![CDATA[ACL是计算语言学和自然语言处理领域最重要的顶级国际会议，该会议由国际计算语言学协会组织，每年举办一次。据谷歌学术计算语言学刊物指标显示，ACL影响力位列第一，是CCF-A类推荐会议。美团技术团队共有7篇论文（其中6篇长文，1篇短文）被ACL 2021接收，这些论文是美团技术团队在事件抽取、实体识别、意图识别、新槽位发现、无监督句子表示、语义解析、文档检索等自然语言处理任务上的一些前沿探索及应用。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2021/08/05/acl-2021-meituan-07-papers.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美团App页面视图可测性改造实践 (美团技术博客)]]></title>
-        <id>https://tech.meituan.com/2021/07/28/app-xraysdk.html</id>
-        <link href="https://tech.meituan.com/2021/07/28/app-xraysdk.html"/>
-        <updated>2021-08-02T13:42:05.720Z</updated>
-        <content type="html"><![CDATA[一次编写多处运行的动态化容器技术给研发效率带来了极大的提升，但对于依旧需要多端验证的测试流程来说，在效率层面却面临着极大的挑战。本文围绕动态化容器中的动态布局技术，阐述了如何通过可测性改造来帮助达成提升测试效率的目标。希望可以给同样需要测试动态化页面的同学们带来一些启发和帮助。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2021/07/28/app-xraysdk.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美团终端消息投递服务Pike的演进之路 (美团技术博客)]]></title>
-        <id>https://tech.meituan.com/2021/07/22/pike-2.0.html</id>
-        <link href="https://tech.meituan.com/2021/07/22/pike-2.0.html"/>
-        <updated>2021-08-02T13:42:05.720Z</updated>
-        <content type="html"><![CDATA[Pike 2.0致力于为美团提供一套易接入、高可靠、高性能的双向消息投递服务。本文首先从系统架构升级、工作模式升级、长稳保活机制升级等方面介绍了Pike2.0的技术演进，然后介绍了Pike 2.0在直播、游戏等新业务场景下的特性支持。希望本文能给对消息投递服务感兴趣或者从事相关工作的读者一些帮助和启发。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2021/07/22/pike-2.0.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本地生活综合性需求图谱的构建及应用 (美团技术博客)]]></title>
-        <id>https://tech.meituan.com/2021/07/15/construction-and-application-of-lifestyle-general-needs-net.html</id>
-        <link href="https://tech.meituan.com/2021/07/15/construction-and-application-of-lifestyle-general-needs-net.html"/>
-        <updated>2021-08-02T13:42:05.720Z</updated>
-        <content type="html"><![CDATA[本地生活综合性需求图谱（GENE: lifestyle GEneral NEeds net），是从用户需求视角出发，深入挖掘本地生活场景下用户多样化的需求，并将其与多行业、多类型的供给形成关联的知识图谱，旨在提升平台供需匹配效率，助力业务增长。本文介绍了本地生活综合性需求图谱的背景、体系设计和涉及的算法实践，并展示了在美团多个业务线的应用落地，希望给大家带来一些帮助或启发。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2021/07/15/construction-and-application-of-lifestyle-general-needs-net.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[多业务建模在美团搜索排序中的实践 (美团技术博客)]]></title>
-        <id>https://tech.meituan.com/2021/07/08/multi-business-modeling.html</id>
-        <link href="https://tech.meituan.com/2021/07/08/multi-business-modeling.html"/>
-        <updated>2021-08-02T13:42:05.720Z</updated>
-        <content type="html"><![CDATA[美团搜索排序是一个典型的多业务混合排序建模问题，这种多业务场景搜索存在很多挑战，本文聚焦于到店商家多业务场景，进行了多业务排序建模优化工作。希望能对从事相关工作的同学有所启发或者帮助。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2021/07/08/multi-business-modeling.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[常识性概念图谱建设以及在美团场景中的应用 (美团技术博客)]]></title>
-        <id>https://tech.meituan.com/2021/06/24/nature-language-process-nlp-knowledge-graph.html</id>
-        <link href="https://tech.meituan.com/2021/06/24/nature-language-process-nlp-knowledge-graph.html"/>
-        <updated>2021-08-02T13:42:05.720Z</updated>
-        <content type="html"><![CDATA[常识性概念图谱，是围绕常识性概念建立的实体以及实体之间的关系，同时侧重美团的场景构建的一类知识图谱。本文介绍了美团常识性概念图谱构建的Schema，图谱建设中遇到的挑战以及建设过程中的算法实践，最后介绍了一些目前常识性概念图谱在业务上的应用。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2021/06/24/nature-language-process-nlp-knowledge-graph.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美团外卖广告智能算力的探索与实践 (美团技术博客)]]></title>
-        <id>https://tech.meituan.com/2021/06/17/waimai-ai-advertisement.html</id>
-        <link href="https://tech.meituan.com/2021/06/17/waimai-ai-advertisement.html"/>
-        <updated>2021-08-02T13:42:05.720Z</updated>
-        <content type="html"><![CDATA[在深度学习时代，算力的需求和消耗日益增长，如何降低算力成本，提高算力效率，逐渐成为一个重要的新课题。智能算力旨在对算力进行精细化和个性化分配，实现最优化资源利用。本文主要分享美团外卖广告在智能算力探索和实践过程中积累的经验，希望能给大家带来一些帮助或者启发。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2021/06/17/waimai-ai-advertisement.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SIGIR 2021 | 广告系统位置偏差的CTR模型优化方案 (美团技术博客)]]></title>
-        <id>https://tech.meituan.com/2021/06/10/deep-position-wise-interaction-network-for-ctr-prediction.html</id>
-        <link href="https://tech.meituan.com/2021/06/10/deep-position-wise-interaction-network-for-ctr-prediction.html"/>
-        <updated>2021-08-02T13:42:05.721Z</updated>
-        <content type="html"><![CDATA[美团到店广告平台算法团队基于多年来在广告领域上积累的经验，一直在数据偏差等业界挑战性问题不断进行深入优化与算法创新。在之前分享的《KDD Cup 2020 Debiasing比赛冠军技术方案与广告业务应用》一文[4]中，团队分享了在KDD Cup比赛中取得冠军的选择性偏差以及流行度偏差的解决方案，同时也分享了在广告业务上偏差优化的技术框架。 本文基于这一技术框架进行继续介绍，聚焦于位置偏差问题的最新进展，并详细地介绍团队在美团广告取得显著业务效果的位置偏差CTR模型优化方案，以该方案为基础形成的论文《Deep Position-wise Interaction Network for CTR Prediction》也被国际顶级会议SIGIR 2021录用。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2021/06/10/deep-position-wise-interaction-network-for-ctr-prediction.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美团民宿跨端复用框架设计与实践 (美团技术博客)]]></title>
-        <id>https://tech.meituan.com/2021/06/10/react-native-hybrid-practice-dsl-in-meituan.html</id>
-        <link href="https://tech.meituan.com/2021/06/10/react-native-hybrid-practice-dsl-in-meituan.html"/>
-        <updated>2021-08-02T13:42:05.722Z</updated>
-        <content type="html"><![CDATA[从 PC 时代、移动时代到万物互联的 IoT 时代，伴随终端设备的日趋多样化，跨端复用的种子自此落地，开始生根发芽。从业务角度出发，跨端技术演进更多是在不同阶段、不同时间段内业务效率上的选择，美团民宿业务在大前端融合的浪潮中逐浪前行，不断探索和迭代抉择，为解决业务痛点而孵化出跨端框架技术，在这个过程中，我们进行了很多的探索和实践的思考，希望能给大家一些启发。本文主要分享美团民宿在跨端复用技术探索和业务实践过程中的经验。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2021/06/10/react-native-hybrid-practice-dsl-in-meituan.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ACL 2021｜美团提出基于对比学习的文本表示模型，效果相比BERT-flow提升8% (美团技术博客)]]></title>
-        <id>https://tech.meituan.com/2021/06/03/acl-2021-consert-bert.html</id>
-        <link href="https://tech.meituan.com/2021/06/03/acl-2021-consert-bert.html"/>
-        <updated>2021-08-02T13:42:05.724Z</updated>
-        <content type="html"><![CDATA[尽管基于BERT的模型在NLP诸多下游任务中取得了成功，直接从BERT导出的句向量表示往往被约束在一个很小的区域内，表现出很高的相似度，因而难以直接用于文本语义匹配。为解决BERT原生句子表示这种“坍缩”现象，美团NLP中心知识图谱团队提出了基于对比学习的句子表示迁移方法——ConSERT，通过在目标领域的无监督语料上Fine-tune，使模型生成的句子表示与下游任务的数据分布更加适配。在句子语义匹配（STS）任务的实验结果显示，同等设置下ConSERT相比此前的SOTA大幅提升了8%，并且在少样本场景下仍表现出较强的性能提升。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2021/06/03/acl-2021-consert-bert.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CVPR 2021 | 基于Transformer的端到端视频实例分割方法 (美团技术博客)]]></title>
-        <id>https://tech.meituan.com/2021/06/03/cvpr-transformer.html</id>
-        <link href="https://tech.meituan.com/2021/06/03/cvpr-transformer.html"/>
-        <updated>2021-08-02T13:42:05.725Z</updated>
-        <content type="html"><![CDATA[实例分割是计算机视觉中的基础问题之一。虽然静态图像中的实例分割已经有很多的研究，对视频的实例分割（Video Instance Segmentation，简称VIS）的研究却相对较少。而真实世界中的摄像头所接收的，无论自动驾驶背景下车辆实时感知的周围场景，还是网络媒体中的长短视频，大多数为视频流的信息而非纯图像信息。因而研究对视频建模的模型有着十分重要的意义，本文系美团无人配送团队在CVPR 2021发表的一篇论文解读。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2021/06/03/cvpr-transformer.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021全国科技工作者日：致敬科技工作者 (美团技术博客)]]></title>
-        <id>https://tech.meituan.com/2021/05/30/2021-5-30.html</id>
-        <link href="https://tech.meituan.com/2021/05/30/2021-5-30.html"/>
-        <updated>2021-08-02T13:42:05.726Z</updated>
-        <content type="html"><![CDATA[你因科技而精彩，科技因你而腾飞。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2021/05/30/2021-5-30.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[外卖商品的标准化建设与应用 (美团技术博客)]]></title>
-        <id>https://tech.meituan.com/2021/05/27/food-name-standardization.html</id>
-        <link href="https://tech.meituan.com/2021/05/27/food-name-standardization.html"/>
-        <updated>2021-08-02T13:42:05.726Z</updated>
-        <content type="html"><![CDATA[外卖菜品命名个性化程度高，为运营分析、召回排序、后台管理等业务带来一定的困难。本文系外卖美食知识图谱系列的第二篇文章，介绍了外卖从零到一建设菜品标准化体系的过程及方案，涉及的主要技术包括NLP领域的实体抽取、文本匹配、关系分类，以及CV领域的图像匹配等。最后，通过标准名在外卖业务中的应用实践，验证了标准名体系建设的价值和意义。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2021/05/27/food-name-standardization.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有赞保险业务的分析与架构设计 (有赞技术团队)]]></title>
-        <id>https://tech.youzan.com/analysis_and_design_of_insurance_system/</id>
-        <link href="https://tech.youzan.com/analysis_and_design_of_insurance_system/"/>
-        <updated>2021-09-14T17:41:44.362Z</updated>
-        <content type="html"><![CDATA[1、背景 有赞微商城为商家提供了全行业全场景的电商解决方案，帮助商家在社交电商、直播电商等场景下快速布局。在整个交易流程中，对退货时运费减免的支持已成为了电商场景的标配。有赞也提供了 “退货包运费” 产品来满足消费者及商家在此场景下的诉求。 本文从“退货包运费”这个产品出发，分析保险业务的特征，介绍有赞保险业务系统的架构设计。 2、退货包运费及保险业务分析 在目前消费者权益保护法对消费者网购支持的大背景下，许多类目的商品都能支持七天无理由退货。由此也衍生出退货时物流运费支出的一些争议，给消费者和商家带来困扰。“退货包运费”产品的出现正是为电商业务解决在退货流程中这类问题，从而提升购物体验。 2.…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[浅谈有赞搜索质量保障体系 (有赞技术团队)]]></title>
-        <id>https://tech.youzan.com/qian-tan-sou-suo-zhi-liang-bao-zhang-ti-xi/</id>
-        <link href="https://tech.youzan.com/qian-tan-sou-suo-zhi-liang-bao-zhang-ti-xi/"/>
-        <updated>2021-09-14T17:41:44.370Z</updated>
-        <content type="html"><![CDATA[前言 有赞搜索中台的前身是ES中间件，并没有一个中台的概念，相应的就会有一个问题，业务接入搜索场景的时候还需要为此投入开发资源同步搜索设计，一个需求上线往往耗时很久，重复性工作较多，所以就有了后来的搜索中台的成立，将搜索完整链路的复杂性折叠成一个简单完整的搜索产品，让业务方直击搜索需求，无需费心搜索实现；在此前提下，如何针对搜索中台进行一个从0到1的完整的质量保障也是一个挑战，且中台面临的问题可能跟传统业务面临的不大一样，保障手段也需要更多样化。 一、搜索质量面临的问题及痛点 目前搜索业务架构如下图所示，笼统的说可以分两层，最上面一层协同网络效应层，也就是服务业务层，包括商品、交易、会员、营销、…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[千亿级公司低代码平台的测试体系介绍 (有赞技术团队)]]></title>
-        <id>https://tech.youzan.com/qian-yi-ji-gong-si-di-dai-ma-ping-tai-de-ce-shi-ti-xi-jie-shao/</id>
-        <link href="https://tech.youzan.com/qian-yi-ji-gong-si-di-dai-ma-ping-tai-de-ce-shi-ti-xi-jie-shao/"/>
-        <updated>2021-09-14T17:41:44.370Z</updated>
-        <content type="html"><![CDATA[一、有赞低代码平台-bos介绍 1.1、什么是低代码平台 &nbsp; &nbsp; &nbsp; &nbsp;低代码开发平台已经成为现在很多企业开发管理应用程序的重要工具，低代码平台的出现帮助企业降低了软件开发的成本，提高了软件开发的效率，越来越多的公司开始开发低代码平台，甚至基于低代码平台开始商业化，比如微软的Power Platform,Salesforce的Lightning，阿里的星环等，我在这里介绍一下有赞的低代码开发平台-BOS。 1.2、什么是BOS，解决什么问题 &nbsp; &nbsp; &nbsp; &nbsp; 商业操作系统（Business Operating System），商家的经营需要广告曝光，销售员，…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数据中心数据质量线上监控的实践 (有赞技术团队)]]></title>
-        <id>https://tech.youzan.com/shu-ju-zhong-xin-shu-ju-zhi-liang-xian-shang-jian-kong-de-shi-jian/</id>
-        <link href="https://tech.youzan.com/shu-ju-zhong-xin-shu-ju-zhi-liang-xian-shang-jian-kong-de-shi-jian/"/>
-        <updated>2021-09-14T17:41:44.371Z</updated>
-        <content type="html"><![CDATA[有赞数据报表中心为商家提供了多维度、多渠道、多周期的数据，帮助商家更合理、科学的运营店铺，同时也直接提供分析决策方法供商家使用。 多维度是指支持正逆向交易、商品、客户、流量、营销活动... 多渠道是指支持全渠道、H5、APP、小程序（微信、支付宝、百度...）... 多周期是指支持实时、自然日、自然周、自然月、近7天、近30天、季度、…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微信小程序自动化框架minium实践 (有赞技术团队)]]></title>
-        <id>https://tech.youzan.com/wei-xin-xiao-cheng-xu-zi-dong-hua-kuang-jia-shi-jian/</id>
-        <link href="https://tech.youzan.com/wei-xin-xiao-cheng-xu-zi-dong-hua-kuang-jia-shi-jian/"/>
-        <updated>2021-09-14T17:41:44.371Z</updated>
-        <content type="html"><![CDATA[一、背景需求 精选小程序发生了一次线上问题，测试阶段的小程序开发码测试ok，但是小程序正式码由于打包问题，"我的订单"页面文件打包失败，导致线上用户访问我的页面白屏。 当前并不能避免该打包问题，为了规避异常版本发布至线上，需要在预发、体验码发布、正式码发布等各阶段进行主流程回归。手动回归测试非常耗时，在发布前的各阶段，测试人员须重复执行大量测试用例，以确保本次上线功能OK且对其他功能无影响。 一遍又一遍执行相同的测试用例，不仅要花费更多的时间，而且还会降低整体测试效率，因此引入微信小程序自动化以解放重复人力。 二、调研 1.Jest+…]]></content>
+        <title type="html"><![CDATA[Java锁与线程的那些事 (有赞技术团队)]]></title>
+        <id>https://tech.youzan.com/javasuo-yu-xian-cheng-de-na-xie-shi/</id>
+        <link href="https://tech.youzan.com/javasuo-yu-xian-cheng-de-na-xie-shi/"/>
+        <updated>2022-02-12T09:41:23.090Z</updated>
+        <content type="html"><![CDATA[Java锁与线程的那些事  一.引言 引言：“操作系统的线程状态和java的线程状态有什么关系？”这是校招时被问到的一个问题。当时只顾着看博文、面经等零散的资料，没有形成系统的知识体系，一时语塞，答的不是很对。在网上也没找到足够细致的讲解博文，于是整理出了这篇内容。          Java的线程状态牵扯到了同步语义，要探讨Java的线程状态的，必不可免要回顾其锁机制。因此本文的主要分为两大块：一是Synchronized源码粗析，分析了各类锁的进入、释放、升级过程，并大致说明了monitor原理；二是介绍了线程的实现方式和Java线程状态转换的部分细节。 二. Synchronized锁…]]></content>
     </entry>
 </feed>
