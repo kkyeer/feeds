@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kkyeer.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-17T05:36:53.407Z</updated>
+    <updated>2022-02-17T17:38:54.061Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[美团技术年货：1200+页电子书，覆盖前后端、算法、数据、安全、测试、顶会论文 (美团技术博客)]]></title>
@@ -165,6 +165,13 @@
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2021/09/09/ctr-gpu-practice.html">阅读全文</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[「研发共建」提升中台效能初探 (有赞技术团队)]]></title>
+        <id>https://tech.youzan.com/open-source-mode-from-middle-platform/</id>
+        <link href="https://tech.youzan.com/open-source-mode-from-middle-platform/"/>
+        <updated>2022-02-17T17:38:53.427Z</updated>
+        <content type="html"><![CDATA[作者：徐钰菡 | 效能改进 一、背景 在互联网行业，大部分研发团队都会通过建设中台（有些公司叫平台），来提高系统的可复用性，降低重复功能的研发成本。随着有赞业务的快速发展，我们也逐渐走向了大中台道路，充分享受着中台所带来的红利，但与此同时，我们也陆陆续续遇到了不少问题，笔者希望借助本文，从效能改进的视角进行剖析，期待引发读者对「如何从组织层面协同中台」的思考和共鸣。 二、发现问题 有赞大大小小业务共有十几个（下称：业务域）…]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[逻辑表在OLAP场景下的应用与实现 (有赞技术团队)]]></title>
         <id>https://tech.youzan.com/luo-ji-biao-zai-olapchang-jing-xia-de-ying-yong-yu-shi-xian/</id>
         <link href="https://tech.youzan.com/luo-ji-biao-zai-olapchang-jing-xia-de-ying-yong-yu-shi-xian/"/>
@@ -191,12 +198,5 @@
         <link href="https://tech.youzan.com/redisyuan-ma-jie-xi/"/>
         <updated>2022-02-12T09:41:23.087Z</updated>
         <content type="html"><![CDATA[一、引言 作为后端开发，redis是工作中最绕不开的中间件之一，在工作中通常有以下几个常用用途 1.缓存，可以抗十万级别的qps  2.计数器，如点赞数，pv等  3.分布式锁  4.限流 另外丰富的redis数据类型支持了一些扩展功能，如排行榜，消息队列，布隆过滤器，位图等等。而redis的底层实现是十分简单的，核心源码也仅有几万行。本文就带大家来领略，小小的redis是如何实现这些复杂功能的~…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Java锁与线程的那些事 (有赞技术团队)]]></title>
-        <id>https://tech.youzan.com/javasuo-yu-xian-cheng-de-na-xie-shi/</id>
-        <link href="https://tech.youzan.com/javasuo-yu-xian-cheng-de-na-xie-shi/"/>
-        <updated>2022-02-12T09:41:23.090Z</updated>
-        <content type="html"><![CDATA[Java锁与线程的那些事  一.引言 引言：“操作系统的线程状态和java的线程状态有什么关系？”这是校招时被问到的一个问题。当时只顾着看博文、面经等零散的资料，没有形成系统的知识体系，一时语塞，答的不是很对。在网上也没找到足够细致的讲解博文，于是整理出了这篇内容。          Java的线程状态牵扯到了同步语义，要探讨Java的线程状态的，必不可免要回顾其锁机制。因此本文的主要分为两大块：一是Synchronized源码粗析，分析了各类锁的进入、释放、升级过程，并大致说明了monitor原理；二是介绍了线程的实现方式和Java线程状态转换的部分细节。 二. Synchronized锁…]]></content>
     </entry>
 </feed>
