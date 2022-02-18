@@ -2,8 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kkyeer.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-18T05:36:52.705Z</updated>
+    <updated>2022-02-18T17:38:30.223Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[美团搜索中查询改写技术的探索与实践 (美团技术博客)]]></title>
+        <id>https://tech.meituan.com/2022/02/17/exploration-and-practice-of-query-rewriting-in-meituan-search.html</id>
+        <link href="https://tech.meituan.com/2022/02/17/exploration-and-practice-of-query-rewriting-in-meituan-search.html"/>
+        <updated>2022-02-18T17:38:22.670Z</updated>
+        <content type="html"><![CDATA[查询改写是对用户Query拓展改写词，用更好的表述，帮用户召回更多符合需求的结果。查询改写对于文本布尔检索系统是非常重要的扩召回手段，通过优化该算法模块能够直接且显著地提升搜索体验。本文主要讲述在美团的搜索场景下查询改写项目的迭代方向和实现思路，希望能对从事搜索、广告、推荐中召回相关工作的同学有所启发或者帮助。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2022/02/17/exploration-and-practice-of-query-rewriting-in-meituan-search.html">阅读全文</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美团集群调度系统的云原生实践 (美团技术博客)]]></title>
+        <id>https://tech.meituan.com/2022/02/17/kubernetes-cloudnative-practices.html</id>
+        <link href="https://tech.meituan.com/2022/02/17/kubernetes-cloudnative-practices.html"/>
+        <updated>2022-02-18T17:38:22.675Z</updated>
+        <content type="html"><![CDATA[本文介绍了美团在如何解决大规模集群管理的难题、设计优秀且合理的集群调度系统方面的实践，阐述了美团在落地以Kubernetes为代表的云原生技术时，比较关心的问题、挑战以及对应的推进策略。同时本文也介绍了针对美团业务需求场景做的一些特色支持，希望本文能够对云原生领域感兴趣的同学有所帮助或者启发。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2022/02/17/kubernetes-cloudnative-practices.html">阅读全文</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美团技术年货：1200+页电子书，覆盖前后端、算法、数据、安全、测试、顶会论文 (美团技术博客)]]></title>
         <id>https://tech.meituan.com/2022/01/20/2022-happy-new-year.html</id>
@@ -147,22 +163,6 @@
         <updated>2022-02-12T09:41:07.614Z</updated>
         <content type="html"><![CDATA[客服是在用户服务体验不完美的情况下，尽可能帮助体验顺畅进行下去的一种解决办法，是问题发生后的一种兜底方案。而智能客服能让大部分简单的问题得以快速自助解决，让复杂问题有机会被人工高效解决。在用户服务的全旅程中，美团平台/搜索与NLP部提供了问题推荐、问题理解、对话管理、答案供给、话术推荐和会话摘要等六大智能客服核心能力，以期达到低成本、高效率、高质量地与用户进行沟通的目的。本文主要介绍了美团智能客服核心技术以及在美团的实践，希望能给从事相关工作的同学带来一些启发或者帮助。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2021/09/30/artificial-intelligence-customer-service.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何优雅地记录操作日志？ (美团技术博客)]]></title>
-        <id>https://tech.meituan.com/2021/09/16/operational-logbook.html</id>
-        <link href="https://tech.meituan.com/2021/09/16/operational-logbook.html"/>
-        <updated>2021-09-16T17:41:07.014Z</updated>
-        <content type="html"><![CDATA[操作日志广泛存在于各个B端和一些C端系统中，比如：客服可以根据工单的操作日志快速知道哪些人对这个工单做了哪些操作，进而快速地定位问题。操作日志和系统日志不一样，操作日志必须要做到简单易懂。所以如何让操作日志不和业务逻辑耦合，如何让操作日志的内容易于理解，让操作日志的接入更加简单？上面这些都是本文要回答的问题，主要围绕着如何“优雅”地记录操作日志展开描述。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2021/09/16/operational-logbook.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新一代CTR预测服务的GPU优化实践 (美团技术博客)]]></title>
-        <id>https://tech.meituan.com/2021/09/09/ctr-gpu-practice.html</id>
-        <link href="https://tech.meituan.com/2021/09/09/ctr-gpu-practice.html"/>
-        <updated>2021-09-10T17:40:41.594Z</updated>
-        <content type="html"><![CDATA[CTR模型在互联网的搜索、推荐、广告等场景有着广泛的应用。近年来，随着深度神经网络的引入，CTR模型的推理对硬件算力的要求逐渐增加。本文介绍了美团在CTR模型优化的实践。通过分析模型结构特点，结合GPU硬件架构，我们设计了一系列流程对模型进行定制优化，达到了降低延迟、提高吞吐、节省成本的目标。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2021/09/09/ctr-gpu-practice.html">阅读全文</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[「研发共建」提升中台效能初探 (有赞技术团队)]]></title>
