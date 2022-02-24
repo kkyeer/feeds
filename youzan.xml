@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tech.youzan.com/</id>
     <title>有赞技术团队</title>
-    <updated>2022-02-24T05:37:37.491Z</updated>
+    <updated>2022-02-24T17:39:47.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tech.youzan.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[一则物理看板的演进实践]]></title>
+        <id>https://tech.youzan.com/evolution-of-real-kanban/</id>
+        <link href="https://tech.youzan.com/evolution-of-real-kanban/"/>
+        <updated>2022-02-24T17:39:44.806Z</updated>
+        <content type="html"><![CDATA[作者：林晔琛 | 效能改进 一、背景 看板（并非特指 Kanban，下同）作为一种目视化管理工具，能够将团队成员的工作过程透明出来，帮助团队更好地发现问题和瓶颈，尤其是在特性团队中，更是会秉承看板的理念，将其与站会形成良好的配合和互动，充分发挥其目视化的作用。 在笔者的工作场景中，特性团队尚处于敏捷转型初期，并未养成良好的工作习惯，其中就包括看板使用不到位的情况，导致了站会活动效果不佳。于是，笔者尝试从「改变看板的使用姿势」切入，…]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「研发共建」提升中台效能初探]]></title>
         <id>https://tech.youzan.com/open-source-mode-from-middle-platform/</id>
@@ -32,12 +39,5 @@
         <link href="https://tech.youzan.com/shu-ju-ce-shi-fang-fa/"/>
         <updated>2022-02-12T09:41:23.087Z</updated>
         <content type="html"><![CDATA[有赞数据报表中心为商家提供了丰富的数据指标，包括30+页面，100+数据报表以及400+不同类型的数据指标，它们帮助商家更合理、科学地运营店铺，同时也直接提供分析决策方法供商家使用。并且，每天在跑的底层任务和涉及的数据表已经达到千级别。面对如此庞大的数据体系，作为测试如何制定质量保障策略呢？这篇文章将从：1、有赞数据链路 2、数据层测试 3、应用层测试 4、后续规划四个方面展开 一、有赞数据链路 1、…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Redis源码解析]]></title>
-        <id>https://tech.youzan.com/redisyuan-ma-jie-xi/</id>
-        <link href="https://tech.youzan.com/redisyuan-ma-jie-xi/"/>
-        <updated>2022-02-12T09:41:23.087Z</updated>
-        <content type="html"><![CDATA[一、引言 作为后端开发，redis是工作中最绕不开的中间件之一，在工作中通常有以下几个常用用途 1.缓存，可以抗十万级别的qps  2.计数器，如点赞数，pv等  3.分布式锁  4.限流 另外丰富的redis数据类型支持了一些扩展功能，如排行榜，消息队列，布隆过滤器，位图等等。而redis的底层实现是十分简单的，核心源码也仅有几万行。本文就带大家来领略，小小的redis是如何实现这些复杂功能的~…]]></content>
     </entry>
 </feed>
