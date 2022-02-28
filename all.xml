@@ -2,8 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kkyeer.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-27T17:38:33.431Z</updated>
+    <updated>2022-02-28T17:40:10.540Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[数据治理一体化实践之体系化建模 (美团技术博客)]]></title>
+        <id>https://tech.meituan.com/2022/02/24/systematic-modeling-of-data-development-and-governance-integration-practice.html</id>
+        <link href="https://tech.meituan.com/2022/02/24/systematic-modeling-of-data-development-and-governance-integration-practice.html"/>
+        <updated>2022-02-28T17:40:02.551Z</updated>
+        <content type="html"><![CDATA[数字经济的快速发展，给企业的经营带来了新的机遇和挑战，如何有效开展数据治理，打破数据孤岛，充分发挥数据的业务价值，保护数据安全，已成为业界的热门话题。本文基于美团配送数据治理的历程，分享了数据定义、模型设计、数据生产三环节统一的配送数据“底座”的建设与实践。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2022/02/24/systematic-modeling-of-data-development-and-governance-integration-practice.html">阅读全文</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[端智能在大众点评搜索重排序的应用实践 (美团技术博客)]]></title>
+        <id>https://tech.meituan.com/2022/02/24/edge-search-rerank.html</id>
+        <link href="https://tech.meituan.com/2022/02/24/edge-search-rerank.html"/>
+        <updated>2022-02-28T17:40:02.551Z</updated>
+        <content type="html"><![CDATA[端智能，是指在移动端设备运行人工智能（AI）应用的技术。本文主要讲述大众点评搜索场景下，在端侧部署大规模深度学习模型进行搜索重排序任务的实践方案，包括端上特征工程、模型迭代思路，以及具体部署优化的过程，希望能对从事相关领域开发的同学有所帮助或者启发。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2022/02/24/edge-search-rerank.html">阅读全文</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美团搜索中查询改写技术的探索与实践 (美团技术博客)]]></title>
         <id>https://tech.meituan.com/2022/02/17/exploration-and-practice-of-query-rewriting-in-meituan-search.html</id>
@@ -147,22 +163,6 @@
         <updated>2022-02-12T09:41:07.614Z</updated>
         <content type="html"><![CDATA[2021年5月，美团NLP中心开源了迄今规模最大的基于真实场景的中文属性级情感分析数据集ASAP，该数据集相关论文被自然语言处理顶会NAACL2021录用，同时该数据集加入中文开源数据计划千言，将与其他开源数据集一起推动中文信息处理技术的进步。本文回顾了美团情感分析技术的演进和在典型业务场景中的应用，包括篇章/句子级情感分析、属性级情感分析和观点三元组分析。在业务应用上，依托情感分析技术能力构建了在线实时预测服务和离线批量预测服务。截至目前，情感分析服务已经为美团内部十多个业务场景提供了服务。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2021/10/20/the-applications-of-sentiment-analysis-meituan.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[广告深度预估技术在美团到店场景下的突破与畅想 (美团技术博客)]]></title>
-        <id>https://tech.meituan.com/2021/10/14/breakthrough-and-prospect-of-deep-ctr-prediction-in-meituan-ads.html</id>
-        <link href="https://tech.meituan.com/2021/10/14/breakthrough-and-prospect-of-deep-ctr-prediction-in-meituan-ads.html"/>
-        <updated>2022-02-12T09:41:07.614Z</updated>
-        <content type="html"><![CDATA[后深度学习时代下，技术迭代全面进入深水区，以提升模型复杂度为主体的广告预估模型优化已经不再奏效。美团到店广告质量预估团队紧密结合业务特点，发挥深度模型结构灵活多变的优势，实现了进一步破局。本文先介绍了美团业务的LBS空间距离约束和长周期性两大挑战，然后介绍了上下文、用户、广告、训练方式四个维度的应对方案，具体如下四个技术突破：a.基于位次组合的上下文偏差感知预估；b.基于时空依赖的超长序列建模；c.广告候选动态化；d.灾难遗忘与持续学习，带动线上指标显著提升的同时，整理为论文发表在SIGIR、CIKM等国际顶级会议。最后，基于新一轮理解，提出推理量级动态化、评估指标差异化等预估技术新趋势。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2021/10/14/breakthrough-and-prospect-of-deep-ctr-prediction-in-meituan-ads.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美团智能客服核心技术与实践 (美团技术博客)]]></title>
-        <id>https://tech.meituan.com/2021/09/30/artificial-intelligence-customer-service.html</id>
-        <link href="https://tech.meituan.com/2021/09/30/artificial-intelligence-customer-service.html"/>
-        <updated>2022-02-12T09:41:07.614Z</updated>
-        <content type="html"><![CDATA[客服是在用户服务体验不完美的情况下，尽可能帮助体验顺畅进行下去的一种解决办法，是问题发生后的一种兜底方案。而智能客服能让大部分简单的问题得以快速自助解决，让复杂问题有机会被人工高效解决。在用户服务的全旅程中，美团平台/搜索与NLP部提供了问题推荐、问题理解、对话管理、答案供给、话术推荐和会话摘要等六大智能客服核心能力，以期达到低成本、高效率、高质量地与用户进行沟通的目的。本文主要介绍了美团智能客服核心技术以及在美团的实践，希望能给从事相关工作的同学带来一些启发或者帮助。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2021/09/30/artificial-intelligence-customer-service.html">阅读全文</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[一则物理看板的演进实践 (有赞技术团队)]]></title>
