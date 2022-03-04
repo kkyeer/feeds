@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kkyeer.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-04T05:37:12.370Z</updated>
+    <updated>2022-03-04T17:39:05.144Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[GPU在外卖场景精排模型预估中的应用实践 (美团技术博客)]]></title>
@@ -165,6 +165,13 @@
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2021/11/03/knowledge-based-question-answering-in-meituan.html">阅读全文</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[如何用「标准差」度量研发波动 (有赞技术团队)]]></title>
+        <id>https://tech.youzan.com/metric-standard-deviation/</id>
+        <link href="https://tech.youzan.com/metric-standard-deviation/"/>
+        <updated>2022-03-04T17:39:04.616Z</updated>
+        <content type="html"><![CDATA[作者：陈煜 | 效能改进 一、背景 技术中心的年度研发效能报告已于前不久发布，在吞吐的分析中，我们新增了一个指标「标准差」（计算公式见图1）。 图1. 标准差计算公式 标准差在概率统计中最常使用作为统计分布程度上的测量。它反映组内个体间的离散程度。标准差越大，表示大部分数值和其平均值之间差异较大，反之亦然。 上面的公式不用记，Excel 中有对应的计算函数：STDEVP（见图2）。 图2. Excel 中的标准差函数…]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[一则物理看板的演进实践 (有赞技术团队)]]></title>
         <id>https://tech.youzan.com/evolution-of-real-kanban/</id>
         <link href="https://tech.youzan.com/evolution-of-real-kanban/"/>
@@ -191,12 +198,5 @@
         <link href="https://tech.youzan.com/development-density-index/"/>
         <updated>2022-02-12T09:41:23.081Z</updated>
         <content type="html"><![CDATA[文 | 费解 on 效能改进 1. 背景 在研发管理领域，业界一直在试图寻找可以衡量研发交付效率的指标。常见的指标有：吞吐率（多）、研发周期（快）、资源利用率（省）。然而，在实践中，我们发现，上述三项无法直接作为指导改进的北极星指标： 1）吞吐率，在一段时间内交付项目的个数，是产品需求方关注的指标。若项目未交付，则不落入统计，…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数据测试方法 (有赞技术团队)]]></title>
-        <id>https://tech.youzan.com/shu-ju-ce-shi-fang-fa/</id>
-        <link href="https://tech.youzan.com/shu-ju-ce-shi-fang-fa/"/>
-        <updated>2022-02-12T09:41:23.087Z</updated>
-        <content type="html"><![CDATA[有赞数据报表中心为商家提供了丰富的数据指标，包括30+页面，100+数据报表以及400+不同类型的数据指标，它们帮助商家更合理、科学地运营店铺，同时也直接提供分析决策方法供商家使用。并且，每天在跑的底层任务和涉及的数据表已经达到千级别。面对如此庞大的数据体系，作为测试如何制定质量保障策略呢？这篇文章将从：1、有赞数据链路 2、数据层测试 3、应用层测试 4、后续规划四个方面展开 一、有赞数据链路 1、…]]></content>
     </entry>
 </feed>
