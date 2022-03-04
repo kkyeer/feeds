@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tech.meituan.com/</id>
     <title>美团技术博客</title>
-    <updated>2022-03-03T17:40:15.545Z</updated>
+    <updated>2022-03-04T05:37:12.368Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://awps-assets.meituan.net/mit/blog/v20190629/asset/icon/android-icon-192x192.png?v=Whistle&amp;t=20181017-1r</icon>
+    <entry>
+        <title type="html"><![CDATA[GPU在外卖场景精排模型预估中的应用实践]]></title>
+        <id>https://tech.meituan.com/2022/03/03/ctr-gpu-inference.html</id>
+        <link href="https://tech.meituan.com/2022/03/03/ctr-gpu-inference.html"/>
+        <updated>2022-03-04T05:37:01.834Z</updated>
+        <content type="html"><![CDATA[GPU等专用芯片以较低的成本提供海量算力，已经成为机器学习领域的核心利器，在人工智能时代发挥着越来越重要的作用。如何利用GPU这一利器赋能业务场景，是很多技术研发者都要面临的问题。本文分享了美团外卖搜索/推荐业务中模型预估的GPU架构设计及落地的过程，希望能对从事相关应用研发的同学有所帮助或启发。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2022/03/03/ctr-gpu-inference.html">阅读全文</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[广告平台化的探索与实践 | 美团外卖广告工程实践专题连载]]></title>
+        <id>https://tech.meituan.com/2022/03/03/exploration-and-practice-of-advertising-engine-platforming.html</id>
+        <link href="https://tech.meituan.com/2022/03/03/exploration-and-practice-of-advertising-engine-platforming.html"/>
+        <updated>2022-03-04T05:37:01.834Z</updated>
+        <content type="html"><![CDATA[随着美团外卖业务不断发展，外卖广告引擎团队在多个领域进行了工程上的探索和实践，目前已经取得了一些成果。我们计划通过连载的形式分享给大家，本文是《美团外卖广告工程实践》专题连载的第一篇。本文针对业务提效的目标，介绍了美团外卖广告引擎在平台化过程中的一些思考和实践。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2022/03/03/exploration-and-practice-of-advertising-engine-platforming.html">阅读全文</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[数据治理一体化实践之体系化建模]]></title>
         <id>https://tech.meituan.com/2022/02/24/systematic-modeling-of-data-development-and-governance-integration-practice.html</id>
@@ -148,21 +164,5 @@
         <updated>2022-02-12T09:41:07.614Z</updated>
         <content type="html"><![CDATA[知识图谱问答（Knowledge-based Question Answering, KBQA）是指给定自然语言问题，通过对问题进行语义理解和解析，进而利用知识库进行查询、推理得出答案。美团在平台服务的售前、售中、售后全链路的多个场景中都存在大量的咨询问题。我们基于问答系统，以自动智能回复或推荐回复的方式，来帮助商家提升回答用户问题的效率，同时更快地解决用户问题。本文结合KBQA在美团场景中的具体实践，以及发表在EMNLP 2021上的论文，介绍了KBQA系统整体设计、难点突破以及端到端问答的探索，希望能对从事相关研究的同学有所帮助或者启发。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2021/11/03/knowledge-based-question-answering-in-meituan.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美团基于知识图谱的剧本杀标准化建设与应用]]></title>
-        <id>https://tech.meituan.com/2021/10/28/standardization-of-larp-games-based-on-knowledge-graph.html</id>
-        <link href="https://tech.meituan.com/2021/10/28/standardization-of-larp-games-based-on-knowledge-graph.html"/>
-        <updated>2022-02-12T09:41:07.614Z</updated>
-        <content type="html"><![CDATA[剧本杀作为爆发式增长的新兴业务，在商家上单、用户选购、供需匹配等方面存在不足，供给标准化能为用户、商家、平台三方创造价值，助力业务增长。本文介绍了美团到店综合业务数据团队从0到1快速建设剧本杀供给标准化的过程及算法方案。我们将美团到店综合知识图谱（GENE，GEneral NEeds net）覆盖至剧本杀行业，构建剧本杀知识图谱，实现供给标准化建设，包括剧本杀供给挖掘、标准剧本库构建、供给与标准剧本关联等环节，并在多个场景进行应用落地，希望给大家带来一些帮助或启发。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2021/10/28/standardization-of-larp-games-based-on-knowledge-graph.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[情感分析技术在美团的探索与应用]]></title>
-        <id>https://tech.meituan.com/2021/10/20/the-applications-of-sentiment-analysis-meituan.html</id>
-        <link href="https://tech.meituan.com/2021/10/20/the-applications-of-sentiment-analysis-meituan.html"/>
-        <updated>2022-02-12T09:41:07.614Z</updated>
-        <content type="html"><![CDATA[2021年5月，美团NLP中心开源了迄今规模最大的基于真实场景的中文属性级情感分析数据集ASAP，该数据集相关论文被自然语言处理顶会NAACL2021录用，同时该数据集加入中文开源数据计划千言，将与其他开源数据集一起推动中文信息处理技术的进步。本文回顾了美团情感分析技术的演进和在典型业务场景中的应用，包括篇章/句子级情感分析、属性级情感分析和观点三元组分析。在业务应用上，依托情感分析技术能力构建了在线实时预测服务和离线批量预测服务。截至目前，情感分析服务已经为美团内部十多个业务场景提供了服务。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2021/10/20/the-applications-of-sentiment-analysis-meituan.html">阅读全文</a>]]></content>
     </entry>
 </feed>
