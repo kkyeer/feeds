@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tech.meituan.com/</id>
     <title>美团技术博客</title>
-    <updated>2022-03-09T05:37:20.387Z</updated>
+    <updated>2022-03-09T17:39:55.134Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://awps-assets.meituan.net/mit/blog/v20190629/asset/icon/android-icon-192x192.png?v=Whistle&amp;t=20181017-1r</icon>
     <entry>
@@ -28,14 +28,6 @@
         <updated>2022-02-28T17:40:02.551Z</updated>
         <content type="html"><![CDATA[数字经济的快速发展，给企业的经营带来了新的机遇和挑战，如何有效开展数据治理，打破数据孤岛，充分发挥数据的业务价值，保护数据安全，已成为业界的热门话题。本文基于美团配送数据治理的历程，分享了数据定义、模型设计、数据生产三环节统一的配送数据“底座”的建设与实践。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2022/02/24/systematic-modeling-of-data-development-and-governance-integration-practice.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[端智能在大众点评搜索重排序的应用实践]]></title>
-        <id>https://tech.meituan.com/2022/02/24/edge-search-rerank.html</id>
-        <link href="https://tech.meituan.com/2022/02/24/edge-search-rerank.html"/>
-        <updated>2022-02-28T17:40:02.551Z</updated>
-        <content type="html"><![CDATA[端智能，是指在移动端设备运行人工智能（AI）应用的技术。本文主要讲述大众点评搜索场景下，在端侧部署大规模深度学习模型进行搜索重排序任务的实践方案，包括端上特征工程、模型迭代思路，以及具体部署优化的过程，希望能对从事相关领域开发的同学有所帮助或者启发。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2022/02/24/edge-search-rerank.html">阅读全文</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[美团搜索中查询改写技术的探索与实践]]></title>
@@ -164,5 +156,13 @@
         <updated>2022-02-12T09:41:07.614Z</updated>
         <content type="html"><![CDATA[知识图谱问答（Knowledge-based Question Answering, KBQA）是指给定自然语言问题，通过对问题进行语义理解和解析，进而利用知识库进行查询、推理得出答案。美团在平台服务的售前、售中、售后全链路的多个场景中都存在大量的咨询问题。我们基于问答系统，以自动智能回复或推荐回复的方式，来帮助商家提升回答用户问题的效率，同时更快地解决用户问题。本文结合KBQA在美团场景中的具体实践，以及发表在EMNLP 2021上的论文，介绍了KBQA系统整体设计、难点突破以及端到端问答的探索，希望能对从事相关研究的同学有所帮助或者启发。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2021/11/03/knowledge-based-question-answering-in-meituan.html">阅读全文</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美团基于知识图谱的剧本杀标准化建设与应用]]></title>
+        <id>https://tech.meituan.com/2021/10/28/standardization-of-larp-games-based-on-knowledge-graph.html</id>
+        <link href="https://tech.meituan.com/2021/10/28/standardization-of-larp-games-based-on-knowledge-graph.html"/>
+        <updated>2022-03-09T17:39:47.980Z</updated>
+        <content type="html"><![CDATA[剧本杀作为爆发式增长的新兴业务，在商家上单、用户选购、供需匹配等方面存在不足，供给标准化能为用户、商家、平台三方创造价值，助力业务增长。本文介绍了美团到店综合业务数据团队从0到1快速建设剧本杀供给标准化的过程及算法方案。我们将美团到店综合知识图谱（GENE，GEneral NEeds net）覆盖至剧本杀行业，构建剧本杀知识图谱，实现供给标准化建设，包括剧本杀供给挖掘、标准剧本库构建、供给与标准剧本关联等环节，并在多个场景进行应用落地，希望给大家带来一些帮助或启发。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2021/10/28/standardization-of-larp-games-based-on-knowledge-graph.html">阅读全文</a>]]></content>
     </entry>
 </feed>
