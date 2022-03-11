@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tech.meituan.com/</id>
     <title>美团技术博客</title>
-    <updated>2022-03-10T17:39:55.757Z</updated>
+    <updated>2022-03-11T05:36:57.993Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://awps-assets.meituan.net/mit/blog/v20190629/asset/icon/android-icon-192x192.png?v=Whistle&amp;t=20181017-1r</icon>
+    <entry>
+        <title type="html"><![CDATA[异构广告混排在美团到店业务的探索与实践]]></title>
+        <id>https://tech.meituan.com/2022/03/10/exploration-and-practice-of-heterogeneous-ad-mixed-ranking-in-meituan-ads.html</id>
+        <link href="https://tech.meituan.com/2022/03/10/exploration-and-practice-of-heterogeneous-ad-mixed-ranking-in-meituan-ads.html"/>
+        <updated>2022-03-11T05:36:50.364Z</updated>
+        <content type="html"><![CDATA[在LBS（Location Based Services, 基于位置的服务）距离约束下，候选较少制约了整个到店广告排序系统的潜力空间。本文介绍了我们从候选类型角度进行候选扩展，通过高性能的异构混排网络来应对性能的挑战，从而提升了本地生活场景排序系统的潜能上限。希望能给从事相关方向的同学以启发。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2022/03/10/exploration-and-practice-of-heterogeneous-ad-mixed-ranking-in-meituan-ads.html">阅读全文</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[设计模式二三事]]></title>
+        <id>https://tech.meituan.com/2022/03/10/interesting-talk-about-design-patterns.html</id>
+        <link href="https://tech.meituan.com/2022/03/10/interesting-talk-about-design-patterns.html"/>
+        <updated>2022-03-11T05:36:50.364Z</updated>
+        <content type="html"><![CDATA[设计模式是众多软件开发人员经过长时间的试错和应用总结出来的，解决特定问题的一系列方案。现行的部分教材在介绍设计模式时，有些会因为案例脱离实际应用场景而令人费解，有些又会因为场景简单而显得有些小题大做。本文会根据在美团金融服务平台设计开发时的经验，结合实际的案例，并采用“师生对话”这种相对诙谐的形式去讲解几类常用设计模式的应用。希望能对想提升系统设计能力的同学有所帮助或启发。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2022/03/10/interesting-talk-about-design-patterns.html">阅读全文</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GPU在外卖场景精排模型预估中的应用实践]]></title>
         <id>https://tech.meituan.com/2022/03/03/ctr-gpu-inference.html</id>
@@ -148,21 +164,5 @@
         <updated>2022-02-12T09:41:07.611Z</updated>
         <content type="html"><![CDATA[首页搜索是美团 App 上十分重要的模块，每天服务于数千万用户。随着美团零售商品类业务的不断发展，美团搜索在商品类业务上的相关技术也在不断迭代，排序模块作为整个搜索系统的重要组成部分，极大地影响着用户最终的搜索体验。本文介绍了美团搜索在商品多业务排序上相关的探索以及实践，希望能对从事相关工作的同学有所帮助或者启发。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2021/11/19/exploration-and-practice-of-multi-business-commodities-ranking-in-meituan-search.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美团知识图谱问答技术实践与探索]]></title>
-        <id>https://tech.meituan.com/2021/11/03/knowledge-based-question-answering-in-meituan.html</id>
-        <link href="https://tech.meituan.com/2021/11/03/knowledge-based-question-answering-in-meituan.html"/>
-        <updated>2022-02-12T09:41:07.614Z</updated>
-        <content type="html"><![CDATA[知识图谱问答（Knowledge-based Question Answering, KBQA）是指给定自然语言问题，通过对问题进行语义理解和解析，进而利用知识库进行查询、推理得出答案。美团在平台服务的售前、售中、售后全链路的多个场景中都存在大量的咨询问题。我们基于问答系统，以自动智能回复或推荐回复的方式，来帮助商家提升回答用户问题的效率，同时更快地解决用户问题。本文结合KBQA在美团场景中的具体实践，以及发表在EMNLP 2021上的论文，介绍了KBQA系统整体设计、难点突破以及端到端问答的探索，希望能对从事相关研究的同学有所帮助或者启发。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2021/11/03/knowledge-based-question-answering-in-meituan.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美团基于知识图谱的剧本杀标准化建设与应用]]></title>
-        <id>https://tech.meituan.com/2021/10/28/standardization-of-larp-games-based-on-knowledge-graph.html</id>
-        <link href="https://tech.meituan.com/2021/10/28/standardization-of-larp-games-based-on-knowledge-graph.html"/>
-        <updated>2022-03-09T17:39:47.980Z</updated>
-        <content type="html"><![CDATA[剧本杀作为爆发式增长的新兴业务，在商家上单、用户选购、供需匹配等方面存在不足，供给标准化能为用户、商家、平台三方创造价值，助力业务增长。本文介绍了美团到店综合业务数据团队从0到1快速建设剧本杀供给标准化的过程及算法方案。我们将美团到店综合知识图谱（GENE，GEneral NEeds net）覆盖至剧本杀行业，构建剧本杀知识图谱，实现供给标准化建设，包括剧本杀供给挖掘、标准剧本库构建、供给与标准剧本关联等环节，并在多个场景进行应用落地，希望给大家带来一些帮助或启发。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2021/10/28/standardization-of-larp-games-based-on-knowledge-graph.html">阅读全文</a>]]></content>
     </entry>
 </feed>
