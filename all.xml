@@ -2,8 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kkyeer.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-17T17:41:11.621Z</updated>
+    <updated>2022-03-18T17:40:26.007Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Java系列 | 远程热部署在美团的落地实践 (美团技术博客)]]></title>
+        <id>https://tech.meituan.com/2022/03/17/java-hotswap-sonic.html</id>
+        <link href="https://tech.meituan.com/2022/03/17/java-hotswap-sonic.html"/>
+        <updated>2022-03-18T17:40:14.598Z</updated>
+        <content type="html"><![CDATA[Sonic是美团内部一款用于热部署的IDEA插件。本文主要讲述Sonic的实现细节以及底层原理，从IDEA插件到自动化部署，再到沉浸式开发产品闭环，全方位讲述了Sonic在美团的落地与实践经验。目前业界对标的产品并不多，希望本文能对从事联调/开发/测试等相关方向的同学有所帮助或启发。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2022/03/17/java-hotswap-sonic.html">阅读全文</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美团内部讲座 | 清华大学崔鹏：因果启发的学习、推断和决策 (美团技术博客)]]></title>
+        <id>https://tech.meituan.com/2022/03/17/causal-inference.html</id>
+        <link href="https://tech.meituan.com/2022/03/17/causal-inference.html"/>
+        <updated>2022-03-18T17:40:14.599Z</updated>
+        <content type="html"><![CDATA[随着人工智能的不断发展，安全及合规问题变得越来越重要。当前机器学习比较大的一个局限性在于其学习模型都是基于关联框架，这种框架存在样本选择偏差的问题，且其稳定性也较差。而因果推理模型的出现，给机器学习打开了一个新的思路。美团技术团队特别邀请到清华大学计算机学院长聘副教授崔鹏老师，请他为美团技术团队的同学分享了因果推断技术最新的发展趋势，以及现阶段取得的一些成果。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2022/03/17/causal-inference.html">阅读全文</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[异构广告混排在美团到店业务的探索与实践 (美团技术博客)]]></title>
         <id>https://tech.meituan.com/2022/03/10/exploration-and-practice-of-heterogeneous-ad-mixed-ranking-in-meituan-ads.html</id>
@@ -147,22 +163,6 @@
         <updated>2022-02-12T09:41:07.610Z</updated>
         <content type="html"><![CDATA[研究Fairplay DRM（Digital Rights Management，即数字版权保护）最关键的两点是授权和加密。但长久以来，关于App DRM的研究却很少，而就是在这样的前提下，Fairplay DRM又为iOS App的安全研究叠加了一层“阻碍”。我们通过分析混淆系统的设计和实现过程中的问题，克服调试跟踪的障碍，设计了多种静态和动态的对抗方案；同时通过大量的逆向工程，填补了安全研究人员对macOS系统机制中，关于Fairplay这一部分的认知空白。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2021/11/25/fairplay-drm.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美团跨端一体化富文本管理技术实践 (美团技术博客)]]></title>
-        <id>https://tech.meituan.com/2021/11/25/page-webide-thrift.html</id>
-        <link href="https://tech.meituan.com/2021/11/25/page-webide-thrift.html"/>
-        <updated>2022-02-12T09:41:07.610Z</updated>
-        <content type="html"><![CDATA[在互联网圈，开发和产品经理之间相爱相杀的故事，相信大家都有所耳闻。为了减少产品和前端开发人员之间的矛盾，不断降本提效，美团医药技术部构建了跨端一体化富文本管理平台Page-佩奇。本文系统介绍了该平台的定位、设计思路、实现原理以及取得的成效。希望这些实战经验与总结，能给大家带来一些启发或帮助。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2021/11/25/page-webide-thrift.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美团搜索多业务商品排序探索与实践 (美团技术博客)]]></title>
-        <id>https://tech.meituan.com/2021/11/19/exploration-and-practice-of-multi-business-commodities-ranking-in-meituan-search.html</id>
-        <link href="https://tech.meituan.com/2021/11/19/exploration-and-practice-of-multi-business-commodities-ranking-in-meituan-search.html"/>
-        <updated>2022-02-12T09:41:07.611Z</updated>
-        <content type="html"><![CDATA[首页搜索是美团 App 上十分重要的模块，每天服务于数千万用户。随着美团零售商品类业务的不断发展，美团搜索在商品类业务上的相关技术也在不断迭代，排序模块作为整个搜索系统的重要组成部分，极大地影响着用户最终的搜索体验。本文介绍了美团搜索在商品多业务排序上相关的探索以及实践，希望能对从事相关工作的同学有所帮助或者启发。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2021/11/19/exploration-and-practice-of-multi-business-commodities-ranking-in-meituan-search.html">阅读全文</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[如何用「标准差」度量研发波动 (有赞技术团队)]]></title>
