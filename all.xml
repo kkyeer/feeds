@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kkyeer.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-22T17:43:15.702Z</updated>
+    <updated>2022-03-23T17:40:51.467Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Java系列 | 远程热部署在美团的落地实践 (美团技术博客)]]></title>
@@ -165,6 +165,13 @@
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2021/11/25/fairplay-drm.html">阅读全文</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[特性团队中的 DoD 右移实践 (有赞技术团队)]]></title>
+        <id>https://tech.youzan.com/dod-practise/</id>
+        <link href="https://tech.youzan.com/dod-practise/"/>
+        <updated>2022-03-23T17:40:50.886Z</updated>
+        <content type="html"><![CDATA[作者：严梨炯 | 效能改进 一、背景 DoD（全称：Definition of Done）是特性团队内部，针对某个即将进入下一个迭代 backlog 的工作条目（一般指 story），约定其在该迭代结束时须完成到什么程度（比如：完成测试并等待演示，见图1）。尤其是当 story 颗粒度较大（须跨多个迭代）时，…]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[如何用「标准差」度量研发波动 (有赞技术团队)]]></title>
         <id>https://tech.youzan.com/metric-standard-deviation/</id>
         <link href="https://tech.youzan.com/metric-standard-deviation/"/>
@@ -191,12 +198,5 @@
         <link href="https://tech.youzan.com/luo-ji-biao-zai-olapchang-jing-xia-de-ying-yong-yu-shi-xian/"/>
         <updated>2022-02-12T09:41:23.079Z</updated>
         <content type="html"><![CDATA[一.背景 数据中心为微商城和零售的商家后台分别建立了一套数据模型、 数据服务， 在此基础上分别建立了一套数据分析的产品体系，随着微商城和零售慢慢往连锁版本融合并伴随着新业务接入，目前的开发模式遇到了以下痛点： 两套数据服务有很多相同之处，重复烟囱式的开发，造成了人力资源浪费，而且开发效率低，从数据开发到最终交付数据服务，需要经历较长的周期；   两套数据模型在指标上存在大量重合，相同的指标的重复开发，增加了开发和维护成本，且存在口径不一致的风险，导致众多线上咨询，损害了商家对数据可靠性的信任。 基于上述痛点，数据应用团队搭建了统一的数据模型和数据服务。本文将介绍在搭建统一数据模型的过程中遇到的问题并给出相应的解决方案。 二.统一数据模型实现 上层的数据分析模型会在某个主题下，…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[效能指标「研发浓度」在项目度量中的应用 (有赞技术团队)]]></title>
-        <id>https://tech.youzan.com/development-density-index/</id>
-        <link href="https://tech.youzan.com/development-density-index/"/>
-        <updated>2022-02-12T09:41:23.081Z</updated>
-        <content type="html"><![CDATA[文 | 费解 on 效能改进 1. 背景 在研发管理领域，业界一直在试图寻找可以衡量研发交付效率的指标。常见的指标有：吞吐率（多）、研发周期（快）、资源利用率（省）。然而，在实践中，我们发现，上述三项无法直接作为指导改进的北极星指标： 1）吞吐率，在一段时间内交付项目的个数，是产品需求方关注的指标。若项目未交付，则不落入统计，…]]></content>
     </entry>
 </feed>
