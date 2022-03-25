@@ -2,8 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kkyeer.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-24T17:48:47.386Z</updated>
+    <updated>2022-03-25T05:37:48.809Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[NeurIPS 2021 ｜ Twins：重新思考高效的视觉注意力模型设计 (美团技术博客)]]></title>
+        <id>https://tech.meituan.com/2022/03/24/twins-revisiting-the-design-of-spatial-attention-in-vision-transformers.html</id>
+        <link href="https://tech.meituan.com/2022/03/24/twins-revisiting-the-design-of-spatial-attention-in-vision-transformers.html"/>
+        <updated>2022-03-25T05:37:37.818Z</updated>
+        <content type="html"><![CDATA[Twins 是美团和阿德莱德大学合作提出的视觉注意力模型，相关论文已被 NeurIPS 2021 会议接收。本文主要讲述 Twins 解决的难点、设计和实现思路，以及在美团场景的探索落地，希望能对从事视觉算法研发的同学有所帮助和启发。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2022/03/24/twins-revisiting-the-design-of-spatial-attention-in-vision-transformers.html">阅读全文</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TensorFlow在美团外卖推荐场景的GPU训练优化实践 (美团技术博客)]]></title>
+        <id>https://tech.meituan.com/2022/03/24/tensorflow-gpu-training-optimization-practice-in-meituan-waimai-recommendation-scenarios.html</id>
+        <link href="https://tech.meituan.com/2022/03/24/tensorflow-gpu-training-optimization-practice-in-meituan-waimai-recommendation-scenarios.html"/>
+        <updated>2022-03-25T05:37:37.825Z</updated>
+        <content type="html"><![CDATA[美团机器学习平台基于内部深度定制的TensorFlow研发了Booster GPU训练架构。该架构在整体设计上充分考虑了算法、架构、新硬件的特性，从数据、计算、通信等多个角度进行了深度的优化，最终其性价比达到CPU任务的2~4倍。本文主要讲述Booster架构的设计实现、性能优化及业务落地工作，希望能对从事相关开发的同学有所帮助或者启发。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2022/03/24/tensorflow-gpu-training-optimization-practice-in-meituan-waimai-recommendation-scenarios.html">阅读全文</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Java系列 | 远程热部署在美团的落地实践 (美团技术博客)]]></title>
         <id>https://tech.meituan.com/2022/03/17/java-hotswap-sonic.html</id>
@@ -147,22 +163,6 @@
         <updated>2022-02-12T09:41:07.600Z</updated>
         <content type="html"><![CDATA[2019年9月，美团外卖技术团队联合多个研发部门正式推出了React2X，面向所有的前端研发人员，特别是按业务领域划分的团队，为大家提供一个完整的、开放的多终端容器无关化（Containerless）研发框架。研发同学可以通过React2X框架快速创建、开发、构建、部署项目，在人力消耗最小的前提下，以期在不同终端上达到相对最佳的性能体验，并且能大幅降低因容器升级带来的替换和改造成本，让代码同构的复用率最大化。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2021/12/02/meituan-waimai-containerless-framework.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[预训练技术在美团到店搜索广告中的应用 (美团技术博客)]]></title>
-        <id>https://tech.meituan.com/2021/12/02/application-of-pre-training-technology-in-meituan-search-ads.html</id>
-        <link href="https://tech.meituan.com/2021/12/02/application-of-pre-training-technology-in-meituan-search-ads.html"/>
-        <updated>2022-02-12T09:41:07.610Z</updated>
-        <content type="html"><![CDATA[搜索广告在优化流量变现效率等商业指标之外，也需要重点优化用户体验，降低不相关广告对用户体验的损害，这样才能保证平台生态的健康发展。本文对预训练技术在广告相关性的落地方案进行了介绍，既包括训练样本上的数据增强、预训练及微调阶段的BERT模型优化等算法探索层面的工作，也包括知识蒸馏、相关性服务链路优化等实践经验。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2021/12/02/application-of-pre-training-technology-in-meituan-search-ads.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fairplay DRM与混淆实现的研究 (美团技术博客)]]></title>
-        <id>https://tech.meituan.com/2021/11/25/fairplay-drm.html</id>
-        <link href="https://tech.meituan.com/2021/11/25/fairplay-drm.html"/>
-        <updated>2022-02-12T09:41:07.610Z</updated>
-        <content type="html"><![CDATA[研究Fairplay DRM（Digital Rights Management，即数字版权保护）最关键的两点是授权和加密。但长久以来，关于App DRM的研究却很少，而就是在这样的前提下，Fairplay DRM又为iOS App的安全研究叠加了一层“阻碍”。我们通过分析混淆系统的设计和实现过程中的问题，克服调试跟踪的障碍，设计了多种静态和动态的对抗方案；同时通过大量的逆向工程，填补了安全研究人员对macOS系统机制中，关于Fairplay这一部分的认知空白。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2021/11/25/fairplay-drm.html">阅读全文</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[特性团队中的 DoD 右移实践 (有赞技术团队)]]></title>
