@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tech.meituan.com/</id>
     <title>美团技术博客</title>
-    <updated>2022-04-10T17:40:22.075Z</updated>
+    <updated>2022-04-12T05:38:31.250Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://awps-assets.meituan.net/mit/blog/v20190629/asset/icon/android-icon-192x192.png?v=Whistle&amp;t=20181017-1r</icon>
+    <entry>
+        <title type="html"><![CDATA[终端新玩法：技术栈无关的剧本式引导]]></title>
+        <id>https://tech.meituan.com/2022/03/31/waimai-application-scripted-guidance.html</id>
+        <link href="https://tech.meituan.com/2022/03/31/waimai-application-scripted-guidance.html"/>
+        <updated>2022-04-12T05:38:23.691Z</updated>
+        <content type="html"><![CDATA[App引导是端上做心智建设的重要手段，我们尝试了“剧本式”思维获得了较好效果。在想法落地时，相关研发工作量较大，而且终端技术栈多样化，需要做到“零代码”和“技术栈无关”。最终我们通过“图像匹配”与“标准协议”等核心方案实现了突破。本文将介绍该项目的思考过程，并会对关键技术方案进行剖析和解读，希望能给从事相关开发工作的同学以启发。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2022/03/31/waimai-application-scripted-guidance.html">阅读全文</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux中基于eBPF的恶意利用与检测机制]]></title>
+        <id>https://tech.meituan.com/2022/03/29/how-to-detect-bad-ebpf-used-in-linux.html</id>
+        <link href="https://tech.meituan.com/2022/03/29/how-to-detect-bad-ebpf-used-in-linux.html"/>
+        <updated>2022-04-12T05:38:23.698Z</updated>
+        <content type="html"><![CDATA[近几年云原生领域飞速发展，eBPF技术成为各厂商首选技术，在网络编排、行为观测等领域四处开花。然而收益与风险并存，不久前爆出的Bvp47后门正是利用BPF技术惊人地在世界各地潜伏了近二十年。今日BPF已演进为eBPF，黑客会如何利用，造成什么危害？我们又该如何防范？
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2022/03/29/how-to-detect-bad-ebpf-used-in-linux.html">阅读全文</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NeurIPS 2021 ｜ Twins：重新思考高效的视觉注意力模型设计]]></title>
         <id>https://tech.meituan.com/2022/03/24/twins-revisiting-the-design-of-spatial-attention-in-vision-transformers.html</id>
@@ -148,21 +164,5 @@
         <updated>2022-02-12T09:41:07.597Z</updated>
         <content type="html"><![CDATA[美团内部深度定制的TensorFlow版本，基于原生TensorFlow 1.x架构与接口，从大规模稀疏参数的支持、训练模式、分布式通信优化、流水线优化、算子优化融合等多维度进行了深度优化。在推荐系统场景，分布式扩展性提升10倍以上，单位算力性能也有显著提升，并在美团内部业务中大量使用，本文介绍了相关的优化与实践工作。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2021/12/09/meituan-tensorflow-in-recommender-systems.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[细粒度情感分析在到餐场景中的应用]]></title>
-        <id>https://tech.meituan.com/2021/12/09/meituan-aspect-based-sentiment-analysis-daodian.html</id>
-        <link href="https://tech.meituan.com/2021/12/09/meituan-aspect-based-sentiment-analysis-daodian.html"/>
-        <updated>2022-02-12T09:41:07.597Z</updated>
-        <content type="html"><![CDATA[经典的细粒度情感分析（ABSA，Aspect-based Sentiment Analysis）主要包含三个子任务，分别为属性抽取、观点抽取以及属性-观点对的情感倾向判定三个级联任务。本文介绍了美团到店到餐应用算法团队通过结合学界最先进的阅读理解、注意力机制等方面的实体抽取、情感分析经验，解决到餐（菜品，属性，观点，情感）四元组抽取问题，并在多个业务场景应用落地，希望能对从事相关工作的同学有所帮助或启发。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2021/12/09/meituan-aspect-based-sentiment-analysis-daodian.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美团外卖终端容器无关化研发框架]]></title>
-        <id>https://tech.meituan.com/2021/12/02/meituan-waimai-containerless-framework.html</id>
-        <link href="https://tech.meituan.com/2021/12/02/meituan-waimai-containerless-framework.html"/>
-        <updated>2022-02-12T09:41:07.600Z</updated>
-        <content type="html"><![CDATA[2019年9月，美团外卖技术团队联合多个研发部门正式推出了React2X，面向所有的前端研发人员，特别是按业务领域划分的团队，为大家提供一个完整的、开放的多终端容器无关化（Containerless）研发框架。研发同学可以通过React2X框架快速创建、开发、构建、部署项目，在人力消耗最小的前提下，以期在不同终端上达到相对最佳的性能体验，并且能大幅降低因容器升级带来的替换和改造成本，让代码同构的复用率最大化。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2021/12/02/meituan-waimai-containerless-framework.html">阅读全文</a>]]></content>
     </entry>
 </feed>
