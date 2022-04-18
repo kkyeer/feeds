@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tech.meituan.com/</id>
     <title>美团技术博客</title>
-    <updated>2022-04-17T17:41:03.894Z</updated>
+    <updated>2022-04-18T05:39:35.602Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://awps-assets.meituan.net/mit/blog/v20190629/asset/icon/android-icon-192x192.png?v=Whistle&amp;t=20181017-1r</icon>
+    <entry>
+        <title type="html"><![CDATA[知识图谱可视化技术在美团的实践与探索]]></title>
+        <id>https://tech.meituan.com/2022/04/18/the-practice-and-exploration-of-knowledge-graph-visualization-technology-in-meituan.html</id>
+        <link href="https://tech.meituan.com/2022/04/18/the-practice-and-exploration-of-knowledge-graph-visualization-technology-in-meituan.html"/>
+        <updated>2022-04-18T05:39:26.297Z</updated>
+        <content type="html"><![CDATA[知识图谱可视化可以更直观地查看和分析知识图谱的数据。本文主要介绍了美团平台在布局策略、视觉降噪、交互功能、可视化叙事、3D图谱可视化等方面的一些实践和探索，同时沉淀出了uni-graph图可视化解决方案，并支持了美团的很多业务场景，包括美团大脑、图数据库、智能IT运维、组件依赖分析、行业领域图谱等。希望能对从事知识图谱可视化方向的同学有所帮助或启发。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2022/04/18/the-practice-and-exploration-of-knowledge-graph-visualization-technology-in-meituan.html">阅读全文</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[终端新玩法：技术栈无关的剧本式引导]]></title>
         <id>https://tech.meituan.com/2022/03/31/waimai-application-scripted-guidance.html</id>
@@ -156,13 +164,5 @@
         <updated>2022-02-12T09:41:07.597Z</updated>
         <content type="html"><![CDATA[美团外卖商家端基于 FlutterWeb 的技术探索已久，目前在多个业务中落地了App、PC、H5的多端复用，有效提升了产研的整体效率。在这过程中，性能问题是我们面临的最大挑战，本文结合实际业务场景进行思考，介绍美团外卖商家端在 FlutterWeb 性能优化上所进行的探索和实践，希望对大家能有所帮助或启发。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2021/12/16/flutterweb-practice-in-meituan-waimai.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TensorFlow在推荐系统中的分布式训练优化实践]]></title>
-        <id>https://tech.meituan.com/2021/12/09/meituan-tensorflow-in-recommender-systems.html</id>
-        <link href="https://tech.meituan.com/2021/12/09/meituan-tensorflow-in-recommender-systems.html"/>
-        <updated>2022-02-12T09:41:07.597Z</updated>
-        <content type="html"><![CDATA[美团内部深度定制的TensorFlow版本，基于原生TensorFlow 1.x架构与接口，从大规模稀疏参数的支持、训练模式、分布式通信优化、流水线优化、算子优化融合等多维度进行了深度优化。在推荐系统场景，分布式扩展性提升10倍以上，单位算力性能也有显著提升，并在美团内部业务中大量使用，本文介绍了相关的优化与实践工作。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2021/12/09/meituan-tensorflow-in-recommender-systems.html">阅读全文</a>]]></content>
     </entry>
 </feed>
