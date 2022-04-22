@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tech.meituan.com/</id>
     <title>美团技术博客</title>
-    <updated>2022-04-21T17:48:32.587Z</updated>
+    <updated>2022-04-22T05:54:50.911Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://awps-assets.meituan.net/mit/blog/v20190629/asset/icon/android-icon-192x192.png?v=Whistle&amp;t=20181017-1r</icon>
+    <entry>
+        <title type="html"><![CDATA[Linux下跨语言调用C++实践]]></title>
+        <id>https://tech.meituan.com/2022/04/21/cross-language-call.html</id>
+        <link href="https://tech.meituan.com/2022/04/21/cross-language-call.html"/>
+        <updated>2022-04-22T05:54:36.228Z</updated>
+        <content type="html"><![CDATA[不同的开发语言适合不同的领域，例如Python适合做数据分析，C++适合做系统的底层开发，假如它们需要用到相同功能的基础组件，组件使用多种语言分别开发的话，不仅增加了开发和维护成本，而且不能确保多种语言间在处理效果上是一致的。本文讲述在Linux系统下跨语言调用的实践总结，即开发一次C++语言的组件，其他语言通过跨语言调用技术调用C++组件。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2022/04/21/cross-language-call.html">阅读全文</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[基于代价的慢查询优化建议]]></title>
+        <id>https://tech.meituan.com/2022/04/21/slow-query-optimized-advice-driven-by-cost-model.html</id>
+        <link href="https://tech.meituan.com/2022/04/21/slow-query-optimized-advice-driven-by-cost-model.html"/>
+        <updated>2022-04-22T05:54:36.228Z</updated>
+        <content type="html"><![CDATA[对于数据库来说，慢查询往往意味着风险。SQL执行得越慢，消耗的CPU资源或IO资源也会越大。大量的慢查询可直接引发业务故障，关注慢查询即是关注故障本身。本文主要介绍了美团如何利用数据库的代价优化器来优化慢查询，并给出索引建议，评估跟踪建议质量，运营治理慢查询。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2022/04/21/slow-query-optimized-advice-driven-by-cost-model.html">阅读全文</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[知识图谱可视化技术在美团的实践与探索]]></title>
         <id>https://tech.meituan.com/2022/04/14/the-practice-and-exploration-of-knowledge-graph-visualization-technology-in-meituan.html</id>
@@ -148,21 +164,5 @@
         <updated>2022-02-12T09:41:07.591Z</updated>
         <content type="html"><![CDATA[CDN已经成为互联网重要的基建之一，越来越多的网络服务离不开CDN，它的稳定性也直接影响到业务的可用性。CDN的容灾一直由美团的SRE团队在负责，在端侧鲜有方案和实践。本文结合美团外卖业务中的具体实践，介绍了一种在端侧感知CDN可用性状况并进行自动容灾切换的方案，通过该方案可有效降低业务对CDN异常的敏感，提高业务的可用性，同时降低CDN运维压力。希望本方案能够对被CDN问题所困扰的同学有所帮助或者启发。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2022/01/13/phoenix-cdn.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7次KDD Cup&Kaggle冠军的经验分享：从多领域优化到AutoML框架]]></title>
-        <id>https://tech.meituan.com/2022/01/06/7-kdd-cup-kaggle-automl.html</id>
-        <link href="https://tech.meituan.com/2022/01/06/7-kdd-cup-kaggle-automl.html"/>
-        <updated>2022-02-12T09:41:07.591Z</updated>
-        <content type="html"><![CDATA[反馈快速，竞争激烈的算法比赛是算法从业者提升技术水平的重要方式，从若干行业核心问题抽象出的算法比赛具有很强的实际意义。本文结合笔者在7次Kaggle/KDD Cup中的冠军经验，对于多领域建模优化，AutoML技术框架，以及面对新问题如何分析建模三个方面进行了介绍。希望能够让读者收获比赛中的通用高效建模方法与问题理解思路。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2022/01/06/7-kdd-cup-kaggle-automl.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021年美团技术团队最受欢迎的22篇技术文章]]></title>
-        <id>https://tech.meituan.com/2022/01/01/2021-summary.html</id>
-        <link href="https://tech.meituan.com/2022/01/01/2021-summary.html"/>
-        <updated>2022-02-12T09:41:07.595Z</updated>
-        <content type="html"><![CDATA[「美团技术团队」微信公众号祝大家新年快乐！温故而知新，我们根据文章的「阅读量」和「在看」数，以及所覆盖的技术领域，精选了22篇技术文章作为新年礼物送给大家。希望在2022年，继续陪大家一起，静心苦练，砥砺向前。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2022/01/01/2021-summary.html">阅读全文</a>]]></content>
     </entry>
 </feed>
