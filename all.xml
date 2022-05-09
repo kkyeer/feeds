@@ -2,8 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kkyeer.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-05-08T17:42:05.975Z</updated>
+    <updated>2022-05-09T17:47:06.591Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[标准化思想及组装式架构在后端BFF中的实践 (美团技术博客)]]></title>
+        <id>https://tech.meituan.com/2022/04/28/composable-architecture-in-bff.html</id>
+        <link href="https://tech.meituan.com/2022/04/28/composable-architecture-in-bff.html"/>
+        <updated>2022-05-09T17:46:56.275Z</updated>
+        <content type="html"><![CDATA[进入互联网“下半场”，靠“堆人力”的研发方式已经不再具备竞争力了，真正有效且可行的方式是让系统能力变得可沉淀、可组合复用、可灵活应对各种变化。在多业态、大规模定制需求的背景下，本文分享了如何通过组装式开发的方法来提升业务的竞争力。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2022/04/28/composable-architecture-in-bff.html">阅读全文</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美团外卖广告智能算力的探索与实践（二） (美团技术博客)]]></title>
+        <id>https://tech.meituan.com/2022/04/28/evolutionary-strategies-based-multi-action-computation-allocation.html</id>
+        <link href="https://tech.meituan.com/2022/04/28/evolutionary-strategies-based-multi-action-computation-allocation.html"/>
+        <updated>2022-05-09T17:46:56.275Z</updated>
+        <content type="html"><![CDATA[在深度学习时代，算力的需求和消耗日益增长，如何降低算力成本，提高算力效率，逐渐成为一个重要的新课题。智能算力旨在对流量算力进行精细化和个性化分配，从而实现系统算力约束下的业务收益最大化。本文主要介绍了美团外卖广告智能算力从线性规划算法到进化算法的技术演进过程，给出了一种基于进化算法的多动作算力分配方案，希望能给大家带来一些帮助或者启发。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2022/04/28/evolutionary-strategies-based-multi-action-computation-allocation.html">阅读全文</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Linux下跨语言调用C++实践 (美团技术博客)]]></title>
         <id>https://tech.meituan.com/2022/04/21/cross-language-call.html</id>
@@ -147,22 +163,6 @@
         <updated>2022-02-12T09:41:07.591Z</updated>
         <content type="html"><![CDATA[在2022年春节到来之际，我们精选过去一年公众号50多篇技术文章以及20多篇国际顶会论文，整理制作成一本厚达1200多页的电子书，作为新年礼物赠送给大家。这本电子书内容覆盖前端、后端、算法、数据、安全、测试等多个领域，希望能对同学们的工作和学习有所帮助。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2022/01/20/2022-happy-new-year.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DSTC10开放领域对话评估比赛冠军方法总结 (美团技术博客)]]></title>
-        <id>https://tech.meituan.com/2022/01/13/dstc10.html</id>
-        <link href="https://tech.meituan.com/2022/01/13/dstc10.html"/>
-        <updated>2022-02-12T09:41:07.591Z</updated>
-        <content type="html"><![CDATA[本文介绍了国际竞赛DSTC10开放领域对话评估赛道的冠军方法MME-CRS，该方法设计了多种评估指标，并利用相关性重归一化算法来集成不同指标的打分，为对话评估领域设计更有效的评估指标提供了参考。相关方法已同步发表在AAAI 2022 Workshop上。希望能给从事该技术领域工作的同学一些启发或帮助。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2022/01/13/dstc10.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从0到1：美团端侧CDN容灾解决方案 (美团技术博客)]]></title>
-        <id>https://tech.meituan.com/2022/01/13/phoenix-cdn.html</id>
-        <link href="https://tech.meituan.com/2022/01/13/phoenix-cdn.html"/>
-        <updated>2022-02-12T09:41:07.591Z</updated>
-        <content type="html"><![CDATA[CDN已经成为互联网重要的基建之一，越来越多的网络服务离不开CDN，它的稳定性也直接影响到业务的可用性。CDN的容灾一直由美团的SRE团队在负责，在端侧鲜有方案和实践。本文结合美团外卖业务中的具体实践，介绍了一种在端侧感知CDN可用性状况并进行自动容灾切换的方案，通过该方案可有效降低业务对CDN异常的敏感，提高业务的可用性，同时降低CDN运维压力。希望本方案能够对被CDN问题所困扰的同学有所帮助或者启发。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2022/01/13/phoenix-cdn.html">阅读全文</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[特性团队中的 DoD 右移实践 (有赞技术团队)]]></title>
