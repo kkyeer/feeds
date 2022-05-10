@@ -2,15 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kkyeer.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-05-09T17:47:06.591Z</updated>
+    <updated>2022-05-10T17:48:52.004Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
+        <title type="html"><![CDATA[数据库异常智能分析与诊断 (美团技术博客)]]></title>
+        <id>https://tech.meituan.com/2022/05/05/meituan-database-autonomy-service.html</id>
+        <link href="https://tech.meituan.com/2022/05/05/meituan-database-autonomy-service.html"/>
+        <updated>2022-05-10T17:48:44.963Z</updated>
+        <content type="html"><![CDATA[DAS（Database Autonomy Service, 数据库自治服务）面向研发和DBA，是一款为用户提供数据库性能分析、故障诊断、安全管理等功能的数据库自治服务。DAS利用大数据手段、机器学习、专家经验，帮助用户消除数据库管理的复杂性及人工操作引发的服务故障，有效保障数据库服务的稳定和高效运行。本文主要讲述DAS的历史背景、演进策略、重要功能及实现思路，希望能对从事相关开发的同学有所帮助或者启发。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2022/05/05/meituan-database-autonomy-service.html">阅读全文</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[标准化思想及组装式架构在后端BFF中的实践 (美团技术博客)]]></title>
-        <id>https://tech.meituan.com/2022/04/28/composable-architecture-in-bff.html</id>
-        <link href="https://tech.meituan.com/2022/04/28/composable-architecture-in-bff.html"/>
-        <updated>2022-05-09T17:46:56.275Z</updated>
+        <id>https://tech.meituan.com/2022/04/28/composable-architecture-in-bff-2022.html</id>
+        <link href="https://tech.meituan.com/2022/04/28/composable-architecture-in-bff-2022.html"/>
+        <updated>2022-05-10T17:48:44.976Z</updated>
         <content type="html"><![CDATA[进入互联网“下半场”，靠“堆人力”的研发方式已经不再具备竞争力了，真正有效且可行的方式是让系统能力变得可沉淀、可组合复用、可灵活应对各种变化。在多业态、大规模定制需求的背景下，本文分享了如何通过组装式开发的方法来提升业务的竞争力。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2022/04/28/composable-architecture-in-bff.html">阅读全文</a>]]></content>
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2022/04/28/composable-architecture-in-bff-2022.html">阅读全文</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[美团外卖广告智能算力的探索与实践（二） (美团技术博客)]]></title>
@@ -155,14 +163,6 @@
         <updated>2022-02-18T17:38:22.675Z</updated>
         <content type="html"><![CDATA[本文介绍了美团在如何解决大规模集群管理的难题、设计优秀且合理的集群调度系统方面的实践，阐述了美团在落地以Kubernetes为代表的云原生技术时，比较关心的问题、挑战以及对应的推进策略。同时本文也介绍了针对美团业务需求场景做的一些特色支持，希望本文能够对云原生领域感兴趣的同学有所帮助或者启发。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2022/02/17/kubernetes-cloudnative-practices.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美团技术年货：1200+页电子书，覆盖前后端、算法、数据、安全、测试、顶会论文 (美团技术博客)]]></title>
-        <id>https://tech.meituan.com/2022/01/20/2022-happy-new-year.html</id>
-        <link href="https://tech.meituan.com/2022/01/20/2022-happy-new-year.html"/>
-        <updated>2022-02-12T09:41:07.591Z</updated>
-        <content type="html"><![CDATA[在2022年春节到来之际，我们精选过去一年公众号50多篇技术文章以及20多篇国际顶会论文，整理制作成一本厚达1200多页的电子书，作为新年礼物赠送给大家。这本电子书内容覆盖前端、后端、算法、数据、安全、测试等多个领域，希望能对同学们的工作和学习有所帮助。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2022/01/20/2022-happy-new-year.html">阅读全文</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[特性团队中的 DoD 右移实践 (有赞技术团队)]]></title>
