@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kkyeer.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-01T05:39:20.602Z</updated>
+    <updated>2023-08-01T17:39:40.939Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[斩获CVPR 2023竞赛2项冠军｜美团街景理解中视觉分割技术的探索与应用 (美团技术博客)]]></title>
+        <id>https://tech.meituan.com/2023/07/27/meituan-visual-segmentation-technology-cvpr-2023.html</id>
+        <link href="https://tech.meituan.com/2023/07/27/meituan-visual-segmentation-technology-cvpr-2023.html"/>
+        <updated>2023-08-01T17:39:34.533Z</updated>
+        <content type="html"><![CDATA[视觉分割技术在街景理解中具有重要地位，同时也面临诸多挑战。美团街景理解团队经过长期探索，构建了一套兼顾精度与效率的分割技术体系，在应用中取得了显著效果。同时，相关技术斩获了CVPR 2023竞赛2项冠军1项季军。本文将详细介绍街景理解中分割技术的探索与应用，希望能给从事相关研究工作的同学带来一些帮助或启发。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2023/07/27/meituan-visual-segmentation-technology-cvpr-2023.html">阅读全文</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美团外卖推荐关于用户新颖体验优化的技术探索 (美团技术博客)]]></title>
         <id>https://tech.meituan.com/2023/07/20/meituan-waimai-novelty-unexpectedness-practice.html</id>
@@ -155,14 +163,6 @@
         <updated>2023-07-25T06:24:14.513Z</updated>
         <content type="html"><![CDATA[美团代码托管平台经过长期的打磨，完成了分布式架构的改造落地，托管数以万计的仓库，日均Git相关请求达到千万级别。本文主要介绍了美团代码托管平台在迭代演进过程中面临的挑战及解决思路，希望对大家有所帮助或启发。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2023/02/02/code-the-evolution-and-practice-of-meituan-code-repositories-platform.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美团技术年货来了！1300+页的电子书，涵盖前端、后端、算法、数据、运维、安全 (美团技术博客)]]></title>
-        <id>https://tech.meituan.com/2023/01/13/2022-spring-festival-present.html</id>
-        <link href="https://tech.meituan.com/2023/01/13/2022-spring-festival-present.html"/>
-        <updated>2023-07-25T06:24:14.514Z</updated>
-        <content type="html"><![CDATA[在2023年春节到来之际，我们从去年美团技术团队公众号上精选了60多篇技术文章，整理制作成一本1300多页的电子书，作为新年礼物赠送给大家。祝愿大家，诸事顺遂，健康平安。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2023/01/13/2022-spring-festival-present.html">阅读全文</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[知识库检索匹配的服务化实践 (有赞技术团队)]]></title>
