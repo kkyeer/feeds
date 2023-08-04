@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kkyeer.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-03T17:39:58.746Z</updated>
+    <updated>2023-08-04T05:39:22.592Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[美团前端研发框架Rome实践和演进趋势 (美团技术博客)]]></title>
+        <id>https://tech.meituan.com/2023/08/03/meituan-rome-practice.html</id>
+        <link href="https://tech.meituan.com/2023/08/03/meituan-rome-practice.html"/>
+        <updated>2023-08-04T05:39:16.078Z</updated>
+        <content type="html"><![CDATA[本文整理自美团技术沙龙第76期《大前端研发协同效能提升与实践》，为大家介绍了美团到店前端研发框架Rome实践和演进趋势。具体来讲，本文首先介绍了Rome整体的工程生态、演变路径、规模化升级以及工程框架外的开发辅助工具；第二部分，重点阐述了如何做框架度量和相关的业务实践；最后做整体的总结以及对工程框架的下一阶段的思考。希望能对大家带来一些帮助或启发。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2023/08/03/meituan-rome-practice.html">阅读全文</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[斩获CVPR 2023竞赛2项冠军｜美团街景理解中视觉分割技术的探索与应用 (美团技术博客)]]></title>
         <id>https://tech.meituan.com/2023/07/27/meituan-visual-segmentation-technology-cvpr-2023.html</id>
@@ -155,14 +163,6 @@
         <updated>2023-07-25T06:24:14.511Z</updated>
         <content type="html"><![CDATA[面对在线推理服务使用的GPU资源不断增加、GPU利用率普遍较低的挑战，美团视觉研发团队决定通过模型结构拆分和微服务化进行优化，他们提出一种通用高效的部署架构，来解决这种常见的性能瓶颈问题。以“图像检测+分类”服务为例，优化后的服务压测性能指标GPU利用率由40%提升至100%，QPS也提升超过3倍。本文将会重点介绍推理服务部署架构优化的工程实践，希望对大家能有所帮助或启发。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2023/02/09/inference-optimization-on-gpu-by-meituan-vision.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Code：美团代码托管平台的演进与实践 (美团技术博客)]]></title>
-        <id>https://tech.meituan.com/2023/02/02/code-the-evolution-and-practice-of-meituan-code-repositories-platform.html</id>
-        <link href="https://tech.meituan.com/2023/02/02/code-the-evolution-and-practice-of-meituan-code-repositories-platform.html"/>
-        <updated>2023-07-25T06:24:14.513Z</updated>
-        <content type="html"><![CDATA[美团代码托管平台经过长期的打磨，完成了分布式架构的改造落地，托管数以万计的仓库，日均Git相关请求达到千万级别。本文主要介绍了美团代码托管平台在迭代演进过程中面临的挑战及解决思路，希望对大家有所帮助或启发。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2023/02/02/code-the-evolution-and-practice-of-meituan-code-repositories-platform.html">阅读全文</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[知识库检索匹配的服务化实践 (有赞技术团队)]]></title>
