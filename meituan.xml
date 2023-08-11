@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tech.meituan.com/</id>
     <title>美团技术博客</title>
-    <updated>2023-08-10T17:39:17.790Z</updated>
+    <updated>2023-08-11T05:39:50.129Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://awps-assets.meituan.net/mit/blog/v20190629/asset/icon/android-icon-192x192.png?v=Whistle&amp;t=20181017-1r</icon>
+    <entry>
+        <title type="html"><![CDATA[KDD 2023 | 美团技术团队精选论文解读]]></title>
+        <id>https://tech.meituan.com/2023/08/11/meituan-kdd-2023.html</id>
+        <link href="https://tech.meituan.com/2023/08/11/meituan-kdd-2023.html"/>
+        <updated>2023-08-11T05:39:39.318Z</updated>
+        <content type="html"><![CDATA[本文精选了美团技术团队被KDD 2023收录的7篇论文进行解读，论文覆盖了Feed流推荐、多模态数据、实例分割、用户意图预测等多个方向。这些论文也是美团技术团队与国内多所高校、科研机构合作的成果。希望给从事相关研究工作的同学带来一些启发或者帮助。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2023/08/11/meituan-kdd-2023.html">阅读全文</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美团前端研发框架Rome实践和演进趋势]]></title>
         <id>https://tech.meituan.com/2023/08/03/meituan-rome-practice.html</id>
@@ -156,13 +164,5 @@
         <updated>2023-07-25T06:24:14.510Z</updated>
         <content type="html"><![CDATA[外卖场景的用户停留时长低于传统电商，对用户实时需求的理解和反馈有更高的要求。针对业务问题，外卖推荐团队从2021年起开始持续投入，最终摸索出了一套适用于外卖场景的交互式推荐架构和策略，并取得了较好的收益。本文详细介绍了外卖首页Feed在搭建交互式推荐时遇到的挑战和解决思路。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2023/02/17/interactive-recommendation-system-for-meituan-waimai.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美团视觉GPU推理服务部署架构优化实践]]></title>
-        <id>https://tech.meituan.com/2023/02/09/inference-optimization-on-gpu-by-meituan-vision.html</id>
-        <link href="https://tech.meituan.com/2023/02/09/inference-optimization-on-gpu-by-meituan-vision.html"/>
-        <updated>2023-07-25T06:24:14.511Z</updated>
-        <content type="html"><![CDATA[面对在线推理服务使用的GPU资源不断增加、GPU利用率普遍较低的挑战，美团视觉研发团队决定通过模型结构拆分和微服务化进行优化，他们提出一种通用高效的部署架构，来解决这种常见的性能瓶颈问题。以“图像检测+分类”服务为例，优化后的服务压测性能指标GPU利用率由40%提升至100%，QPS也提升超过3倍。本文将会重点介绍推理服务部署架构优化的工程实践，希望对大家能有所帮助或启发。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2023/02/09/inference-optimization-on-gpu-by-meituan-vision.html">阅读全文</a>]]></content>
     </entry>
 </feed>
