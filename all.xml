@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kkyeer.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-24T17:39:43.402Z</updated>
+    <updated>2023-08-25T05:39:35.503Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[如何提供一个可信的AB测试解决方案 (美团技术博客)]]></title>
+        <id>https://tech.meituan.com/2023/08/24/ab-test-practice-in-meituan.html</id>
+        <link href="https://tech.meituan.com/2023/08/24/ab-test-practice-in-meituan.html"/>
+        <updated>2023-08-25T05:39:29.293Z</updated>
+        <content type="html"><![CDATA[本文以履约场景下的具体实践为背景，介绍如何提供一个可信赖的AB测试解决方案。一方面从实验方法的角度论述实验过程中容易被忽视的统计陷阱，给出具体的解决方案，一方面从平台建设角度论述针对业务场景和对应约束制定实验方案提供给用户，而不只是功能和方法由用户自由选择，因为实验方法差之毫厘，结果可能是失之千里。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2023/08/24/ab-test-practice-in-meituan.html">阅读全文</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KDD 2023 | 美团技术团队精选论文解读 (美团技术博客)]]></title>
         <id>https://tech.meituan.com/2023/08/11/meituan-kdd-2023.html</id>
@@ -155,14 +163,6 @@
         <updated>2023-07-25T06:24:14.509Z</updated>
         <content type="html"><![CDATA[美团基础研发平台视觉智能部与中科院计算所展开科研课题合作，共同构建大规模数据集Food2K，并提出渐进式区域增强网络用于食品图像识别，相关研究成果已发表于T-PAMI 2023。本文主要介绍了数据集特点、方法设计、性能对比，以及基于该数据集的迁移实验等方面的内容，并对Food2K未来的工作进行了展望。希望能为从事相关工作的同学带来一些帮助或者启发。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2023/02/23/large-scale-visual-food-recognition.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[交互式推荐在外卖场景的探索与应用 (美团技术博客)]]></title>
-        <id>https://tech.meituan.com/2023/02/17/interactive-recommendation-system-for-meituan-waimai.html</id>
-        <link href="https://tech.meituan.com/2023/02/17/interactive-recommendation-system-for-meituan-waimai.html"/>
-        <updated>2023-07-25T06:24:14.510Z</updated>
-        <content type="html"><![CDATA[外卖场景的用户停留时长低于传统电商，对用户实时需求的理解和反馈有更高的要求。针对业务问题，外卖推荐团队从2021年起开始持续投入，最终摸索出了一套适用于外卖场景的交互式推荐架构和策略，并取得了较好的收益。本文详细介绍了外卖首页Feed在搭建交互式推荐时遇到的挑战和解决思路。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2023/02/17/interactive-recommendation-system-for-meituan-waimai.html">阅读全文</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[知识库检索匹配的服务化实践 (有赞技术团队)]]></title>
