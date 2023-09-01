@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tech.meituan.com/</id>
     <title>美团技术博客</title>
-    <updated>2023-09-01T05:39:21.709Z</updated>
+    <updated>2023-09-01T17:39:10.039Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://awps-assets.meituan.net/mit/blog/v20190629/asset/icon/android-icon-192x192.png?v=Whistle&amp;t=20181017-1r</icon>
+    <entry>
+        <title type="html"><![CDATA[MJDK 如何实现压缩速率的 5 倍提升？]]></title>
+        <id>https://tech.meituan.com/2023/08/31/meituan-mjdk-mzlib.html</id>
+        <link href="https://tech.meituan.com/2023/08/31/meituan-mjdk-mzlib.html"/>
+        <updated>2023-09-01T17:39:03.466Z</updated>
+        <content type="html"><![CDATA[MJDK 是基于 OpenJDK 构建的美团 JDK 发行版。本文主要介绍 MJDK 是如何在保障 java.util.zip.* API 及压缩格式兼容性的前提下，实现压缩/解压缩速率提升 5-10 倍的效果。希望相关的经验能够帮助到更多的技术同学。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2023/08/31/meituan-mjdk-mzlib.html">阅读全文</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何提供一个可信的AB测试解决方案]]></title>
         <id>https://tech.meituan.com/2023/08/24/ab-test-practice-in-meituan.html</id>
@@ -156,13 +164,5 @@
         <updated>2023-07-25T06:24:14.506Z</updated>
         <content type="html"><![CDATA[近日，美团视觉智能部发布了 YOLOv6 3.0 版本，再一次将目标检测的综合性能推向新高。本次更新除了对 YOLOv6-N/S/M/L 模型进行全系列升级之外，还推出了大分辨率 P6 模型。其中，YOLOv6-L6 检测精度和速度超越 YOLOv7-E6E，取得当前实时目标检测榜单 SOTA。本文主要介绍了 YOLOv6 3.0 版本中引入的技术创新和优化，希望能为从事相关工作的同学带来一些启发或帮助。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2023/03/02/yolov6-sota-real-time-object-detection-on-coco.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大规模食品图像识别：T-PAMI 2023论文解读]]></title>
-        <id>https://tech.meituan.com/2023/02/23/large-scale-visual-food-recognition.html</id>
-        <link href="https://tech.meituan.com/2023/02/23/large-scale-visual-food-recognition.html"/>
-        <updated>2023-07-25T06:24:14.509Z</updated>
-        <content type="html"><![CDATA[美团基础研发平台视觉智能部与中科院计算所展开科研课题合作，共同构建大规模数据集Food2K，并提出渐进式区域增强网络用于食品图像识别，相关研究成果已发表于T-PAMI 2023。本文主要介绍了数据集特点、方法设计、性能对比，以及基于该数据集的迁移实验等方面的内容，并对Food2K未来的工作进行了展望。希望能为从事相关工作的同学带来一些帮助或者启发。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2023/02/23/large-scale-visual-food-recognition.html">阅读全文</a>]]></content>
     </entry>
 </feed>
