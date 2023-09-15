@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tech.meituan.com/</id>
     <title>美团技术博客</title>
-    <updated>2023-09-14T17:39:50.000Z</updated>
+    <updated>2023-09-15T05:39:37.211Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://awps-assets.meituan.net/mit/blog/v20190629/asset/icon/android-icon-192x192.png?v=Whistle&amp;t=20181017-1r</icon>
+    <entry>
+        <title type="html"><![CDATA[美团多场景建模的探索与实践]]></title>
+        <id>https://tech.meituan.com/2023/09/14/demand-side-platform.html</id>
+        <link href="https://tech.meituan.com/2023/09/14/demand-side-platform.html"/>
+        <updated>2023-09-15T05:39:29.924Z</updated>
+        <content type="html"><![CDATA[本文介绍了美团到家/站外投放团队在多场景建模技术方向上的探索与实践。基于外部投放的业务背景，本文提出了一种自适应的场景知识迁移和场景聚合技术，解决了在投放中面临外部海量流量带来的场景数量丰富、场景间差异大的问题，取得了明显的效果提升。希望能给大家带来一些启发或帮助。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2023/09/14/demand-side-platform.html">阅读全文</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MJDK 如何实现压缩速率的 5 倍提升？]]></title>
         <id>https://tech.meituan.com/2023/08/31/meituan-mjdk-mzlib.html</id>
@@ -156,13 +164,5 @@
         <updated>2023-07-25T06:24:14.505Z</updated>
         <content type="html"><![CDATA[“当你和智能语音机器人对话交互时，你是否好奇电话背后的机器人如何“听懂”你的意思，又如何像人一样“回答”你的问题？其中比较重要的技术就是 MRCP。本文主要介绍了 MRCP 在美团语音交互中的实践和应用，基于美团自研的语音识别及语音合成能力，我们提升了外呼通话的成功率，并且保证了更好的用户体验。”
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2023/03/09/practice-and-application-of-mrcp-in-voice-interaction-of-meituan.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SOTA！目标检测开源框架YOLOv6 3.0版本来啦]]></title>
-        <id>https://tech.meituan.com/2023/03/02/yolov6-sota-real-time-object-detection-on-coco.html</id>
-        <link href="https://tech.meituan.com/2023/03/02/yolov6-sota-real-time-object-detection-on-coco.html"/>
-        <updated>2023-07-25T06:24:14.506Z</updated>
-        <content type="html"><![CDATA[近日，美团视觉智能部发布了 YOLOv6 3.0 版本，再一次将目标检测的综合性能推向新高。本次更新除了对 YOLOv6-N/S/M/L 模型进行全系列升级之外，还推出了大分辨率 P6 模型。其中，YOLOv6-L6 检测精度和速度超越 YOLOv7-E6E，取得当前实时目标检测榜单 SOTA。本文主要介绍了 YOLOv6 3.0 版本中引入的技术创新和优化，希望能为从事相关工作的同学带来一些启发或帮助。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2023/03/02/yolov6-sota-real-time-object-detection-on-coco.html">阅读全文</a>]]></content>
     </entry>
 </feed>
