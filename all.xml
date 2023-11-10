@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kkyeer.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-09T17:39:08.844Z</updated>
+    <updated>2023-11-10T05:39:18.323Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[如何利用「深度上下文兴趣网络」提升点击率？ (美团技术博客)]]></title>
+        <id>https://tech.meituan.com/2023/11/09/how-to-model-context-information-in-deep-interest-network.html</id>
+        <link href="https://tech.meituan.com/2023/11/09/how-to-model-context-information-in-deep-interest-network.html"/>
+        <updated>2023-11-10T05:39:11.749Z</updated>
+        <content type="html"><![CDATA[美团到店广告平台在用户行为序列建模算法的迭代落地中，基于对业务实际场景中用户决策心智的观察，创新性地提出了深度上下文兴趣网络，精确建模了用户的兴趣，提升了CTR等线上业务指标。本文介绍了相应算法背后的动机、建模方法以及工程优化，希望能为从事相关工作的同学带来一些启发或帮助。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2023/11/09/how-to-model-context-information-in-deep-interest-network.html">阅读全文</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[基于模式挖掘的可靠性治理探索 (美团技术博客)]]></title>
         <id>https://tech.meituan.com/2023/10/12/exploration-of-reliability-governance-based-on-pattern-mining.html</id>
@@ -155,14 +163,6 @@
         <updated>2023-07-25T06:24:14.498Z</updated>
         <content type="html"><![CDATA[美团语音交互部针对交互场景下的低延迟语音识别需求，提出了一种全新的低出字延迟流式语音识别方案。本方法将降低延迟问题转换成一个知识蒸馏过程，极大地简化了延迟优化的难度，仅通过一个正则项损失函数就使得模型在训练过程中自动降低出字延迟。在实验测试集上，本方法能够获得最高近 200 毫秒左右的平均出字延迟降低。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2023/04/13/low-latency-streaming-speech-recognition-in-human-computer-speech-interaction-scenarios.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基于AI+数据驱动的慢查询索引推荐 (美团技术博客)]]></title>
-        <id>https://tech.meituan.com/2023/04/06/slow-query-optimized-driven-by-ai-data.html</id>
-        <link href="https://tech.meituan.com/2023/04/06/slow-query-optimized-driven-by-ai-data.html"/>
-        <updated>2023-07-25T06:24:14.502Z</updated>
-        <content type="html"><![CDATA[目前，美团内部的日均慢查询数量已经超过上亿条，如何对对这些慢查询进行分析并建立合适的索引，是美团数据库研发中心面临的一项挑战。美团数据库平台研发组与华东师范大学展开了科研合作，通过基于AI+数据驱动的索引推荐，来与基于代价的方法并行地为慢查询推荐索引，以提升推荐效果。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2023/04/06/slow-query-optimized-driven-by-ai-data.html">阅读全文</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[知识库检索匹配的服务化实践 (有赞技术团队)]]></title>
