@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kkyeer.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-12-21T17:39:07.751Z</updated>
+    <updated>2023-12-22T05:39:00.349Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[AIOps在美团的探索与实践——事件管理篇 (美团技术博客)]]></title>
+        <id>https://tech.meituan.com/2023/12/22/aiops-based-incident-management.html</id>
+        <link href="https://tech.meituan.com/2023/12/22/aiops-based-incident-management.html"/>
+        <updated>2023-12-22T05:38:55.368Z</updated>
+        <content type="html"><![CDATA[美团服务运维团队从事前防御、事中处理、事后运营多个阶段探索AIOps在事件管理领域的应用。本文介绍了在各个运维领域中AIOps的赋能场景，详细阐述了每一个运维场景的业务价值以及算法的具体的落地效果。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2023/12/22/aiops-based-incident-management.html">阅读全文</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美团技术博客十周年，感谢一路相伴 (美团技术博客)]]></title>
         <id>https://tech.meituan.com/2023/12/04/ten-years-of-meituan-technology-blog.html</id>
@@ -155,14 +163,6 @@
         <updated>2023-07-25T06:24:14.491Z</updated>
         <content type="html"><![CDATA[2016年，我们对美团Android热更新方案Robust的技术原理做了详细介绍。近几年，Google 推出了新的代码优化混淆工具R8，Android 热修复补丁制作依赖二次构建包和线上包对比，需要对Proguard切换到R8提前进行适配和改造，本文分享 Robust 在适配 R8 以及优化改进中的一些思路和经验，希望能对大家有所帮助或者启发。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2023/05/18/robust-2.0-android-r8.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[超大规模数据库集群保稳系列之一：高可用系统 (美团技术博客)]]></title>
-        <id>https://tech.meituan.com/2023/05/11/meituan-high-availability-system.html</id>
-        <link href="https://tech.meituan.com/2023/05/11/meituan-high-availability-system.html"/>
-        <updated>2023-07-25T06:24:14.493Z</updated>
-        <content type="html"><![CDATA[基于过去多年在大规模数据集群保稳方面的实践经验，我们希望能够跟业界进行一些技术交流，美团技术团队举办了第75期技术沙龙。我们邀请到了美团研究员赵应钢担任出品人，同时请邀请到张洪、王占全、蔺瑞超、沈裕锋等4位数据库方向的4位技术专家，围绕进攻、防守、⾃愈、演练等几个方向展开分享。本文系超大规模数据库集群保稳系列的第一篇文章。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2023/05/11/meituan-high-availability-system.html">阅读全文</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[知识库检索匹配的服务化实践 (有赞技术团队)]]></title>
