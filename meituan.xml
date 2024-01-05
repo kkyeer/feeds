@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tech.meituan.com/</id>
     <title>美团技术博客</title>
-    <updated>2024-01-05T05:39:01.475Z</updated>
+    <updated>2024-01-05T17:38:47.605Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://awps-assets.meituan.net/mit/blog/v20190629/asset/icon/android-icon-192x192.png?v=Whistle&amp;t=20181017-1r</icon>
+    <entry>
+        <title type="html"><![CDATA[2023 | 美团技术团队热门技术文章汇总]]></title>
+        <id>https://tech.meituan.com/2024/01/04/tech-meituan-summary-2023.html</id>
+        <link href="https://tech.meituan.com/2024/01/04/tech-meituan-summary-2023.html"/>
+        <updated>2024-01-05T17:38:41.895Z</updated>
+        <content type="html"><![CDATA[时光飞逝，告别了难忘的2023，迎来了充满希望的2024。再次感谢大家的一路相伴。我们整理了2023年美团技术团队微信公众号阅读量靠前的10篇技术文章，欢迎大家品阅。祝愿大家在新的一年里，幸福平安，行稳致远。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2024/01/04/tech-meituan-summary-2023.html">阅读全文</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美团到店终端从标准化到数字化的演进之路]]></title>
         <id>https://tech.meituan.com/2023/12/29/the-evolution-of-terminals-from-standardization-to-digitalization.html</id>
@@ -156,13 +164,5 @@
         <updated>2023-07-25T06:24:14.487Z</updated>
         <content type="html"><![CDATA[本篇是美团超大规模数据库集群保稳定系列的第三篇，重点介绍一下美团数据库的容灾体系建设实践。主要内容包括业务架构、数据库容灾平台能力建设、演练体系建设、以及这些建设取得的一些成果，最后也会分享一下容灾建设的未来思考。希望对大家能够有所帮助或者启发。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2023/06/09/meituan-database-recovery-system.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[超大规模数据库集群保稳系列之二：数据库攻防演练建设实践]]></title>
-        <id>https://tech.meituan.com/2023/05/26/database-attack-and-defense-practice.html</id>
-        <link href="https://tech.meituan.com/2023/05/26/database-attack-and-defense-practice.html"/>
-        <updated>2023-07-25T06:24:14.489Z</updated>
-        <content type="html"><![CDATA[本文整理自美团技术沙龙第75期的主题分享《美团数据库攻防演练建设实践》，系超大规模数据库集群保稳系列的第2篇文章。本文首先介绍了美团当前数据库运维现状、遇到的问题，以及为什么要建设数据库攻防演练平台；其次，分享当前数据库攻防演练平台的具体实践；第三部分会介绍数据库攻防演练在美团内部的落地情况；最后，会结合混沌工程的成熟度标准和成熟度等级，分享我们对未来工作的一些规划。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2023/05/26/database-attack-and-defense-practice.html">阅读全文</a>]]></content>
     </entry>
 </feed>
