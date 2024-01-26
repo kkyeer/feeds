@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kkyeer.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-25T17:38:59.672Z</updated>
+    <updated>2024-01-26T05:39:27.008Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[分布式因果推断在美团履约平台的探索与实践 (美团技术博客)]]></title>
+        <id>https://tech.meituan.com/2024/01/25/identify-causal-effect.html</id>
+        <link href="https://tech.meituan.com/2024/01/25/identify-causal-effect.html"/>
+        <updated>2024-01-26T05:39:22.314Z</updated>
+        <content type="html"><![CDATA[美团履约平台技术部在因果推断领域持续的探索和实践中，自研了一系列分布式的工具。本文重点介绍了分布式因果树算法的实现，并系统地阐述如何设计实现一种分布式因果树算法，以及因果效应评估方面qini_curve/qini_score的不足与应对技巧。希望能为从事因果推断相关工作的同学们提供一些启发或帮助。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2024/01/25/identify-causal-effect.html">阅读全文</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美团RASP大规模研发部署实践总结 (美团技术博客)]]></title>
         <id>https://tech.meituan.com/2024/01/19/runtime-application-self-protection-practice-in-meituan.html</id>
@@ -155,14 +163,6 @@
         <updated>2023-07-25T06:24:14.483Z</updated>
         <content type="html"><![CDATA[本文整理自主题分享《美团数据库自治服务平台建设》，系超大规模数据库集群保稳系列的第四篇文章。本文作者在演讲后根据同学们的反馈，补充了很多技术细节，跟演讲（视频）相比，内容更加丰富。文章分成上、下两篇，上篇将介绍数据库的异常发现跟诊断方面的内容，下篇将介绍内核可观测性建设、全量SQL、异常处理以及索引优化建议与SQL治理方面的内容。希望能够对大家有所帮助或启发。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2023/07/06/meituan-mysql-autonomous-platform-02.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CVPR 2023 | 美团技术团队精选论文解读 (美团技术博客)]]></title>
-        <id>https://tech.meituan.com/2023/06/16/cvpr-2023-meituan.html</id>
-        <link href="https://tech.meituan.com/2023/06/16/cvpr-2023-meituan.html"/>
-        <updated>2023-07-25T06:24:14.485Z</updated>
-        <content type="html"><![CDATA[本文精选了美团技术团队被CVPR 2023收录的8篇论文进行解读。这些论文既有自监督学习、领域自适应、联邦学习等通用学习范式方面的技术迭代，也涉及目标检测、跟踪、分割、Low-level Vision等典型视觉任务的性能，体现了美团在基础通用技术和垂直领域技术上的全方位创新。这些论文也是美团技术团队与国内多所高校、科研机构合作的成果。希望给从事相关研究工作的同学带来一些启发或者帮助。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2023/06/16/cvpr-2023-meituan.html">阅读全文</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[知识库检索匹配的服务化实践 (有赞技术团队)]]></title>
