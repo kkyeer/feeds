@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tech.meituan.com/</id>
     <title>美团技术博客</title>
-    <updated>2024-02-29T17:39:20.579Z</updated>
+    <updated>2024-03-01T05:39:32.648Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://awps-assets.meituan.net/mit/blog/v20190629/asset/icon/android-icon-192x192.png?v=Whistle&amp;t=20181017-1r</icon>
+    <entry>
+        <title type="html"><![CDATA[基于接口数据变异的App健壮性测试实践]]></title>
+        <id>https://tech.meituan.com/2024/02/29/meituan-robustness-practice.html</id>
+        <link href="https://tech.meituan.com/2024/02/29/meituan-robustness-practice.html"/>
+        <updated>2024-03-01T05:39:27.086Z</updated>
+        <content type="html"><![CDATA[本文整理自美团技术沙龙第77期《美团亿级流量系统的质量风险防控和稳定性治理实践》，主要介绍了对网络返回数据进行变异的客户端健壮性测试实践经验。文章第一部分介绍客户端健壮性测试的基本概念；第二部分分享了基于接口返回数据变异的App健壮性测试方案设计的思路；第三部分主要解读了变异数据的构造和异常检测方案设计；第四部分介绍了精简变异数据的探索方案。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2024/02/29/meituan-robustness-practice.html">阅读全文</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美团技术年货 | 600+页电子书，前端、后端、算法、测试、运维系列大合集]]></title>
         <id>https://tech.meituan.com/2024/02/01/2023-spring-festival-present.html</id>
@@ -156,13 +164,5 @@
         <updated>2023-07-25T06:24:14.476Z</updated>
         <content type="html"><![CDATA[相比于其他电商场景，外卖场景对于实时发现和反馈用户兴趣的能力有着更高的要求，近年来，美团外卖算法团队摸索出了一套适用于外卖场景的智能陪伴型导购架构和策略。这一举措已经取得了显著成效，本文将详细介绍外卖搜索技术团队搭建智能陪伴型导购时，所遇到的挑战以及解决思路，希望能对大家有所帮助或启发。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2023/07/13/exploration-and-practice-of-meituan-waimai-intelligent-companion-search-guide.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MySQL自治平台建设的内核原理及实践（上）]]></title>
-        <id>https://tech.meituan.com/2023/07/06/meituan-mysql-autonomous-platform-01.html</id>
-        <link href="https://tech.meituan.com/2023/07/06/meituan-mysql-autonomous-platform-01.html"/>
-        <updated>2023-07-25T06:24:14.480Z</updated>
-        <content type="html"><![CDATA[本文整理自主题分享《美团数据库自治服务平台建设》，系超大规模数据库集群保稳系列的第四篇文章。本文作者在演讲后根据同学们的反馈，补充了很多技术细节，跟演讲（视频）相比，内容更加丰富。文章分成上、下两篇，上篇将介绍数据库的异常发现跟诊断方面的内容，下篇将介绍内核可观测性建设、全量SQL、异常处理以及索引优化建议与SQL治理方面的内容。希望能够对大家有所帮助或启发。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2023/07/06/meituan-mysql-autonomous-platform-01.html">阅读全文</a>]]></content>
     </entry>
 </feed>
