@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kkyeer.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-28T17:39:19.859Z</updated>
+    <updated>2024-03-29T05:39:06.948Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[百亿大规模图在广告场景的应用 (美团技术博客)]]></title>
+        <id>https://tech.meituan.com/2024/03/29/large-scale-graph-application.html</id>
+        <link href="https://tech.meituan.com/2024/03/29/large-scale-graph-application.html"/>
+        <updated>2024-03-29T05:39:01.959Z</updated>
+        <content type="html"><![CDATA[本文通过搜索推荐项目进行外卖搜索广告弱供给填充，提高流量变现效率。我们提出外卖多场景异构大图、异构大图在线建模技术演进路线，解决外卖搜索推荐业务多渠道、即时化的挑战。相关成果发表CIKM2023会议一篇。联合机器学习平台搭建大规模图训练、在线推理引擎GraphET，满足近百亿边规模、复杂图结构的多个业务落地。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2024/03/29/large-scale-graph-application.html">阅读全文</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大众点评内容搜索算法优化的探索与实践 (美团技术博客)]]></title>
         <id>https://tech.meituan.com/2024/03/21/content-search-algorithm-optimization.html</id>
@@ -155,14 +163,6 @@
         <updated>2023-08-04T05:39:16.078Z</updated>
         <content type="html"><![CDATA[本文整理自美团技术沙龙第76期《大前端研发协同效能提升与实践》，为大家介绍了美团到店前端研发框架Rome实践和演进趋势。具体来讲，本文首先介绍了Rome整体的工程生态、演变路径、规模化升级以及工程框架外的开发辅助工具；第二部分，重点阐述了如何做框架度量和相关的业务实践；最后做整体的总结以及对工程框架的下一阶段的思考。希望能对大家带来一些帮助或启发。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2023/08/03/meituan-rome-practice.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[斩获CVPR 2023竞赛2项冠军｜美团街景理解中视觉分割技术的探索与应用 (美团技术博客)]]></title>
-        <id>https://tech.meituan.com/2023/07/27/meituan-visual-segmentation-technology-cvpr-2023.html</id>
-        <link href="https://tech.meituan.com/2023/07/27/meituan-visual-segmentation-technology-cvpr-2023.html"/>
-        <updated>2023-08-01T17:39:34.533Z</updated>
-        <content type="html"><![CDATA[视觉分割技术在街景理解中具有重要地位，同时也面临诸多挑战。美团街景理解团队经过长期探索，构建了一套兼顾精度与效率的分割技术体系，在应用中取得了显著效果。同时，相关技术斩获了CVPR 2023竞赛2项冠军1项季军。本文将详细介绍街景理解中分割技术的探索与应用，希望能给从事相关研究工作的同学带来一些帮助或启发。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2023/07/27/meituan-visual-segmentation-technology-cvpr-2023.html">阅读全文</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[知识库检索匹配的服务化实践 (有赞技术团队)]]></title>
