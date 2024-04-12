@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tech.meituan.com/</id>
     <title>美团技术博客</title>
-    <updated>2024-04-11T17:39:05.785Z</updated>
+    <updated>2024-04-12T05:39:56.390Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://awps-assets.meituan.net/mit/blog/v20190629/asset/icon/android-icon-192x192.png?v=Whistle&amp;t=20181017-1r</icon>
+    <entry>
+        <title type="html"><![CDATA[美团外卖基于GPU的向量检索系统实践]]></title>
+        <id>https://tech.meituan.com/2024/04/11/gpu-vector-retrieval-system-practice.html</id>
+        <link href="https://tech.meituan.com/2024/04/11/gpu-vector-retrieval-system-practice.html"/>
+        <updated>2024-04-12T05:39:50.552Z</updated>
+        <content type="html"><![CDATA[到家搜索业务具有数据量大、过滤比高等特点，为了在保证高召回率的同时进一步提高检索性能，美团到家搜索技术团队与基础研发机器学习平台团队基于GPU实现了支持向量+标量混合检索的通用检索系统，召回率与检索性能均有较大提升。本文将介绍我们在GPU向量检索系统建设中遇到的挑战及解决思路，希望对大家有所帮助或启发。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2024/04/11/gpu-vector-retrieval-system-practice.html">阅读全文</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[百亿大规模图在广告场景的应用]]></title>
         <id>https://tech.meituan.com/2024/03/29/large-scale-graph-application.html</id>
@@ -156,13 +164,5 @@
         <updated>2023-08-11T05:39:39.318Z</updated>
         <content type="html"><![CDATA[本文精选了美团技术团队被KDD 2023收录的7篇论文进行解读，论文覆盖了Feed流推荐、多模态数据、实例分割、用户意图预测等多个方向。这些论文也是美团技术团队与国内多所高校、科研机构合作的成果。希望给从事相关研究工作的同学带来一些启发或者帮助。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2023/08/11/meituan-kdd-2023.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美团前端研发框架Rome实践和演进趋势]]></title>
-        <id>https://tech.meituan.com/2023/08/03/meituan-rome-practice.html</id>
-        <link href="https://tech.meituan.com/2023/08/03/meituan-rome-practice.html"/>
-        <updated>2023-08-04T05:39:16.078Z</updated>
-        <content type="html"><![CDATA[本文整理自美团技术沙龙第76期《大前端研发协同效能提升与实践》，为大家介绍了美团到店前端研发框架Rome实践和演进趋势。具体来讲，本文首先介绍了Rome整体的工程生态、演变路径、规模化升级以及工程框架外的开发辅助工具；第二部分，重点阐述了如何做框架度量和相关的业务实践；最后做整体的总结以及对工程框架的下一阶段的思考。希望能对大家带来一些帮助或启发。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2023/08/03/meituan-rome-practice.html">阅读全文</a>]]></content>
     </entry>
 </feed>
