@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tech.meituan.com/</id>
     <title>美团技术博客</title>
-    <updated>2024-05-09T17:39:29.587Z</updated>
+    <updated>2024-05-10T05:39:10.672Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://awps-assets.meituan.net/mit/blog/v20190629/asset/icon/android-icon-192x192.png?v=Whistle&amp;t=20181017-1r</icon>
+    <entry>
+        <title type="html"><![CDATA[DDD在大众点评交易系统演进中的应用]]></title>
+        <id>https://tech.meituan.com/2024/05/09/ddd-practice-trading-system.html</id>
+        <link href="https://tech.meituan.com/2024/05/09/ddd-practice-trading-system.html"/>
+        <updated>2024-05-10T05:39:06.352Z</updated>
+        <content type="html"><![CDATA[本文整理自美团技术沙龙第73期《基于领域驱动设计（DDD）的架构演进和实践》，主要介绍了DDD的核心概念、常见的设计思路，并结合DDD介绍大众点评交易系统的演进过程，最后做了一些总结和思考。希望这些内容能够对大家有所帮助或启发。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2024/05/09/ddd-practice-trading-system.html">阅读全文</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美团外卖基于GPU的向量检索系统实践]]></title>
         <id>https://tech.meituan.com/2024/04/11/gpu-vector-retrieval-system-practice.html</id>
@@ -156,13 +164,5 @@
         <updated>2023-08-25T05:39:29.293Z</updated>
         <content type="html"><![CDATA[本文以履约场景下的具体实践为背景，介绍如何提供一个可信赖的AB测试解决方案。一方面从实验方法的角度论述实验过程中容易被忽视的统计陷阱，给出具体的解决方案，一方面从平台建设角度论述针对业务场景和对应约束制定实验方案提供给用户，而不只是功能和方法由用户自由选择，因为实验方法差之毫厘，结果可能是失之千里。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2023/08/24/ab-test-practice-in-meituan.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KDD 2023 | 美团技术团队精选论文解读]]></title>
-        <id>https://tech.meituan.com/2023/08/11/meituan-kdd-2023.html</id>
-        <link href="https://tech.meituan.com/2023/08/11/meituan-kdd-2023.html"/>
-        <updated>2023-08-11T05:39:39.318Z</updated>
-        <content type="html"><![CDATA[本文精选了美团技术团队被KDD 2023收录的7篇论文进行解读，论文覆盖了Feed流推荐、多模态数据、实例分割、用户意图预测等多个方向。这些论文也是美团技术团队与国内多所高校、科研机构合作的成果。希望给从事相关研究工作的同学带来一些启发或者帮助。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2023/08/11/meituan-kdd-2023.html">阅读全文</a>]]></content>
     </entry>
 </feed>
