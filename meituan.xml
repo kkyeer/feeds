@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tech.meituan.com/</id>
     <title>美团技术博客</title>
-    <updated>2024-05-20T17:39:18.062Z</updated>
+    <updated>2024-05-21T05:39:00.505Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://awps-assets.meituan.net/mit/blog/v20190629/asset/icon/android-icon-192x192.png?v=Whistle&amp;t=20181017-1r</icon>
+    <entry>
+        <title type="html"><![CDATA[基于多模态信息抽取的菜品知识图谱构建]]></title>
+        <id>https://tech.meituan.com/2024/05/17/cross-modal-ingredient-level-dataset.html</id>
+        <link href="https://tech.meituan.com/2024/05/17/cross-modal-ingredient-level-dataset.html"/>
+        <updated>2024-05-21T05:38:55.549Z</updated>
+        <content type="html"><![CDATA[菜品作为到店餐饮各相关业务的基石，提供了更细粒度的视角理解餐饮供给，为到餐精细化运营提供了抓手。美团到店研发平台/数据智能平台部与天津大学刘安安教授团队展开了“基于多模态信息抽取的菜品知识图谱构建”的科研合作，利用多模态检索实现图文食材的识别，扩展了多模态菜品食材识别的范围，提升了食材识别的准确性。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2024/05/17/cross-modal-ingredient-level-dataset.html">阅读全文</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DDD在大众点评交易系统演进中的应用]]></title>
         <id>https://tech.meituan.com/2024/05/09/ddd-practice-trading-system.html</id>
@@ -156,13 +164,5 @@
         <updated>2023-09-01T17:39:03.466Z</updated>
         <content type="html"><![CDATA[MJDK 是基于 OpenJDK 构建的美团 JDK 发行版。本文主要介绍 MJDK 是如何在保障 java.util.zip.* API 及压缩格式兼容性的前提下，实现压缩/解压缩速率提升 5-10 倍的效果。希望相关的经验能够帮助到更多的技术同学。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2023/08/31/meituan-mjdk-mzlib.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何提供一个可信的AB测试解决方案]]></title>
-        <id>https://tech.meituan.com/2023/08/24/ab-test-practice-in-meituan.html</id>
-        <link href="https://tech.meituan.com/2023/08/24/ab-test-practice-in-meituan.html"/>
-        <updated>2023-08-25T05:39:29.293Z</updated>
-        <content type="html"><![CDATA[本文以履约场景下的具体实践为背景，介绍如何提供一个可信赖的AB测试解决方案。一方面从实验方法的角度论述实验过程中容易被忽视的统计陷阱，给出具体的解决方案，一方面从平台建设角度论述针对业务场景和对应约束制定实验方案提供给用户，而不只是功能和方法由用户自由选择，因为实验方法差之毫厘，结果可能是失之千里。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2023/08/24/ab-test-practice-in-meituan.html">阅读全文</a>]]></content>
     </entry>
 </feed>
