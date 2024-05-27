@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kkyeer.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-27T05:39:15.017Z</updated>
+    <updated>2024-05-27T17:38:53.423Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[领域驱动设计DDD在B端营销系统的实践 (美团技术博客)]]></title>
+        <id>https://tech.meituan.com/2024/05/27/ddd-in-business.html</id>
+        <link href="https://tech.meituan.com/2024/05/27/ddd-in-business.html"/>
+        <updated>2024-05-27T17:38:47.737Z</updated>
+        <content type="html"><![CDATA[本文针对B端营销系统设计中的复杂性，从战略设计，战术设计到代码架构，详细介绍了DDD在各个阶段的实践，期望为大家提供一些可供参考和借鉴的思路。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2024/05/27/ddd-in-business.html">阅读全文</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[基于多模态信息抽取的菜品知识图谱构建 (美团技术博客)]]></title>
         <id>https://tech.meituan.com/2024/05/17/cross-modal-ingredient-level-dataset.html</id>
@@ -155,14 +163,6 @@
         <updated>2023-09-15T05:39:29.924Z</updated>
         <content type="html"><![CDATA[本文介绍了美团到家/站外投放团队在多场景建模技术方向上的探索与实践。基于外部投放的业务背景，本文提出了一种自适应的场景知识迁移和场景聚合技术，解决了在投放中面临外部海量流量带来的场景数量丰富、场景间差异大的问题，取得了明显的效果提升。希望能给大家带来一些启发或帮助。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2023/09/14/demand-side-platform.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MJDK 如何实现压缩速率的 5 倍提升？ (美团技术博客)]]></title>
-        <id>https://tech.meituan.com/2023/08/31/meituan-mjdk-mzlib.html</id>
-        <link href="https://tech.meituan.com/2023/08/31/meituan-mjdk-mzlib.html"/>
-        <updated>2023-09-01T17:39:03.466Z</updated>
-        <content type="html"><![CDATA[MJDK 是基于 OpenJDK 构建的美团 JDK 发行版。本文主要介绍 MJDK 是如何在保障 java.util.zip.* API 及压缩格式兼容性的前提下，实现压缩/解压缩速率提升 5-10 倍的效果。希望相关的经验能够帮助到更多的技术同学。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2023/08/31/meituan-mjdk-mzlib.html">阅读全文</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[知识库检索匹配的服务化实践 (有赞技术团队)]]></title>
