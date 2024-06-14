@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kkyeer.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-14T05:38:42.954Z</updated>
+    <updated>2024-06-14T17:39:37.709Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[CVPR 2024 | 美团技术团队精选论文解读 (美团技术博客)]]></title>
+        <id>https://tech.meituan.com/2024/06/13/cvpr-2024.html</id>
+        <link href="https://tech.meituan.com/2024/06/13/cvpr-2024.html"/>
+        <updated>2024-06-14T17:39:31.913Z</updated>
+        <content type="html"><![CDATA[本文精选了美团技术团队被CVPR 2024收录的7篇论文进行解读，这些论文既包括OCR预训练、长尾半监督学习等基础学习范式升级，也包括图生视频、数字人驱动、视听分割（AVS）等视觉AIGC技术创新。这些论文有美团视觉智能部的独立产出，也有跟高校、科研机构合作的成果。希望能给从事相关研究工作的同学带来一些帮助或启发。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2024/06/13/cvpr-2024.html">阅读全文</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[领域驱动设计DDD在B端营销系统的实践 (美团技术博客)]]></title>
         <id>https://tech.meituan.com/2024/05/27/ddd-in-business.html</id>
@@ -155,14 +163,6 @@
         <updated>2023-09-22T17:38:57.936Z</updated>
         <content type="html"><![CDATA[本文整理自美团技术沙龙第77期《美团亿级流量系统的质量风险防控和稳定性治理实践》。文章第一部分介绍了软件系统风险与变更；第二部分介绍了代码变更风险可视化系统的能力建设；第三部分介绍了整个系统在美团内部实践落地的情况；最后是对未来的规划和展望。希望对大家能有所帮助或启发。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2023/09/22/construction-and-practice-of-code-change-risk-visualization-system.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美团多场景建模的探索与实践 (美团技术博客)]]></title>
-        <id>https://tech.meituan.com/2023/09/14/demand-side-platform.html</id>
-        <link href="https://tech.meituan.com/2023/09/14/demand-side-platform.html"/>
-        <updated>2023-09-15T05:39:29.924Z</updated>
-        <content type="html"><![CDATA[本文介绍了美团到家/站外投放团队在多场景建模技术方向上的探索与实践。基于外部投放的业务背景，本文提出了一种自适应的场景知识迁移和场景聚合技术，解决了在投放中面临外部海量流量带来的场景数量丰富、场景间差异大的问题，取得了明显的效果提升。希望能给大家带来一些启发或帮助。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2023/09/14/demand-side-platform.html">阅读全文</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[知识库检索匹配的服务化实践 (有赞技术团队)]]></title>
