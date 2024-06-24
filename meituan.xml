@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tech.meituan.com/</id>
     <title>美团技术博客</title>
-    <updated>2024-06-23T17:39:18.885Z</updated>
+    <updated>2024-06-24T05:38:57.231Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://awps-assets.meituan.net/mit/blog/v20190629/asset/icon/android-icon-192x192.png?v=Whistle&amp;t=20181017-1r</icon>
+    <entry>
+        <title type="html"><![CDATA[Spark向量化计算在美团生产环境的实践]]></title>
+        <id>https://tech.meituan.com/2024/06/23/spark-gluten-velox.html</id>
+        <link href="https://tech.meituan.com/2024/06/23/spark-gluten-velox.html"/>
+        <updated>2024-06-24T05:38:51.758Z</updated>
+        <content type="html"><![CDATA[Apache Spark是一个优秀的计算引擎，广泛应用于数据工程、机器学习等领域。向量化执行技术在不升级硬件的情况下，既可获得资源节省和加速作业执行。Gluten+Velox解决方案为Spark换上了向量化执行引擎，本文将阐述美团在这一方向的实践和思考，希望对大家有所帮助或启发。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2024/06/23/spark-gluten-velox.html">阅读全文</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CVPR 2024 | 美团技术团队精选论文解读]]></title>
         <id>https://tech.meituan.com/2024/06/13/cvpr-2024.html</id>
@@ -156,13 +164,5 @@
         <updated>2023-10-13T05:39:14.343Z</updated>
         <content type="html"><![CDATA[本文整理自美团技术沙龙第77期《美团亿级流量系统的质量风险防控和稳定性治理实践》。本文介绍了基于模式挖掘的可靠性治理探索，为通过技术手段解决该领域代表性问题开启了新的思路。文章第一部分介绍可靠性治理的痛点；第二部分引入模式的概念；第三部分讨论新基建下的新尝试；第四部分分享三个典型的实践案例。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2023/10/12/exploration-of-reliability-governance-based-on-pattern-mining.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[代码变更风险可视化系统建设与实践]]></title>
-        <id>https://tech.meituan.com/2023/09/22/construction-and-practice-of-code-change-risk-visualization-system.html</id>
-        <link href="https://tech.meituan.com/2023/09/22/construction-and-practice-of-code-change-risk-visualization-system.html"/>
-        <updated>2023-09-22T17:38:57.936Z</updated>
-        <content type="html"><![CDATA[本文整理自美团技术沙龙第77期《美团亿级流量系统的质量风险防控和稳定性治理实践》。文章第一部分介绍了软件系统风险与变更；第二部分介绍了代码变更风险可视化系统的能力建设；第三部分介绍了整个系统在美团内部实践落地的情况；最后是对未来的规划和展望。希望对大家能有所帮助或启发。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2023/09/22/construction-and-practice-of-code-change-risk-visualization-system.html">阅读全文</a>]]></content>
     </entry>
 </feed>
