@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kkyeer.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-27T17:40:05.095Z</updated>
+    <updated>2024-06-28T05:39:52.976Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[小程序可测性能力建设与实践 (美团技术博客)]]></title>
+        <id>https://tech.meituan.com/2024/06/28/menpiao-testing-practice.html</id>
+        <link href="https://tech.meituan.com/2024/06/28/menpiao-testing-practice.html"/>
+        <updated>2024-06-28T05:39:48.359Z</updated>
+        <content type="html"><![CDATA[本文整理自美团技术沙龙第77期《美团亿级流量系统的质量风险防控和稳定性治理实践》作为一种终端产品生态，小程序在业界产品中占有非常重要的地位。本文从小程序的质量保障需求出发，分析小程序的测试难点，引出小程序可测性的基本概念，介绍美团到店研发平台针对小程序可测性改进的通用化方案。最后分享美团门票业务小程序测试工作的实践经验，本文旨在为读者在小程序质量保障领域提供一些有价值的见解和启示。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2024/06/28/menpiao-testing-practice.html">阅读全文</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Spark向量化计算在美团生产环境的实践 (美团技术博客)]]></title>
         <id>https://tech.meituan.com/2024/06/23/spark-gluten-velox.html</id>
@@ -155,14 +163,6 @@
         <updated>2023-11-10T05:39:11.749Z</updated>
         <content type="html"><![CDATA[美团到店广告平台在用户行为序列建模算法的迭代落地中，基于对业务实际场景中用户决策心智的观察，创新性地提出了深度上下文兴趣网络，精确建模了用户的兴趣，提升了CTR等线上业务指标。本文介绍了相应算法背后的动机、建模方法以及工程优化，希望能为从事相关工作的同学带来一些启发或帮助。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2023/11/09/how-to-model-context-information-in-deep-interest-network.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基于模式挖掘的可靠性治理探索 (美团技术博客)]]></title>
-        <id>https://tech.meituan.com/2023/10/12/exploration-of-reliability-governance-based-on-pattern-mining.html</id>
-        <link href="https://tech.meituan.com/2023/10/12/exploration-of-reliability-governance-based-on-pattern-mining.html"/>
-        <updated>2023-10-13T05:39:14.343Z</updated>
-        <content type="html"><![CDATA[本文整理自美团技术沙龙第77期《美团亿级流量系统的质量风险防控和稳定性治理实践》。本文介绍了基于模式挖掘的可靠性治理探索，为通过技术手段解决该领域代表性问题开启了新的思路。文章第一部分介绍可靠性治理的痛点；第二部分引入模式的概念；第三部分讨论新基建下的新尝试；第四部分分享三个典型的实践案例。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2023/10/12/exploration-of-reliability-governance-based-on-pattern-mining.html">阅读全文</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[知识库检索匹配的服务化实践 (有赞技术团队)]]></title>
