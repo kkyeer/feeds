@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kkyeer.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-28T05:39:52.976Z</updated>
+    <updated>2024-06-28T17:40:12.140Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[小程序可测性能力建设与实践 (美团技术博客)]]></title>
         <id>https://tech.meituan.com/2024/06/28/menpiao-testing-practice.html</id>
         <link href="https://tech.meituan.com/2024/06/28/menpiao-testing-practice.html"/>
         <updated>2024-06-28T05:39:48.359Z</updated>
-        <content type="html"><![CDATA[本文整理自美团技术沙龙第77期《美团亿级流量系统的质量风险防控和稳定性治理实践》作为一种终端产品生态，小程序在业界产品中占有非常重要的地位。本文从小程序的质量保障需求出发，分析小程序的测试难点，引出小程序可测性的基本概念，介绍美团到店研发平台针对小程序可测性改进的通用化方案。最后分享美团门票业务小程序测试工作的实践经验，本文旨在为读者在小程序质量保障领域提供一些有价值的见解和启示。
+        <content type="html"><![CDATA[本文整理自美团技术沙龙第77期《美团亿级流量系统的质量风险防控和稳定性治理实践》。作为一种终端产品生态，小程序在业界产品中占有非常重要的地位。本文从小程序的质量保障需求出发，分析小程序的测试难点，引出小程序可测性的基本概念，介绍美团到店研发平台针对小程序可测性改进的通用化方案。最后分享美团门票业务小程序测试工作的实践经验，本文旨在为读者在小程序质量保障领域提供一些有价值的见解和启示。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2024/06/28/menpiao-testing-practice.html">阅读全文</a>]]></content>
     </entry>
     <entry>
