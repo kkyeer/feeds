@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tech.meituan.com/</id>
     <title>美团技术博客</title>
-    <updated>2024-07-18T17:39:11.859Z</updated>
+    <updated>2024-07-19T05:39:58.528Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://awps-assets.meituan.net/mit/blog/v20190629/asset/icon/android-icon-192x192.png?v=Whistle&amp;t=20181017-1r</icon>
+    <entry>
+        <title type="html"><![CDATA[基本功 | 一文讲清多线程和多线程同步]]></title>
+        <id>https://tech.meituan.com/2024/07/19/multi-threading-and-multi-thread-synchronization.html</id>
+        <link href="https://tech.meituan.com/2024/07/19/multi-threading-and-multi-thread-synchronization.html"/>
+        <updated>2024-07-19T05:39:53.378Z</updated>
+        <content type="html"><![CDATA[本篇文章将深入探讨多线程编程的基本概念（原子操作、CAS、Lock-free、内存屏障、伪共享、乱序执行等）、常见模式和最佳实践。通过具体的代码示例，希望能够帮助大家掌握多线程编程的核心技术，并在实际开发中应用这些知识，提升软件的性能和稳定性。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2024/07/19/multi-threading-and-multi-thread-synchronization.html">阅读全文</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[搜索广告召回技术在美团的实践]]></title>
         <id>https://tech.meituan.com/2024/07/05/the-practice-of-search-advertising-recall-technology-in-meituan.html</id>
@@ -156,13 +164,5 @@
         <updated>2023-12-05T17:39:11.342Z</updated>
         <content type="html"><![CDATA[2013年12月4日，美团技术博客发布了第一篇技术文章；2014年9月30日，「美团技术团队」微信公众号同步更新技术博客的内容。10年的时间，3600多个日夜，我们共发布了570多篇技术文章。感谢大家的一路相伴。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2023/12/04/ten-years-of-meituan-technology-blog.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基于UI交互意图理解的异常检测方法]]></title>
-        <id>https://tech.meituan.com/2023/11/23/the-intent-of-ui-interaction-understanding.html</id>
-        <link href="https://tech.meituan.com/2023/11/23/the-intent-of-ui-interaction-understanding.html"/>
-        <updated>2023-11-24T17:39:07.008Z</updated>
-        <content type="html"><![CDATA[美团到店平台技术部/质量工程部与复旦大学周扬帆教授团队开展了科研合作，基于业务实际场景，自主研发了多模态UI交互意图识别模型以及配套的UI交互框架。本文从大前端质量保障领域的痛点出发，介绍了UI交互意图识别的方法设计与实现。基于UI交互意图编写的测试用例在实际业务中展现出了可以跨端、跨App的泛化能力，希望可以为从事相关工作的同学带来一些启发或帮助。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2023/11/23/the-intent-of-ui-interaction-understanding.html">阅读全文</a>]]></content>
     </entry>
 </feed>
