@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tech.meituan.com/</id>
     <title>美团技术博客</title>
-    <updated>2024-07-26T05:40:27.166Z</updated>
+    <updated>2024-07-26T17:39:54.406Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://awps-assets.meituan.net/mit/blog/v20190629/asset/icon/android-icon-192x192.png?v=Whistle&amp;t=20181017-1r</icon>
+    <entry>
+        <title type="html"><![CDATA[KDD 2024 | 美团技术团队精选论文解读]]></title>
+        <id>https://tech.meituan.com/2024/07/26/kdd-2024.html</id>
+        <link href="https://tech.meituan.com/2024/07/26/kdd-2024.html"/>
+        <updated>2024-07-26T17:39:48.745Z</updated>
+        <content type="html"><![CDATA[本文精选了美团技术团队被 KDD 2024 收录的 5 篇长文进行解读，覆盖了用户意图感知、机器学习&amp;运筹优化、在线控制实验、联合广告模型、实时调度决策等多个技术领域。这些论文都是美团与高校、科研机构合作的成果。希望能给从事相关研究工作的同学带来一些帮助或启发。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2024/07/26/kdd-2024.html">阅读全文</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[基本功 | 一文讲清多线程和多线程同步]]></title>
         <id>https://tech.meituan.com/2024/07/19/multi-threading-and-multi-thread-synchronization.html</id>
@@ -156,13 +164,5 @@
         <updated>2023-12-22T05:38:55.368Z</updated>
         <content type="html"><![CDATA[美团服务运维团队从事前防御、事中处理、事后运营多个阶段探索AIOps在事件管理领域的应用。本文介绍了在各个运维领域中AIOps的赋能场景，详细阐述了每一个运维场景的业务价值以及算法的具体的落地效果。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2023/12/22/aiops-based-incident-management.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美团技术博客十周年，感谢一路相伴]]></title>
-        <id>https://tech.meituan.com/2023/12/04/ten-years-of-meituan-technology-blog.html</id>
-        <link href="https://tech.meituan.com/2023/12/04/ten-years-of-meituan-technology-blog.html"/>
-        <updated>2023-12-05T17:39:11.342Z</updated>
-        <content type="html"><![CDATA[2013年12月4日，美团技术博客发布了第一篇技术文章；2014年9月30日，「美团技术团队」微信公众号同步更新技术博客的内容。10年的时间，3600多个日夜，我们共发布了570多篇技术文章。感谢大家的一路相伴。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2023/12/04/ten-years-of-meituan-technology-blog.html">阅读全文</a>]]></content>
     </entry>
 </feed>
