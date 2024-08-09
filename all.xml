@@ -2,8 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kkyeer.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-09T05:39:59.527Z</updated>
+    <updated>2024-08-09T17:39:17.729Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[ACL 2024 | 美团技术团队精选论文解读 (美团技术博客)]]></title>
+        <id>https://tech.meituan.com/2024/08/09/acl-2024-meituan.html</id>
+        <link href="https://tech.meituan.com/2024/08/09/acl-2024-meituan.html"/>
+        <updated>2024-08-09T17:39:08.597Z</updated>
+        <content type="html"><![CDATA[本文精选了美团技术团队被ACL 2024收录的4篇论文进行解读，论文内容覆盖了训练成本优化、投机解码、代码生成优化、指令微调（IFT）等技术领域。这些论文是美团技术团队跟高校、科研机构合作的成果。希望能给从事相关研究工作的同学带来一些帮助或启发。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2024/08/09/acl-2024-meituan.html">阅读全文</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大众点评技术部包揽KDD 2024 OAG-Challenge Cup赛道全部3项冠军 (美团技术博客)]]></title>
+        <id>https://tech.meituan.com/2024/08/09/kdd-2024-oag-challenge-cup.html</id>
+        <link href="https://tech.meituan.com/2024/08/09/kdd-2024-oag-challenge-cup.html"/>
+        <updated>2024-08-09T17:39:08.597Z</updated>
+        <content type="html"><![CDATA[近日，来自大众点评技术部/搜索与内容智能团队组建的BlackPearl队伍，参加了KDD 2024 OAG-Challenge Cup赛道的WhoIsWho-IND、PST、AQA三道赛题，以较大优势包揽了该赛道全部赛题的冠军。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2024/08/09/kdd-2024-oag-challenge-cup.html">阅读全文</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KDD 2024 | 美团技术团队精选论文解读 (美团技术博客)]]></title>
         <id>https://tech.meituan.com/2024/07/26/kdd-2024.html</id>
@@ -147,22 +163,6 @@
         <updated>2024-01-19T17:39:07.038Z</updated>
         <content type="html"><![CDATA[RASP是Runtime Application Self-Protection（运行时应用自我保护）的缩写，是一种应用程序安全技术。RASP 技术能够在应用程序运行时检测并阻止应用级别的攻击。随着云计算和大数据的发展，应用程序安全越来越受到重视。RASP 技术作为一种新型的安全防护手段，正在逐渐被业界接受并广泛应用。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2024/01/19/runtime-application-self-protection-practice-in-meituan.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 | 美团技术团队热门技术文章汇总 (美团技术博客)]]></title>
-        <id>https://tech.meituan.com/2024/01/04/tech-meituan-summary-2023.html</id>
-        <link href="https://tech.meituan.com/2024/01/04/tech-meituan-summary-2023.html"/>
-        <updated>2024-01-05T17:38:41.895Z</updated>
-        <content type="html"><![CDATA[时光飞逝，告别了难忘的2023，迎来了充满希望的2024。再次感谢大家的一路相伴。我们整理了2023年美团技术团队微信公众号阅读量靠前的10篇技术文章，欢迎大家品阅。祝愿大家在新的一年里，幸福平安，行稳致远。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2024/01/04/tech-meituan-summary-2023.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美团到店终端从标准化到数字化的演进之路 (美团技术博客)]]></title>
-        <id>https://tech.meituan.com/2023/12/29/the-evolution-of-terminals-from-standardization-to-digitalization.html</id>
-        <link href="https://tech.meituan.com/2023/12/29/the-evolution-of-terminals-from-standardization-to-digitalization.html"/>
-        <updated>2024-01-02T05:39:26.948Z</updated>
-        <content type="html"><![CDATA[本文整理自美团技术沙龙第76期《大前端研发协同效能提升与实践》。前端团队在产研多角色协同形式上存在不同阶段，而大前端多技术栈在各阶段都有其独特的实践，同时又有类似的演进路线。本文从到店终端团队移动端和前端技术栈持续交付演进历程展开，分享了大前端团队研发流程在“标准化”、“线上化”、“自动化”以及“数字化”的演进经验，并探讨了大前端多端DevOps建设思路和未来规划。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2023/12/29/the-evolution-of-terminals-from-standardization-to-digitalization.html">阅读全文</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[知识库检索匹配的服务化实践 (有赞技术团队)]]></title>
