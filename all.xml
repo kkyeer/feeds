@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kkyeer.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-15T17:39:19.571Z</updated>
+    <updated>2024-08-16T05:39:29.778Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[信息流广告预估技术在美团外卖的实践 (美团技术博客)]]></title>
+        <id>https://tech.meituan.com/2024/08/16/information-flow-advertising-prediction-technology.html</id>
+        <link href="https://tech.meituan.com/2024/08/16/information-flow-advertising-prediction-technology.html"/>
+        <updated>2024-08-16T05:39:23.128Z</updated>
+        <content type="html"><![CDATA[本文整理自美团技术沙龙第81期《美团在广告算法领域的探索及实践》(B站视频)。文章首先介绍了美团信息流广告业务以及预估技术的现状，然后重点分享了信息流广告预估在美团的具体实践，围绕决策路径、超长超宽建模和全还原建模等多个维度进行了分享，最后是一些总结和展望，希望能对大家有所帮助或启发。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2024/08/16/information-flow-advertising-prediction-technology.html">阅读全文</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ACL 2024 | 美团技术团队精选论文解读 (美团技术博客)]]></title>
         <id>https://tech.meituan.com/2024/08/09/acl-2024-meituan.html</id>
@@ -155,14 +163,6 @@
         <updated>2024-01-26T05:39:22.314Z</updated>
         <content type="html"><![CDATA[美团履约平台技术部在因果推断领域持续的探索和实践中，自研了一系列分布式的工具。本文重点介绍了分布式因果树算法的实现，并系统地阐述如何设计实现一种分布式因果树算法，以及因果效应评估方面qini_curve/qini_score的不足与应对技巧。希望能为从事因果推断相关工作的同学们提供一些启发或帮助。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2024/01/25/identify-causal-effect.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美团RASP大规模研发部署实践总结 (美团技术博客)]]></title>
-        <id>https://tech.meituan.com/2024/01/19/runtime-application-self-protection-practice-in-meituan.html</id>
-        <link href="https://tech.meituan.com/2024/01/19/runtime-application-self-protection-practice-in-meituan.html"/>
-        <updated>2024-01-19T17:39:07.038Z</updated>
-        <content type="html"><![CDATA[RASP是Runtime Application Self-Protection（运行时应用自我保护）的缩写，是一种应用程序安全技术。RASP 技术能够在应用程序运行时检测并阻止应用级别的攻击。随着云计算和大数据的发展，应用程序安全越来越受到重视。RASP 技术作为一种新型的安全防护手段，正在逐渐被业界接受并广泛应用。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2024/01/19/runtime-application-self-protection-practice-in-meituan.html">阅读全文</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[知识库检索匹配的服务化实践 (有赞技术团队)]]></title>
