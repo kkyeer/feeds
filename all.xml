@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kkyeer.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-12T17:40:11.623Z</updated>
+    <updated>2024-09-13T05:41:38.983Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[KDD 2024 OAG-Challenge Cup赛道三项冠军技术方案解读 (美团技术博客)]]></title>
+        <id>https://tech.meituan.com/2024/09/12/kdd-2024-oag-challenge-cup-technical-interpretation.html</id>
+        <link href="https://tech.meituan.com/2024/09/12/kdd-2024-oag-challenge-cup-technical-interpretation.html"/>
+        <updated>2024-09-13T05:41:34.533Z</updated>
+        <content type="html"><![CDATA[大众点评技术部/搜索与内容智能团队组成的BlackPearl队伍，参加了2024年KDD 2024 OAG-Challenge Cup赛道的WhoIsWho-IND、PST、AQA三道赛题，以较大优势包揽了该赛道全部赛题的冠军，本文对这三个赛道的夺冠方案分别进行了解读，希望对大家有所帮助或启发。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2024/09/12/kdd-2024-oag-challenge-cup-technical-interpretation.html">阅读全文</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新一代实验分析引擎：驱动履约平台的数据决策 (美团技术博客)]]></title>
         <id>https://tech.meituan.com/2024/09/09/new-generation-analysis-engine-driving-data-decisions.html</id>
@@ -155,14 +163,6 @@
         <updated>2024-03-01T05:39:27.086Z</updated>
         <content type="html"><![CDATA[本文整理自美团技术沙龙第77期《美团亿级流量系统的质量风险防控和稳定性治理实践》，主要介绍了对网络返回数据进行变异的客户端健壮性测试实践经验。文章第一部分介绍客户端健壮性测试的基本概念；第二部分分享了基于接口返回数据变异的App健壮性测试方案设计的思路；第三部分主要解读了变异数据的构造和异常检测方案设计；第四部分介绍了精简变异数据的探索方案。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2024/02/29/meituan-robustness-practice.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美团技术年货 | 600+页电子书，前端、后端、算法、测试、运维系列大合集 (美团技术博客)]]></title>
-        <id>https://tech.meituan.com/2024/02/01/2023-spring-festival-present.html</id>
-        <link href="https://tech.meituan.com/2024/02/01/2023-spring-festival-present.html"/>
-        <updated>2024-02-02T05:38:46.179Z</updated>
-        <content type="html"><![CDATA[在龙年春节到来之际，我们精选过去一年公众号30多篇技术文章和科研论文，整理制作成一本600多页的电子书，作为新年礼物赠送给大家。祝愿大家在甲辰龙年，幸福平安，行稳致远。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2024/02/01/2023-spring-festival-present.html">阅读全文</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[知识库检索匹配的服务化实践 (有赞技术团队)]]></title>
