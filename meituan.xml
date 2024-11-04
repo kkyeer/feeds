@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tech.meituan.com/</id>
     <title>美团技术博客</title>
-    <updated>2024-11-03T17:39:45.379Z</updated>
+    <updated>2024-11-04T05:42:34.623Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://awps-assets.meituan.net/mit/blog/v20190629/asset/icon/android-icon-192x192.png?v=Whistle&amp;t=20181017-1r</icon>
+    <entry>
+        <title type="html"><![CDATA[CIKM 2024 | 美团技术团队精选论文解读]]></title>
+        <id>https://tech.meituan.com/2024/10/31/cikm-2024-meituan.html</id>
+        <link href="https://tech.meituan.com/2024/10/31/cikm-2024-meituan.html"/>
+        <updated>2024-11-04T05:42:29.644Z</updated>
+        <content type="html"><![CDATA[本文精选了美团技术团队被 CIKM 2024 收录的 8 篇论文进行解读，覆盖了自监督学习、解释生成、CTR预测、跨域推荐、向量召回、图像生成、时效预测等多个技术领域。这些论文有美团独立研究，还有跟高校、科研机构合作的成果。希望能给从事相关研究工作的同学带来一些帮助或启发。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2024/10/31/cikm-2024-meituan.html">阅读全文</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大前端：如何突破动态化容器的天花板？]]></title>
         <id>https://tech.meituan.com/2024/10/18/recce-in-meituan.html</id>
@@ -156,13 +164,5 @@
         <updated>2024-03-29T05:39:01.959Z</updated>
         <content type="html"><![CDATA[本文通过搜索推荐项目进行外卖搜索广告弱供给填充，提高流量变现效率。我们提出外卖多场景异构大图、异构大图在线建模技术演进路线，解决外卖搜索推荐业务多渠道、即时化的挑战。相关成果发表CIKM2023会议一篇。联合机器学习平台搭建大规模图训练、在线推理引擎GraphET，满足近百亿边规模、复杂图结构的多个业务落地。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2024/03/29/large-scale-graph-application.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大众点评内容搜索算法优化的探索与实践]]></title>
-        <id>https://tech.meituan.com/2024/03/21/content-search-algorithm-optimization.html</id>
-        <link href="https://tech.meituan.com/2024/03/21/content-search-algorithm-optimization.html"/>
-        <updated>2024-03-22T05:39:01.285Z</updated>
-        <content type="html"><![CDATA[本文整理自美团技术沙龙第80期《美团内容智能分发的算法实践》，分享内容主要包括三部分。第一部分介绍了大众点评内容搜索的场景特点以及面临的挑战；第二部分介绍了为应对这些困难和挑战，技术团队在链路各环节上做的实践优化，包括内容消费和搜索满意度的优化等等；第三部分是总结和对未来的展望。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2024/03/21/content-search-algorithm-optimization.html">阅读全文</a>]]></content>
     </entry>
 </feed>
