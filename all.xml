@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kkyeer.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-21T17:42:27.083Z</updated>
+    <updated>2024-11-22T05:43:21.959Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[AutoConsis：UI内容一致性智能检测 (美团技术博客)]]></title>
+        <id>https://tech.meituan.com/2024/11/21/autoconsis-ui-meituan.html</id>
+        <link href="https://tech.meituan.com/2024/11/21/autoconsis-ui-meituan.html"/>
+        <updated>2024-11-22T05:43:16.942Z</updated>
+        <content type="html"><![CDATA[美团到店研发平台质量工程部与复旦大学计算机学院周扬帆教授团队展开了大前端智能化测试领域的科研合作，从UI界面内容一致性校验入手，并实现了一套自动化智能检测流程，相关论文被软件工程领域具有国际影响力的会议ICSE 2024（CCF-A类会议）的Software In Practice Track（软件工程实践应用）收录。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2024/11/21/autoconsis-ui-meituan.html">阅读全文</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CIKM 2024 | 美团技术团队精选论文解读 (美团技术博客)]]></title>
         <id>https://tech.meituan.com/2024/10/31/cikm-2024-meituan.html</id>
@@ -155,14 +163,6 @@
         <updated>2024-04-12T05:39:50.552Z</updated>
         <content type="html"><![CDATA[到家搜索业务具有数据量大、过滤比高等特点，为了在保证高召回率的同时进一步提高检索性能，美团到家搜索技术团队与基础研发机器学习平台团队基于GPU实现了支持向量+标量混合检索的通用检索系统，召回率与检索性能均有较大提升。本文将介绍我们在GPU向量检索系统建设中遇到的挑战及解决思路，希望对大家有所帮助或启发。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2024/04/11/gpu-vector-retrieval-system-practice.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[百亿大规模图在广告场景的应用 (美团技术博客)]]></title>
-        <id>https://tech.meituan.com/2024/03/29/large-scale-graph-application.html</id>
-        <link href="https://tech.meituan.com/2024/03/29/large-scale-graph-application.html"/>
-        <updated>2024-03-29T05:39:01.959Z</updated>
-        <content type="html"><![CDATA[本文通过搜索推荐项目进行外卖搜索广告弱供给填充，提高流量变现效率。我们提出外卖多场景异构大图、异构大图在线建模技术演进路线，解决外卖搜索推荐业务多渠道、即时化的挑战。相关成果发表CIKM2023会议一篇。联合机器学习平台搭建大规模图训练、在线推理引擎GraphET，满足近百亿边规模、复杂图结构的多个业务落地。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2024/03/29/large-scale-graph-application.html">阅读全文</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[知识库检索匹配的服务化实践 (有赞技术团队)]]></title>
