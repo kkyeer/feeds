@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kkyeer.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-27T05:41:31.025Z</updated>
+    <updated>2024-12-27T17:39:12.856Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[2024 | 美团技术团队热门技术文章汇总 (美团技术博客)]]></title>
+        <id>https://tech.meituan.com/2024/12/26/2024-happy-new-year-top10.html</id>
+        <link href="https://tech.meituan.com/2024/12/26/2024-happy-new-year-top10.html"/>
+        <updated>2024-12-27T17:39:07.160Z</updated>
+        <content type="html"><![CDATA[本文整理了2024年美团技术团队最为热门的10篇技术文章，这些文章覆盖了基础理论、数据存储、因果推断、搜索推荐、智能测试、知识图谱、领域驱动设计等多个技术领域，期望这些精选内容能为大家带来一些启发或帮助。愿大家在新的一年里，持续深耕技术沃土，稳步前行，不断攀登新的高峰。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2024/12/26/2024-happy-new-year-top10.html">阅读全文</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AutoConsis：UI内容一致性智能检测 (美团技术博客)]]></title>
         <id>https://tech.meituan.com/2024/11/21/autoconsis-ui-meituan.html</id>
@@ -155,14 +163,6 @@
         <updated>2024-05-10T05:39:06.352Z</updated>
         <content type="html"><![CDATA[本文整理自美团技术沙龙第73期《基于领域驱动设计（DDD）的架构演进和实践》，主要介绍了DDD的核心概念、常见的设计思路，并结合DDD介绍大众点评交易系统的演进过程，最后做了一些总结和思考。希望这些内容能够对大家有所帮助或启发。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2024/05/09/ddd-practice-trading-system.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美团外卖基于GPU的向量检索系统实践 (美团技术博客)]]></title>
-        <id>https://tech.meituan.com/2024/04/11/gpu-vector-retrieval-system-practice.html</id>
-        <link href="https://tech.meituan.com/2024/04/11/gpu-vector-retrieval-system-practice.html"/>
-        <updated>2024-04-12T05:39:50.552Z</updated>
-        <content type="html"><![CDATA[到家搜索业务具有数据量大、过滤比高等特点，为了在保证高召回率的同时进一步提高检索性能，美团到家搜索技术团队与基础研发机器学习平台团队基于GPU实现了支持向量+标量混合检索的通用检索系统，召回率与检索性能均有较大提升。本文将介绍我们在GPU向量检索系统建设中遇到的挑战及解决思路，希望对大家有所帮助或启发。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2024/04/11/gpu-vector-retrieval-system-practice.html">阅读全文</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[知识库检索匹配的服务化实践 (有赞技术团队)]]></title>
