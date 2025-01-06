@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tech.meituan.com/</id>
     <title>美团技术博客</title>
-    <updated>2025-01-06T05:42:03.518Z</updated>
+    <updated>2025-01-06T17:40:28.307Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://awps-assets.meituan.net/mit/blog/v20190629/asset/icon/android-icon-192x192.png?v=Whistle&amp;t=20181017-1r</icon>
+    <entry>
+        <title type="html"><![CDATA[鸿蒙应用签名实操及机制探究]]></title>
+        <id>https://tech.meituan.com/2025/01/06/openharmony.html</id>
+        <link href="https://tech.meituan.com/2025/01/06/openharmony.html"/>
+        <updated>2025-01-06T17:40:22.186Z</updated>
+        <content type="html"><![CDATA[本文对鸿蒙公开资料进行了深入分析和解读，梳理了鸿蒙单框架应用的签名机制，拆解每一步的实操过程和背后的实现原理，并对源码分析整理签名的校验机制。从中管中窥豹，探究鸿蒙系统的安全设计思路，希望能给从事鸿蒙研发的同学提供一些借鉴。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/01/06/openharmony.html">阅读全文</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 | 美团技术团队热门技术文章汇总]]></title>
         <id>https://tech.meituan.com/2024/12/26/2024-happy-new-year-top10.html</id>
@@ -156,13 +164,5 @@
         <updated>2024-05-21T05:38:55.549Z</updated>
         <content type="html"><![CDATA[菜品作为到店餐饮各相关业务的基石，提供了更细粒度的视角理解餐饮供给，为到餐精细化运营提供了抓手。美团到店研发平台/数据智能平台部与天津大学刘安安教授团队展开了“基于多模态信息抽取的菜品知识图谱构建”的科研合作，利用多模态检索实现图文食材的识别，扩展了多模态菜品食材识别的范围，提升了食材识别的准确性。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2024/05/17/cross-modal-ingredient-level-dataset.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DDD在大众点评交易系统演进中的应用]]></title>
-        <id>https://tech.meituan.com/2024/05/09/ddd-practice-trading-system.html</id>
-        <link href="https://tech.meituan.com/2024/05/09/ddd-practice-trading-system.html"/>
-        <updated>2024-05-10T05:39:06.352Z</updated>
-        <content type="html"><![CDATA[本文整理自美团技术沙龙第73期《基于领域驱动设计（DDD）的架构演进和实践》，主要介绍了DDD的核心概念、常见的设计思路，并结合DDD介绍大众点评交易系统的演进过程，最后做了一些总结和思考。希望这些内容能够对大家有所帮助或启发。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2024/05/09/ddd-practice-trading-system.html">阅读全文</a>]]></content>
     </entry>
 </feed>
