@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tech.meituan.com/</id>
     <title>美团技术博客</title>
-    <updated>2025-02-16T17:39:39.863Z</updated>
+    <updated>2025-02-17T05:42:17.140Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://awps-assets.meituan.net/mit/blog/v20190629/asset/icon/android-icon-192x192.png?v=Whistle&amp;t=20181017-1r</icon>
+    <entry>
+        <title type="html"><![CDATA[预测技术在美团弹性伸缩场景的探索与应用]]></title>
+        <id>https://tech.meituan.com/2025/02/14/prediction-technology-in-meituan-elastic-scaling.html</id>
+        <link href="https://tech.meituan.com/2025/02/14/prediction-technology-in-meituan-elastic-scaling.html"/>
+        <updated>2025-02-17T05:42:07.547Z</updated>
+        <content type="html"><![CDATA[在管理企业大规模服务弹性伸缩的场景下，Web应用的负载时序数据分析和预测至关重要。然而，由于应用的周期性特征和负载的复杂性，寻找一种能够适应所有应用的预测模型成为了一项挑战。美团与中国人民大学信息学院柴云鹏教授团队展开了“预测技术在弹性伸缩场景的应用”科研合作，取得了较好的成果。希望能给从事相关研究工作的同学带来一些帮助或启发。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/02/14/prediction-technology-in-meituan-elastic-scaling.html">阅读全文</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美团技术年货 | 600+页电子书，算法、工程、测试、数据、安全系列大合集]]></title>
         <id>https://tech.meituan.com/2025/01/16/2024-spring-festival-present.html</id>
@@ -156,13 +164,5 @@
         <updated>2024-06-14T17:39:31.913Z</updated>
         <content type="html"><![CDATA[本文精选了美团技术团队被CVPR 2024收录的7篇论文进行解读，这些论文既包括OCR预训练、长尾半监督学习等基础学习范式升级，也包括图生视频、数字人驱动、视听分割（AVS）等视觉AIGC技术创新。这些论文有美团视觉智能部的独立产出，也有跟高校、科研机构合作的成果。希望能给从事相关研究工作的同学带来一些帮助或启发。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2024/06/13/cvpr-2024.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[领域驱动设计DDD在B端营销系统的实践]]></title>
-        <id>https://tech.meituan.com/2024/05/27/ddd-in-business.html</id>
-        <link href="https://tech.meituan.com/2024/05/27/ddd-in-business.html"/>
-        <updated>2024-05-27T17:38:47.737Z</updated>
-        <content type="html"><![CDATA[本文针对B端营销系统设计中的复杂性，从战略设计，战术设计到代码架构，详细介绍了DDD在各个阶段的实践，期望为大家提供一些可供参考和借鉴的思路。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2024/05/27/ddd-in-business.html">阅读全文</a>]]></content>
     </entry>
 </feed>
