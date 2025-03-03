@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kkyeer.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-03T05:43:00.245Z</updated>
+    <updated>2025-03-03T17:42:19.628Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[上下文感知的聚合页广告优化实践 (美团技术博客)]]></title>
+        <id>https://tech.meituan.com/2025/03/02/context-enhanced-learning-for-intelligent-marketing.html</id>
+        <link href="https://tech.meituan.com/2025/03/02/context-enhanced-learning-for-intelligent-marketing.html"/>
+        <updated>2025-03-03T17:42:14.169Z</updated>
+        <content type="html"><![CDATA[聚合页广告将商家和优惠信息以多种形式聚合展示给用户，是美团广告业务中一个重要的业务场景。本文从最能影响用户决策的“发券”和“排序”两个方向出发，介绍了上下文感知建模在广告场景的落地方案，证明了聚合页上下文感知的收益空间。希望能对从事相关研究的同学带来一些启发或帮助。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/03/02/context-enhanced-learning-for-intelligent-marketing.html">阅读全文</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[行为正则化与顺序策略优化结合的离线多智能体学习算法 (美团技术博客)]]></title>
         <id>https://tech.meituan.com/2025/02/21/marl-in-meituan.html</id>
@@ -155,14 +163,6 @@
         <updated>2024-08-06T17:39:31.418Z</updated>
         <content type="html"><![CDATA[本文精选了美团技术团队被SIGIR 2024收录的3篇论文进行解读，第一篇论文围绕如何利用深度学习，来整合广告拍卖和混排；第二篇论文扩展定义了全用户纵向联邦推荐范式，并首次提出基于检索增强的纵向联邦推荐框架ReFer，解决了跨域特征缺失问题；第三篇论文提出了一种新颖的框架——解耦对比超图学习，并应用于下一个兴趣点推荐任务中。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2024/06/27/sigir-2024-meituan.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spark向量化计算在美团生产环境的实践 (美团技术博客)]]></title>
-        <id>https://tech.meituan.com/2024/06/23/spark-gluten-velox.html</id>
-        <link href="https://tech.meituan.com/2024/06/23/spark-gluten-velox.html"/>
-        <updated>2024-06-24T05:38:51.758Z</updated>
-        <content type="html"><![CDATA[Apache Spark是一个优秀的计算引擎，广泛应用于数据工程、机器学习等领域。向量化执行技术在不升级硬件的情况下，既可获得资源节省和加速作业执行。Gluten+Velox解决方案为Spark换上了向量化执行引擎，本文将阐述美团在这一方向的实践和思考，希望对大家有所帮助或启发。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2024/06/23/spark-gluten-velox.html">阅读全文</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[知识库检索匹配的服务化实践 (有赞技术团队)]]></title>
