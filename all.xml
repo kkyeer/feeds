@@ -2,8 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kkyeer.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-06-20T05:46:26.872Z</updated>
+    <updated>2025-06-20T17:44:06.774Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[JDK高版本特性总结与ZGC实践 (美团技术博客)]]></title>
+        <id>https://tech.meituan.com/2025/06/20/jdk17-zgc.html</id>
+        <link href="https://tech.meituan.com/2025/06/20/jdk17-zgc.html"/>
+        <updated>2025-06-20T17:43:59.981Z</updated>
+        <content type="html"><![CDATA[美团信息安全技术团队核心服务升级JDK 17后，性能与稳定性大幅提升，机器成本降低了10%。高版本JDK与ZGC技术令人惊艳，且Java AI SDK最低支持JDK 17。本文总结了JDK 17的主要特性，然后重点分享了JDK 17+ZGC在安全领域的一些实践，希望能对大家有所帮助或启发。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/06/20/jdk17-zgc.html">阅读全文</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[可信实验白皮书系列06：观察性研究 (美团技术博客)]]></title>
+        <id>https://tech.meituan.com/2025/06/20/meituan-ab-online-controlled-experiment-06.html</id>
+        <link href="https://tech.meituan.com/2025/06/20/meituan-ab-online-controlled-experiment-06.html"/>
+        <updated>2025-06-20T17:43:59.982Z</updated>
+        <content type="html"><![CDATA[本文系《可信实验白皮书》系列的第六篇文章，上一篇我们介绍了准实验，然后重点介绍了双重差分法，包括概述、评估原理及美团的一些实践案例。本篇重点介绍了观察性研究，内容主要包括合成控制法、匹配方法、Causal Impact等几个方面。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/06/20/meituan-ab-online-controlled-experiment-06.html">阅读全文</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[可信实验白皮书系列05：准实验 (美团技术博客)]]></title>
         <id>https://tech.meituan.com/2025/06/16/meituan-ab-online-controlled-experiment-05.html</id>
@@ -147,22 +163,6 @@
         <updated>2024-10-22T05:42:21.323Z</updated>
         <content type="html"><![CDATA[长久以来，容器要实现动态化和双端复用，难免要牺牲掉一些性能。有没有办法让动态化容器的性能尽可能接近原生？美团金服大前端团队给出了一种解决方案，尝试突破动态化容器的天花板。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2024/10/18/recce-in-meituan.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全域用户建模在美团首页推荐的探索与实践 (美团技术博客)]]></title>
-        <id>https://tech.meituan.com/2024/10/10/exploration-and-practice-of-user-modeling-recommended.html</id>
-        <link href="https://tech.meituan.com/2024/10/10/exploration-and-practice-of-user-modeling-recommended.html"/>
-        <updated>2024-10-11T17:40:52.094Z</updated>
-        <content type="html"><![CDATA[本文详述了全域建模技术在美团首页推荐系统的发展和演进。美团首页推荐算法团队通过多阶段递进式探索验证，在召回与排序模块引入多展位、多应用渠道的多源用户交互数据，并在落地过程中解决了美团多展位、多业务、时空场景强相关性的特点导致的严重跨域信号负迁移挑战。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2024/10/10/exploration-and-practice-of-user-modeling-recommended.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KDD 2024 OAG-Challenge Cup赛道三项冠军技术方案解读 (美团技术博客)]]></title>
-        <id>https://tech.meituan.com/2024/09/12/kdd-2024-oag-challenge-cup-technical-interpretation.html</id>
-        <link href="https://tech.meituan.com/2024/09/12/kdd-2024-oag-challenge-cup-technical-interpretation.html"/>
-        <updated>2024-09-13T05:41:34.533Z</updated>
-        <content type="html"><![CDATA[大众点评技术部/搜索与内容智能团队组成的BlackPearl队伍，参加了2024年KDD 2024 OAG-Challenge Cup赛道的WhoIsWho-IND、PST、AQA三道赛题，以较大优势包揽了该赛道全部赛题的冠军，本文对这三个赛道的夺冠方案分别进行了解读，希望对大家有所帮助或启发。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2024/09/12/kdd-2024-oag-challenge-cup-technical-interpretation.html">阅读全文</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[知识库检索匹配的服务化实践 (有赞技术团队)]]></title>
