@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tech.meituan.com/</id>
     <title>美团技术博客</title>
-    <updated>2025-06-27T05:47:11.296Z</updated>
+    <updated>2025-06-27T17:44:29.548Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://awps-assets.meituan.net/mit/blog/v20190629/asset/icon/android-icon-192x192.png?v=Whistle&amp;t=20181017-1r</icon>
+    <entry>
+        <title type="html"><![CDATA[可信实验白皮书系列07：高阶实验工具]]></title>
+        <id>https://tech.meituan.com/2025/06/26/meituan-ab-online-controlled-experiment-07.html</id>
+        <link href="https://tech.meituan.com/2025/06/26/meituan-ab-online-controlled-experiment-07.html"/>
+        <updated>2025-06-27T17:44:24.149Z</updated>
+        <content type="html"><![CDATA[本文系《可信实验白皮书》系列的第七篇文章。上一篇我们重点介绍了观察性研究，内容主要包括合成控制法、匹配方法、Causal Impact等几个方面。针对单次实验功效不足、假阳性、策略调优等实验中面临的问题，本篇我们来介绍几个高阶实验工具，重点解读了统合分析、多重比较，同时还有一些拓展与展望。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/06/26/meituan-ab-online-controlled-experiment-07.html">阅读全文</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开源 | MeiGen-MultiTalk：基于单张照片实现多人互动演绎]]></title>
+        <id>https://tech.meituan.com/2025/06/26/multitalk-github.html</id>
+        <link href="https://tech.meituan.com/2025/06/26/multitalk-github.html"/>
+        <updated>2025-06-27T17:44:24.151Z</updated>
+        <content type="html"><![CDATA[近日，美团推出了音频驱动的多人对话视频生成框架MultiTalk，并在GitHub上开源，首创L-RoPE绑定技术，通过标签旋转位置编码精准解决多音频流与人物错位难题。该框架创新性地采用局部参数训练+多任务学习策略，在保留复杂动作指令跟随能力的同时，实现自适应动态人物定位。只需输入多人音频流、参考图像和文本提示，即可生成口型精准同步、肢体自然的交互视频，可支持影视制作、直播电商等场景的工具升级。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/06/26/multitalk-github.html">阅读全文</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JDK高版本特性总结与ZGC实践]]></title>
         <id>https://tech.meituan.com/2025/06/20/jdk17-zgc.html</id>
@@ -148,21 +164,5 @@
         <updated>2024-11-22T05:43:16.942Z</updated>
         <content type="html"><![CDATA[美团到店研发平台质量工程部与复旦大学计算机学院周扬帆教授团队展开了大前端智能化测试领域的科研合作，从UI界面内容一致性校验入手，并实现了一套自动化智能检测流程，相关论文被软件工程领域具有国际影响力的会议ICSE 2024（CCF-A类会议）的Software In Practice Track（软件工程实践应用）收录。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2024/11/21/autoconsis-ui-meituan.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CIKM 2024 | 美团技术团队精选论文解读]]></title>
-        <id>https://tech.meituan.com/2024/10/31/cikm-2024-meituan.html</id>
-        <link href="https://tech.meituan.com/2024/10/31/cikm-2024-meituan.html"/>
-        <updated>2024-11-04T05:42:29.644Z</updated>
-        <content type="html"><![CDATA[本文精选了美团技术团队被 CIKM 2024 收录的 8 篇论文进行解读，覆盖了自监督学习、解释生成、CTR预测、跨域推荐、向量召回、图像生成、时效预测等多个技术领域。这些论文有美团独立研究，还有跟高校、科研机构合作的成果。希望能给从事相关研究工作的同学带来一些帮助或启发。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2024/10/31/cikm-2024-meituan.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大前端：如何突破动态化容器的天花板？]]></title>
-        <id>https://tech.meituan.com/2024/10/18/recce-in-meituan.html</id>
-        <link href="https://tech.meituan.com/2024/10/18/recce-in-meituan.html"/>
-        <updated>2024-10-22T05:42:21.323Z</updated>
-        <content type="html"><![CDATA[长久以来，容器要实现动态化和双端复用，难免要牺牲掉一些性能。有没有办法让动态化容器的性能尽可能接近原生？美团金服大前端团队给出了一种解决方案，尝试突破动态化容器的天花板。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2024/10/18/recce-in-meituan.html">阅读全文</a>]]></content>
     </entry>
 </feed>
