@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tech.meituan.com/</id>
     <title>美团技术博客</title>
-    <updated>2025-08-05T17:48:54.048Z</updated>
+    <updated>2025-08-06T05:56:10.132Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://awps-assets.meituan.net/mit/blog/v20190629/asset/icon/android-icon-192x192.png?v=Whistle&amp;t=20181017-1r</icon>
     <entry>
         <title type="html"><![CDATA[ACL 2025 | 美团技术团队论文精选]]></title>
         <id>https://tech.meituan.com/2025/08/01/acl-2025.html</id>
         <link href="https://tech.meituan.com/2025/08/01/acl-2025.html"/>
-        <updated>2025-08-01T17:49:46.218Z</updated>
+        <updated>2025-08-06T05:56:04.804Z</updated>
         <content type="html"><![CDATA[本文介绍了美团技术团队在国际顶会ACL 2025中发表的8篇论文，研究方向覆盖了生成式检索算法、多目标偏好对齐训练、富文本图像理解、搜索词推荐、跨语言迁移能力、多模态数学推理、第三人称任务等技术领域，希望相关研究能给同学们带来一些帮助或启发。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/08/01/acl-2025.html">阅读全文</a>]]></content>
     </entry>
@@ -17,7 +17,7 @@
         <title type="html"><![CDATA[美团开源OIBench与CoreCodeBench：揭示大模型编程能力的真实水平]]></title>
         <id>https://tech.meituan.com/2025/07/17/meituan-m17-oibench-corecodebench.html</id>
         <link href="https://tech.meituan.com/2025/07/17/meituan-m17-oibench-corecodebench.html"/>
-        <updated>2025-07-18T17:47:42.518Z</updated>
+        <updated>2025-08-06T05:56:04.805Z</updated>
         <content type="html"><![CDATA[Meituan-M17 团队联合上海交大等机构，分别推出了 OIBench（聚焦高区分度算法题评测）与 CoreCodeBench（聚焦多场景工程级代码基准）两大数据集，旨在揭示大模型编程能力真实水平，这两大数据集已分别在GitHub和Huggingface上进行开源。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/07/17/meituan-m17-oibench-corecodebench.html">阅读全文</a>]]></content>
     </entry>
@@ -25,7 +25,7 @@
         <title type="html"><![CDATA[可信实验白皮书系列07：高阶实验工具]]></title>
         <id>https://tech.meituan.com/2025/06/26/meituan-ab-online-controlled-experiment-07.html</id>
         <link href="https://tech.meituan.com/2025/06/26/meituan-ab-online-controlled-experiment-07.html"/>
-        <updated>2025-06-27T17:44:24.149Z</updated>
+        <updated>2025-08-06T05:56:04.805Z</updated>
         <content type="html"><![CDATA[本文系《可信实验白皮书》系列的第七篇文章。上一篇我们重点介绍了观察性研究，内容主要包括合成控制法、匹配方法、Causal Impact等几个方面。针对单次实验功效不足、假阳性、策略调优等实验中面临的问题，本篇我们来介绍几个高阶实验工具，重点解读了统合分析、多重比较，同时还有一些拓展与展望。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/06/26/meituan-ab-online-controlled-experiment-07.html">阅读全文</a>]]></content>
     </entry>
@@ -33,7 +33,7 @@
         <title type="html"><![CDATA[开源 | MeiGen-MultiTalk：基于单张照片实现多人互动演绎]]></title>
         <id>https://tech.meituan.com/2025/06/26/multitalk-github.html</id>
         <link href="https://tech.meituan.com/2025/06/26/multitalk-github.html"/>
-        <updated>2025-06-27T17:44:24.151Z</updated>
+        <updated>2025-08-06T05:56:04.808Z</updated>
         <content type="html"><![CDATA[近日，美团推出了音频驱动的多人对话视频生成框架MultiTalk，并在GitHub上开源，首创L-RoPE绑定技术，通过标签旋转位置编码精准解决多音频流与人物错位难题。该框架创新性地采用局部参数训练+多任务学习策略，在保留复杂动作指令跟随能力的同时，实现自适应动态人物定位。只需输入多人音频流、参考图像和文本提示，即可生成口型精准同步、肢体自然的交互视频，可支持影视制作、直播电商等场景的工具升级。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/06/26/multitalk-github.html">阅读全文</a>]]></content>
     </entry>
@@ -41,7 +41,7 @@
         <title type="html"><![CDATA[JDK高版本特性总结与ZGC实践]]></title>
         <id>https://tech.meituan.com/2025/06/20/jdk17-zgc.html</id>
         <link href="https://tech.meituan.com/2025/06/20/jdk17-zgc.html"/>
-        <updated>2025-06-20T17:43:59.981Z</updated>
+        <updated>2025-08-06T05:56:04.810Z</updated>
         <content type="html"><![CDATA[美团信息安全技术团队核心服务升级JDK 17后，性能与稳定性大幅提升，机器成本降低了10%。高版本JDK与ZGC技术令人惊艳，且Java AI SDK最低支持JDK 17。本文总结了JDK 17的主要特性，然后重点分享了JDK 17+ZGC在安全领域的一些实践，希望能对大家有所帮助或启发。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/06/20/jdk17-zgc.html">阅读全文</a>]]></content>
     </entry>
@@ -49,7 +49,7 @@
         <title type="html"><![CDATA[可信实验白皮书系列06：观察性研究]]></title>
         <id>https://tech.meituan.com/2025/06/20/meituan-ab-online-controlled-experiment-06.html</id>
         <link href="https://tech.meituan.com/2025/06/20/meituan-ab-online-controlled-experiment-06.html"/>
-        <updated>2025-06-20T17:43:59.982Z</updated>
+        <updated>2025-08-06T05:56:04.811Z</updated>
         <content type="html"><![CDATA[本文系《可信实验白皮书》系列的第六篇文章，上一篇我们介绍了准实验，然后重点介绍了双重差分法，包括概述、评估原理及美团的一些实践案例。本篇重点介绍了观察性研究，内容主要包括合成控制法、匹配方法、Causal Impact等几个方面。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/06/20/meituan-ab-online-controlled-experiment-06.html">阅读全文</a>]]></content>
     </entry>
@@ -57,7 +57,7 @@
         <title type="html"><![CDATA[可信实验白皮书系列05：准实验]]></title>
         <id>https://tech.meituan.com/2025/06/16/meituan-ab-online-controlled-experiment-05.html</id>
         <link href="https://tech.meituan.com/2025/06/16/meituan-ab-online-controlled-experiment-05.html"/>
-        <updated>2025-06-16T05:47:50.152Z</updated>
+        <updated>2025-08-06T05:56:04.814Z</updated>
         <content type="html"><![CDATA[本文系《可信实验白皮书》系列的第五篇文章，上一篇我们围绕随机轮转实验展开，内容主要包括抛硬币随机轮转、完全随机轮转、配对随机轮转等几个实验方法的介绍。本篇我们会介绍准实验，然后会重点介绍双重差分法，包括概述、评估原理及美团的一些实践案例。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/06/16/meituan-ab-online-controlled-experiment-05.html">阅读全文</a>]]></content>
     </entry>
@@ -65,7 +65,7 @@
         <title type="html"><![CDATA[可信实验白皮书系列04：随机轮转实验]]></title>
         <id>https://tech.meituan.com/2025/06/06/meituan-ab-online-controlled-experiment-04.html</id>
         <link href="https://tech.meituan.com/2025/06/06/meituan-ab-online-controlled-experiment-04.html"/>
-        <updated>2025-06-09T05:46:45.338Z</updated>
+        <updated>2025-08-06T05:56:04.815Z</updated>
         <content type="html"><![CDATA[本文系《可信实验白皮书》系列的第四篇文章，在上一篇我们将重点介绍随机对照实验相关的一些基础知识，以及提高实验功效的一些常见方法。本篇我们将围绕随机轮转实验展开，内容主要包括抛硬币随机轮转、完全随机轮转、配对随机轮转等几个实验的介绍。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/06/06/meituan-ab-online-controlled-experiment-04.html">阅读全文</a>]]></content>
     </entry>
@@ -73,7 +73,7 @@
         <title type="html"><![CDATA[可信实验白皮书系列03：随机对照实验]]></title>
         <id>https://tech.meituan.com/2025/06/05/meituan-ab-online-controlled-experiment-03.html</id>
         <link href="https://tech.meituan.com/2025/06/05/meituan-ab-online-controlled-experiment-03.html"/>
-        <updated>2025-06-09T05:46:45.343Z</updated>
+        <updated>2025-08-06T05:56:04.817Z</updated>
         <content type="html"><![CDATA[本文系《可信实验白皮书》系列的第三篇文章，第一篇文章我们介绍了为什么要写AB实验白皮书，第二篇文章讲解了AB实验的理论原理及其背后的统计学基础。本篇我们将重点介绍随机对照实验相关的一些基础知识，以及提高实验功效的一些常见方法。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/06/05/meituan-ab-online-controlled-experiment-03.html">阅读全文</a>]]></content>
     </entry>
@@ -81,7 +81,7 @@
         <title type="html"><![CDATA[可信实验白皮书系列02：AB实验基础]]></title>
         <id>https://tech.meituan.com/2025/05/23/meituan-ab-online-controlled-experiment-02.html</id>
         <link href="https://tech.meituan.com/2025/05/23/meituan-ab-online-controlled-experiment-02.html"/>
-        <updated>2025-06-09T02:10:42.622Z</updated>
+        <updated>2025-08-06T05:56:04.818Z</updated>
         <content type="html"><![CDATA[在上一篇文章中，我们详细阐述了AB实验的概念与其价值，并结合美团的实际情况，探讨了AB实验中常见的挑战及建设经验。本篇作为可信实验白皮书系列的第二章，将重点讲解AB实验的理论原理及其背后的统计学基础。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/05/23/meituan-ab-online-controlled-experiment-02.html">阅读全文</a>]]></content>
     </entry>
@@ -89,7 +89,7 @@
         <title type="html"><![CDATA[可信实验白皮书系列01：从0到1的方法论与实践指南]]></title>
         <id>https://tech.meituan.com/2025/05/22/meituan-ab-online-controlled-experiment-01.html</id>
         <link href="https://tech.meituan.com/2025/05/22/meituan-ab-online-controlled-experiment-01.html"/>
-        <updated>2025-06-09T02:10:42.624Z</updated>
+        <updated>2025-08-06T05:56:04.820Z</updated>
         <content type="html"><![CDATA[本白皮书以AB实验为中心，涵盖AB实验概述与价值、实验方法基础原理与案例剖析以及配套SDK代码分析等，内容丰富且易于理解和应用。适合从事AB实验研究的数据科学家、系统开发人员，以及需要实验驱动策略决策的业务和产研团队，同时也适合对数据驱动增长和数据科学等领域感兴趣的读者。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/05/22/meituan-ab-online-controlled-experiment-01.html">阅读全文</a>]]></content>
     </entry>
@@ -97,7 +97,7 @@
         <title type="html"><![CDATA[MTGR：美团外卖生成式推荐Scaling Law落地实践]]></title>
         <id>https://tech.meituan.com/2025/05/19/meituan-generative-recommendation.html</id>
         <link href="https://tech.meituan.com/2025/05/19/meituan-generative-recommendation.html"/>
-        <updated>2025-06-09T02:10:42.628Z</updated>
+        <updated>2025-08-06T05:56:04.822Z</updated>
         <content type="html"><![CDATA[美团外卖推荐算法团队基于HSTU提出了MTGR框架以探索推荐系统中Scaling Law。MTGR对齐传统模型特征体系，并对多条序列利用Transformer架构进行统一建模。通过极致的性能优化，样本前向推理FLOPs提升65倍，推理成本降低12%，训练成本持平。MTGR离在线均取得近2年迭代最大收益，且于2025年4月底在外卖推荐场景全量。本文系相关工作的实践与经验总结，希望能给从事相关方向研究的同学带来一些帮助。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/05/19/meituan-generative-recommendation.html">阅读全文</a>]]></content>
     </entry>
@@ -105,7 +105,7 @@
         <title type="html"><![CDATA[OR算法+ML模型混合推理框架架构演进]]></title>
         <id>https://tech.meituan.com/2025/05/12/or-ml-practice.html</id>
         <link href="https://tech.meituan.com/2025/05/12/or-ml-practice.html"/>
-        <updated>2025-06-09T02:10:42.628Z</updated>
+        <updated>2025-08-06T05:56:04.824Z</updated>
         <content type="html"><![CDATA[本文介绍了OR算法+ML模型混合推理能力建设思路及业务背景，此场景相比常规模型推理更具特殊性和复杂性，在工程实现上面临多维挑战，因此本文分别从性能、稳定性和扩展性三个维度分析问题和解法，并以推理框架架构演进为线总结了过去两年的分期迭代实践历程和收益，其中有一些较为通用的经验，希望能够给大家带来一些帮助或启发。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/05/12/or-ml-practice.html">阅读全文</a>]]></content>
     </entry>
@@ -113,7 +113,7 @@
         <title type="html"><![CDATA[ICLR&CVPR 2025美团技术团队论文精选]]></title>
         <id>https://tech.meituan.com/2025/04/14/cvpr-iclr-2025.html</id>
         <link href="https://tech.meituan.com/2025/04/14/cvpr-iclr-2025.html"/>
-        <updated>2025-06-09T02:10:42.630Z</updated>
+        <updated>2025-08-06T05:56:04.825Z</updated>
         <content type="html"><![CDATA[本文对美团技术团队在国际顶会CVPR 2025、ICLR 2025中发表的10篇论文进行介绍，这些论文是我们在图像生成、通用视觉分割、多模态文档理解、视频理解大模型、大模型效果评估、大语言模型的对齐和量化方法等方向上的技术沉淀和应用。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/04/14/cvpr-iclr-2025.html">阅读全文</a>]]></content>
     </entry>
@@ -121,7 +121,7 @@
         <title type="html"><![CDATA[老显卡福音！美团开源首发INT8无损满血版DeepSeek R1]]></title>
         <id>https://tech.meituan.com/2025/03/07/meituan-int8-deepseek-r1.html</id>
         <link href="https://tech.meituan.com/2025/03/07/meituan-int8-deepseek-r1.html"/>
-        <updated>2025-03-07T17:40:50.953Z</updated>
+        <updated>2025-08-06T05:56:04.826Z</updated>
         <content type="html"><![CDATA[DeepSeek R1模型权重原生为FP8类型，仅能被英伟达新型GPU支持。美团技术团队进行了INT8精度量化的尝试，量化后模型精度基本无损，可部署到A100等其他型号GPU，从而解锁了芯片限制；相比BF16实现了50%的吞吐提升，降低了推理成本。相关技术已在Hugging Face上开源。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/03/07/meituan-int8-deepseek-r1.html">阅读全文</a>]]></content>
     </entry>
@@ -129,7 +129,7 @@
         <title type="html"><![CDATA[上下文感知的聚合页广告优化实践]]></title>
         <id>https://tech.meituan.com/2025/03/02/context-enhanced-learning-for-intelligent-marketing.html</id>
         <link href="https://tech.meituan.com/2025/03/02/context-enhanced-learning-for-intelligent-marketing.html"/>
-        <updated>2025-03-03T17:42:14.169Z</updated>
+        <updated>2025-08-06T05:56:04.828Z</updated>
         <content type="html"><![CDATA[聚合页广告将商家和优惠信息以多种形式聚合展示给用户，是美团广告业务中一个重要的业务场景。本文从最能影响用户决策的“发券”和“排序”两个方向出发，介绍了上下文感知建模在广告场景的落地方案，证明了聚合页上下文感知的收益空间。希望能对从事相关研究的同学带来一些启发或帮助。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/03/02/context-enhanced-learning-for-intelligent-marketing.html">阅读全文</a>]]></content>
     </entry>
@@ -137,7 +137,7 @@
         <title type="html"><![CDATA[行为正则化与顺序策略优化结合的离线多智能体学习算法]]></title>
         <id>https://tech.meituan.com/2025/02/21/marl-in-meituan.html</id>
         <link href="https://tech.meituan.com/2025/02/21/marl-in-meituan.html"/>
-        <updated>2025-02-21T05:41:26.076Z</updated>
+        <updated>2025-08-06T05:56:04.829Z</updated>
         <content type="html"><![CDATA[离线多智能体强化学习（MARL）是一个新兴领域，目标是在从预先收集的数据集中学习最佳的多智能体策略。随着人工智能技术的发展，多智能体系统在诸如自动驾驶、智能家居、机器人协作以及智能调度决策等方面展现了巨大的应用潜力。但现有的离线MARL方法也面临很多挑战，仍存在不协调行为和分布外联合动作的问题。为了应对这些挑战，中山大学计算机学院、美团履约平台技术部开展了学术合作项目，并取得了一些的成果，希望分享给大家。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/02/21/marl-in-meituan.html">阅读全文</a>]]></content>
     </entry>
@@ -145,7 +145,7 @@
         <title type="html"><![CDATA[预测技术在美团弹性伸缩场景的探索与应用]]></title>
         <id>https://tech.meituan.com/2025/02/14/prediction-technology-in-meituan-elastic-scaling.html</id>
         <link href="https://tech.meituan.com/2025/02/14/prediction-technology-in-meituan-elastic-scaling.html"/>
-        <updated>2025-02-17T05:42:07.547Z</updated>
+        <updated>2025-08-06T05:56:04.830Z</updated>
         <content type="html"><![CDATA[在管理企业大规模服务弹性伸缩的场景下，Web应用的负载时序数据分析和预测至关重要。然而，由于应用的周期性特征和负载的复杂性，寻找一种能够适应所有应用的预测模型成为了一项挑战。美团与中国人民大学信息学院柴云鹏教授团队展开了“预测技术在弹性伸缩场景的应用”科研合作，取得了较好的成果。希望能给从事相关研究工作的同学带来一些帮助或启发。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/02/14/prediction-technology-in-meituan-elastic-scaling.html">阅读全文</a>]]></content>
     </entry>
@@ -153,7 +153,7 @@
         <title type="html"><![CDATA[美团技术年货 | 600+页电子书，算法、工程、测试、数据、安全系列大合集]]></title>
         <id>https://tech.meituan.com/2025/01/16/2024-spring-festival-present.html</id>
         <link href="https://tech.meituan.com/2025/01/16/2024-spring-festival-present.html"/>
-        <updated>2025-01-17T17:40:45.629Z</updated>
+        <updated>2025-08-06T05:56:04.832Z</updated>
         <content type="html"><![CDATA[值蛇年春节到来之际，我们精选过去一年公众号30多篇技术文章和科研论文，整理制作成一本600多页的电子书，作为一份特别的新年礼物，献给每一位热爱技术的你。愿大家乘风破浪，勇往直前！
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/01/16/2024-spring-festival-present.html">阅读全文</a>]]></content>
     </entry>
@@ -161,7 +161,7 @@
         <title type="html"><![CDATA[鸿蒙应用签名实操及机制探究]]></title>
         <id>https://tech.meituan.com/2025/01/06/openharmony.html</id>
         <link href="https://tech.meituan.com/2025/01/06/openharmony.html"/>
-        <updated>2025-01-06T17:40:22.186Z</updated>
+        <updated>2025-08-06T05:56:04.833Z</updated>
         <content type="html"><![CDATA[本文对鸿蒙公开资料进行了深入分析和解读，梳理了鸿蒙单框架应用的签名机制，拆解每一步的实操过程和背后的实现原理，并对源码分析整理签名的校验机制。从中管中窥豹，探究鸿蒙系统的安全设计思路，希望能给从事鸿蒙研发的同学提供一些借鉴。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/01/06/openharmony.html">阅读全文</a>]]></content>
     </entry>
