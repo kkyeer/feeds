@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tech.meituan.com/</id>
     <title>美团技术博客</title>
-    <updated>2025-08-07T17:49:17.091Z</updated>
+    <updated>2025-08-08T05:55:04.475Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://awps-assets.meituan.net/mit/blog/v20190629/asset/icon/android-icon-192x192.png?v=Whistle&amp;t=20181017-1r</icon>
+    <entry>
+        <title type="html"><![CDATA[联合营销生态下的广告机制设计与实践]]></title>
+        <id>https://tech.meituan.com/2025/08/08/advertising-mechanism-design-and-practice-in-meituan.html</id>
+        <link href="https://tech.meituan.com/2025/08/08/advertising-mechanism-design-and-practice-in-meituan.html"/>
+        <updated>2025-08-08T05:54:58.384Z</updated>
+        <content type="html"><![CDATA[即时零售行业蓬勃发展，在此生态下美团零售广告成为助力零售商家和品牌商扩大生意规模的重要驱动力。文章首先介绍了在全新业务模式“联合营销”场景下，首创的多协同方参竞拍卖机制算法——“集资拍卖”，然后梳理了集资拍卖在美团的技术发展路径和实践，围绕规则化集资拍卖、模型化集资拍卖、整体集资拍卖进行了展开，最后是一些总结，希望能对大家有所帮助或启发。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/08/08/advertising-mechanism-design-and-practice-in-meituan.html">阅读全文</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ACL 2025 | 美团技术团队论文精选]]></title>
         <id>https://tech.meituan.com/2025/08/01/acl-2025.html</id>
@@ -156,13 +164,5 @@
         <updated>2025-08-06T05:56:04.832Z</updated>
         <content type="html"><![CDATA[值蛇年春节到来之际，我们精选过去一年公众号30多篇技术文章和科研论文，整理制作成一本600多页的电子书，作为一份特别的新年礼物，献给每一位热爱技术的你。愿大家乘风破浪，勇往直前！
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/01/16/2024-spring-festival-present.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[鸿蒙应用签名实操及机制探究]]></title>
-        <id>https://tech.meituan.com/2025/01/06/openharmony.html</id>
-        <link href="https://tech.meituan.com/2025/01/06/openharmony.html"/>
-        <updated>2025-08-06T05:56:04.833Z</updated>
-        <content type="html"><![CDATA[本文对鸿蒙公开资料进行了深入分析和解读，梳理了鸿蒙单框架应用的签名机制，拆解每一步的实操过程和背后的实现原理，并对源码分析整理签名的校验机制。从中管中窥豹，探究鸿蒙系统的安全设计思路，希望能给从事鸿蒙研发的同学提供一些借鉴。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/01/06/openharmony.html">阅读全文</a>]]></content>
     </entry>
 </feed>
