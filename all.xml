@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kkyeer.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-08-22T05:44:57.937Z</updated>
+    <updated>2025-08-22T17:43:22.972Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[可信实验白皮书系列08：开放式分析引擎 | 附PDF合集 (美团技术博客)]]></title>
+        <id>https://tech.meituan.com/2025/08/22/meituan-ab-online-controlled-experiment-08.html</id>
+        <link href="https://tech.meituan.com/2025/08/22/meituan-ab-online-controlled-experiment-08.html"/>
+        <updated>2025-08-22T17:43:17.184Z</updated>
+        <content type="html"><![CDATA[本篇为《可信实验白皮书》系列的最后一篇内容，主要分享了 AB 实验分析方法库在美团的实践。同时，我们也为大家准备了一份系列全集的 PDF 文档，希望能够帮助到更多从事 AB 实验工作的同学们。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/08/22/meituan-ab-online-controlled-experiment-08.html">阅读全文</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美团智能头盔研发实践系列01：硬件设计篇 (美团技术博客)]]></title>
         <id>https://tech.meituan.com/2025/08/15/meituan-smart-helmet-01.html</id>
@@ -155,14 +163,6 @@
         <updated>2025-03-03T17:42:14.169Z</updated>
         <content type="html"><![CDATA[聚合页广告将商家和优惠信息以多种形式聚合展示给用户，是美团广告业务中一个重要的业务场景。本文从最能影响用户决策的“发券”和“排序”两个方向出发，介绍了上下文感知建模在广告场景的落地方案，证明了聚合页上下文感知的收益空间。希望能对从事相关研究的同学带来一些启发或帮助。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/03/02/context-enhanced-learning-for-intelligent-marketing.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[行为正则化与顺序策略优化结合的离线多智能体学习算法 (美团技术博客)]]></title>
-        <id>https://tech.meituan.com/2025/02/21/marl-in-meituan.html</id>
-        <link href="https://tech.meituan.com/2025/02/21/marl-in-meituan.html"/>
-        <updated>2025-02-21T05:41:26.076Z</updated>
-        <content type="html"><![CDATA[离线多智能体强化学习（MARL）是一个新兴领域，目标是在从预先收集的数据集中学习最佳的多智能体策略。随着人工智能技术的发展，多智能体系统在诸如自动驾驶、智能家居、机器人协作以及智能调度决策等方面展现了巨大的应用潜力。但现有的离线MARL方法也面临很多挑战，仍存在不协调行为和分布外联合动作的问题。为了应对这些挑战，中山大学计算机学院、美团履约平台技术部开展了学术合作项目，并取得了一些的成果，希望分享给大家。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/02/21/marl-in-meituan.html">阅读全文</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[知识库检索匹配的服务化实践 (有赞技术团队)]]></title>
