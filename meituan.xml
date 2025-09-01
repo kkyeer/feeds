@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tech.meituan.com/</id>
     <title>美团技术博客</title>
-    <updated>2025-08-31T17:41:15.678Z</updated>
+    <updated>2025-09-01T05:44:15.821Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://awps-assets.meituan.net/mit/blog/v20190629/asset/icon/android-icon-192x192.png?v=Whistle&amp;t=20181017-1r</icon>
+    <entry>
+        <title type="html"><![CDATA[美团 M17 团队开源 Meeseeks 评测集：揭秘大模型的“听话”能力]]></title>
+        <id>https://tech.meituan.com/2025/08/29/meituan-m17-meeseeks.html</id>
+        <link href="https://tech.meituan.com/2025/08/29/meituan-m17-meeseeks.html"/>
+        <updated>2025-09-01T05:44:10.418Z</updated>
+        <content type="html"><![CDATA[针对大模型知识推理能力与指令遵循能力存在表现差异的现象，为推进指令遵循能力的系统化研究与精准评估，美团 M17 团队推出全新评测基准 Meeseeks，并在GitHub、Huggingface、魔搭社区等开源平台上线。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/08/29/meituan-m17-meeseeks.html">阅读全文</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[可信实验白皮书系列08：开放式分析引擎 | 附PDF合集]]></title>
         <id>https://tech.meituan.com/2025/08/22/meituan-ab-online-controlled-experiment-08.html</id>
@@ -156,13 +164,5 @@
         <updated>2025-08-06T05:56:04.826Z</updated>
         <content type="html"><![CDATA[DeepSeek R1模型权重原生为FP8类型，仅能被英伟达新型GPU支持。美团技术团队进行了INT8精度量化的尝试，量化后模型精度基本无损，可部署到A100等其他型号GPU，从而解锁了芯片限制；相比BF16实现了50%的吞吐提升，降低了推理成本。相关技术已在Hugging Face上开源。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/03/07/meituan-int8-deepseek-r1.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上下文感知的聚合页广告优化实践]]></title>
-        <id>https://tech.meituan.com/2025/03/02/context-enhanced-learning-for-intelligent-marketing.html</id>
-        <link href="https://tech.meituan.com/2025/03/02/context-enhanced-learning-for-intelligent-marketing.html"/>
-        <updated>2025-08-06T05:56:04.828Z</updated>
-        <content type="html"><![CDATA[聚合页广告将商家和优惠信息以多种形式聚合展示给用户，是美团广告业务中一个重要的业务场景。本文从最能影响用户决策的“发券”和“排序”两个方向出发，介绍了上下文感知建模在广告场景的落地方案，证明了聚合页上下文感知的收益空间。希望能对从事相关研究的同学带来一些启发或帮助。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/03/02/context-enhanced-learning-for-intelligent-marketing.html">阅读全文</a>]]></content>
     </entry>
 </feed>
