@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kkyeer.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-09-01T05:44:15.823Z</updated>
+    <updated>2025-09-01T17:40:34.642Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[美团正式发布并开源 LongCat-Flash-Chat，动态计算开启高效 AI 时代 (美团技术博客)]]></title>
+        <id>https://tech.meituan.com/2025/09/01/longcat-flash-chat.html</id>
+        <link href="https://tech.meituan.com/2025/09/01/longcat-flash-chat.html"/>
+        <updated>2025-09-01T17:40:27.325Z</updated>
+        <content type="html"><![CDATA[我们正式发布 LongCat-Flash-Chat，并同步开源。LongCat-Flash 采用创新性混合专家模型（Mixture-of-Experts, MoE）架构，总参数 560B，激活参数 18.6B~31.3B（平均 27B），实现了计算效率与性能的双重优化。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/09/01/longcat-flash-chat.html">阅读全文</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美团 M17 团队开源 Meeseeks 评测集：揭秘大模型的“听话”能力 (美团技术博客)]]></title>
         <id>https://tech.meituan.com/2025/08/29/meituan-m17-meeseeks.html</id>
@@ -155,14 +163,6 @@
         <updated>2025-06-09T02:10:42.630Z</updated>
         <content type="html"><![CDATA[本文对美团技术团队在国际顶会CVPR 2025、ICLR 2025中发表的10篇论文进行介绍，这些论文是我们在图像生成、通用视觉分割、多模态文档理解、视频理解大模型、大模型效果评估、大语言模型的对齐和量化方法等方向上的技术沉淀和应用。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/04/14/cvpr-iclr-2025.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[老显卡福音！美团开源首发INT8无损满血版DeepSeek R1 (美团技术博客)]]></title>
-        <id>https://tech.meituan.com/2025/03/07/meituan-int8-deepseek-r1.html</id>
-        <link href="https://tech.meituan.com/2025/03/07/meituan-int8-deepseek-r1.html"/>
-        <updated>2025-03-07T17:40:50.953Z</updated>
-        <content type="html"><![CDATA[DeepSeek R1模型权重原生为FP8类型，仅能被英伟达新型GPU支持。美团技术团队进行了INT8精度量化的尝试，量化后模型精度基本无损，可部署到A100等其他型号GPU，从而解锁了芯片限制；相比BF16实现了50%的吞吐提升，降低了推理成本。相关技术已在Hugging Face上开源。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/03/07/meituan-int8-deepseek-r1.html">阅读全文</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[知识库检索匹配的服务化实践 (有赞技术团队)]]></title>
