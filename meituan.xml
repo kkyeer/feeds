@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tech.meituan.com/</id>
     <title>美团技术博客</title>
-    <updated>2025-09-17T05:42:51.944Z</updated>
+    <updated>2025-09-17T17:42:27.165Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://awps-assets.meituan.net/mit/blog/v20190629/asset/icon/android-icon-192x192.png?v=Whistle&amp;t=20181017-1r</icon>
+    <entry>
+        <title type="html"><![CDATA[LongCat-Flash：如何使用 SGLang 部署美团 Agentic 模型]]></title>
+        <id>https://tech.meituan.com/2025/09/11/longcat-flash-sglang.html</id>
+        <link href="https://tech.meituan.com/2025/09/11/longcat-flash-sglang.html"/>
+        <updated>2025-09-17T17:42:21.646Z</updated>
+        <content type="html"><![CDATA[SGLang 团队是业界专注于大模型推理系统优化的技术团队，提供并维护大模型推理的开源框架SGLang。近期，美团M17团队与SGLang团队一起合作，共同实现了LongCat-Flash模型在SGLang上的优化。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/09/11/longcat-flash-sglang.html">阅读全文</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美团正式发布并开源 LongCat-Flash-Chat，动态计算开启高效 AI 时代]]></title>
         <id>https://tech.meituan.com/2025/09/01/longcat-flash-chat.html</id>
@@ -156,13 +164,5 @@
         <updated>2025-08-06T05:56:04.824Z</updated>
         <content type="html"><![CDATA[本文介绍了OR算法+ML模型混合推理能力建设思路及业务背景，此场景相比常规模型推理更具特殊性和复杂性，在工程实现上面临多维挑战，因此本文分别从性能、稳定性和扩展性三个维度分析问题和解法，并以推理框架架构演进为线总结了过去两年的分期迭代实践历程和收益，其中有一些较为通用的经验，希望能够给大家带来一些帮助或启发。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/05/12/or-ml-practice.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ICLR&CVPR 2025美团技术团队论文精选]]></title>
-        <id>https://tech.meituan.com/2025/04/14/cvpr-iclr-2025.html</id>
-        <link href="https://tech.meituan.com/2025/04/14/cvpr-iclr-2025.html"/>
-        <updated>2025-08-06T05:56:04.825Z</updated>
-        <content type="html"><![CDATA[本文对美团技术团队在国际顶会CVPR 2025、ICLR 2025中发表的10篇论文进行介绍，这些论文是我们在图像生成、通用视觉分割、多模态文档理解、视频理解大模型、大模型效果评估、大语言模型的对齐和量化方法等方向上的技术沉淀和应用。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/04/14/cvpr-iclr-2025.html">阅读全文</a>]]></content>
     </entry>
 </feed>
