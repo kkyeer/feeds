@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tech.meituan.com/</id>
     <title>美团技术博客</title>
-    <updated>2025-09-23T17:43:45.503Z</updated>
+    <updated>2025-09-24T05:42:31.006Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://awps-assets.meituan.net/mit/blog/v20190629/asset/icon/android-icon-192x192.png?v=Whistle&amp;t=20181017-1r</icon>
+    <entry>
+        <title type="html"><![CDATA[LongCat-Flash-Thinking 正式发布，更强、更专业，保持极速！]]></title>
+        <id>https://tech.meituan.com/2025/09/22/longcat-flash-thinking.html</id>
+        <link href="https://tech.meituan.com/2025/09/22/longcat-flash-thinking.html"/>
+        <updated>2025-09-24T05:42:25.768Z</updated>
+        <content type="html"><![CDATA[美团 LongCat 团队正式发布全新高效推理模型 LongCat-Flash-Thinking。综合评估显示，LongCat-Flash-Thinking 在逻辑、数学、代码、智能体等多个领域的推理任务中，达到了全球开源模型的最先进水平（SOTA）。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/09/22/longcat-flash-thinking.html">阅读全文</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LongCat-Flash：如何使用 SGLang 部署美团 Agentic 模型]]></title>
         <id>https://tech.meituan.com/2025/09/11/longcat-flash-sglang.html</id>
@@ -156,13 +164,5 @@
         <updated>2025-08-06T05:56:04.822Z</updated>
         <content type="html"><![CDATA[美团外卖推荐算法团队基于HSTU提出了MTGR框架以探索推荐系统中Scaling Law。MTGR对齐传统模型特征体系，并对多条序列利用Transformer架构进行统一建模。通过极致的性能优化，样本前向推理FLOPs提升65倍，推理成本降低12%，训练成本持平。MTGR离在线均取得近2年迭代最大收益，且于2025年4月底在外卖推荐场景全量。本文系相关工作的实践与经验总结，希望能给从事相关方向研究的同学带来一些帮助。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/05/19/meituan-generative-recommendation.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OR算法+ML模型混合推理框架架构演进]]></title>
-        <id>https://tech.meituan.com/2025/05/12/or-ml-practice.html</id>
-        <link href="https://tech.meituan.com/2025/05/12/or-ml-practice.html"/>
-        <updated>2025-08-06T05:56:04.824Z</updated>
-        <content type="html"><![CDATA[本文介绍了OR算法+ML模型混合推理能力建设思路及业务背景，此场景相比常规模型推理更具特殊性和复杂性，在工程实现上面临多维挑战，因此本文分别从性能、稳定性和扩展性三个维度分析问题和解法，并以推理框架架构演进为线总结了过去两年的分期迭代实践历程和收益，其中有一些较为通用的经验，希望能够给大家带来一些帮助或启发。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/05/12/or-ml-practice.html">阅读全文</a>]]></content>
     </entry>
 </feed>
