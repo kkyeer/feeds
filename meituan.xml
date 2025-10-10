@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tech.meituan.com/</id>
     <title>美团技术博客</title>
-    <updated>2025-10-10T05:43:54.540Z</updated>
+    <updated>2025-10-10T17:41:45.298Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://awps-assets.meituan.net/mit/blog/v20190629/asset/icon/android-icon-192x192.png?v=Whistle&amp;t=20181017-1r</icon>
+    <entry>
+        <title type="html"><![CDATA[可验证过程奖励在提升大模型推理效率中的探索与实践]]></title>
+        <id>https://tech.meituan.com/2025/10/10/vsrm.html</id>
+        <link href="https://tech.meituan.com/2025/10/10/vsrm.html"/>
+        <updated>2025-10-10T17:41:40.775Z</updated>
+        <content type="html"><![CDATA[美团业务研发搜推平台部算法团队创新提出可验证过程奖励机制（VSRM），针对大模型推理中的冗余回复与过度思考问题，精准奖励有效推理步骤，显著缩减输出长度并提升推理效率。VSRM 通过步骤级正确率增益评估，有效抑制无效步骤，兼容主流强化学习算法，助力高效、可靠的复杂推理任务。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/10/10/vsrm.html">阅读全文</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LongCat-Flash-Thinking 正式发布，更强、更专业，保持极速！]]></title>
         <id>https://tech.meituan.com/2025/09/22/longcat-flash-thinking.html</id>
@@ -156,13 +164,5 @@
         <updated>2025-08-06T05:56:04.818Z</updated>
         <content type="html"><![CDATA[在上一篇文章中，我们详细阐述了AB实验的概念与其价值，并结合美团的实际情况，探讨了AB实验中常见的挑战及建设经验。本篇作为可信实验白皮书系列的第二章，将重点讲解AB实验的理论原理及其背后的统计学基础。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/05/23/meituan-ab-online-controlled-experiment-02.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[可信实验白皮书系列01：从0到1的方法论与实践指南]]></title>
-        <id>https://tech.meituan.com/2025/05/22/meituan-ab-online-controlled-experiment-01.html</id>
-        <link href="https://tech.meituan.com/2025/05/22/meituan-ab-online-controlled-experiment-01.html"/>
-        <updated>2025-08-06T05:56:04.820Z</updated>
-        <content type="html"><![CDATA[本白皮书以AB实验为中心，涵盖AB实验概述与价值、实验方法基础原理与案例剖析以及配套SDK代码分析等，内容丰富且易于理解和应用。适合从事AB实验研究的数据科学家、系统开发人员，以及需要实验驱动策略决策的业务和产研团队，同时也适合对数据驱动增长和数据科学等领域感兴趣的读者。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/05/22/meituan-ab-online-controlled-experiment-01.html">阅读全文</a>]]></content>
     </entry>
 </feed>
