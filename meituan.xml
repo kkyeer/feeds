@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tech.meituan.com/</id>
     <title>美团技术博客</title>
-    <updated>2025-10-30T17:44:23.946Z</updated>
+    <updated>2025-10-31T05:46:02.812Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://awps-assets.meituan.net/mit/blog/v20190629/asset/icon/android-icon-192x192.png?v=Whistle&amp;t=20181017-1r</icon>
+    <entry>
+        <title type="html"><![CDATA[ICCV 2025 | 美团论文精选及多模态推理竞赛冠军方法分享]]></title>
+        <id>https://tech.meituan.com/2025/10/27/iccv-2025.html</id>
+        <link href="https://tech.meituan.com/2025/10/27/iccv-2025.html"/>
+        <updated>2025-10-31T05:45:57.688Z</updated>
+        <content type="html"><![CDATA[本文介绍了美团技术团队在国际顶会 ICCV 2025 中发表的 5 篇论文。同时，在ICCV 2025 举办的多模态推理竞赛中，美团基础研发平台/计算和智能平台组建的 ActiveAlphaAgent 团队，斩获赛题 1 真实场景视觉定位（VG-RS）冠军，赛题 2 空间感知视觉问答（VQA-SA）季军和赛题 3 创意广告视频视觉推理（VR-Ads）季军。本文也分享了这三道赛题的解题思路，希望相关研究能给同学们带来一些帮助或启发。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/10/27/iccv-2025.html">阅读全文</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LongCat-Video 视频生成模型正式发布，探索世界模型的第一步]]></title>
+        <id>https://tech.meituan.com/2025/10/27/longcat-video.html</id>
+        <link href="https://tech.meituan.com/2025/10/27/longcat-video.html"/>
+        <updated>2025-10-31T05:45:57.691Z</updated>
+        <content type="html"><![CDATA[美团 LongCat 团队正式发布 LongCat-Video 视频生成模型 —— 不仅以统一模型在文生、图生视频基础任务上达到开源最先进水平，更依托原生视频续写任务预训练，实现分钟级长视频连贯生成，从根源上保障跨帧时序一致性与物理运动合理性，尤其在长视频生成领域具备显著优势。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/10/27/longcat-video.html">阅读全文</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[从0到1建设美团数据库容量评估系统]]></title>
         <id>https://tech.meituan.com/2025/10/17/database-capacity-evaluation-system.html</id>
@@ -148,21 +164,5 @@
         <updated>2025-08-06T05:56:04.814Z</updated>
         <content type="html"><![CDATA[本文系《可信实验白皮书》系列的第五篇文章，上一篇我们围绕随机轮转实验展开，内容主要包括抛硬币随机轮转、完全随机轮转、配对随机轮转等几个实验方法的介绍。本篇我们会介绍准实验，然后会重点介绍双重差分法，包括概述、评估原理及美团的一些实践案例。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/06/16/meituan-ab-online-controlled-experiment-05.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[可信实验白皮书系列04：随机轮转实验]]></title>
-        <id>https://tech.meituan.com/2025/06/06/meituan-ab-online-controlled-experiment-04.html</id>
-        <link href="https://tech.meituan.com/2025/06/06/meituan-ab-online-controlled-experiment-04.html"/>
-        <updated>2025-08-06T05:56:04.815Z</updated>
-        <content type="html"><![CDATA[本文系《可信实验白皮书》系列的第四篇文章，在上一篇我们将重点介绍随机对照实验相关的一些基础知识，以及提高实验功效的一些常见方法。本篇我们将围绕随机轮转实验展开，内容主要包括抛硬币随机轮转、完全随机轮转、配对随机轮转等几个实验的介绍。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/06/06/meituan-ab-online-controlled-experiment-04.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[可信实验白皮书系列03：随机对照实验]]></title>
-        <id>https://tech.meituan.com/2025/06/05/meituan-ab-online-controlled-experiment-03.html</id>
-        <link href="https://tech.meituan.com/2025/06/05/meituan-ab-online-controlled-experiment-03.html"/>
-        <updated>2025-08-06T05:56:04.817Z</updated>
-        <content type="html"><![CDATA[本文系《可信实验白皮书》系列的第三篇文章，第一篇文章我们介绍了为什么要写AB实验白皮书，第二篇文章讲解了AB实验的理论原理及其背后的统计学基础。本篇我们将重点介绍随机对照实验相关的一些基础知识，以及提高实验功效的一些常见方法。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/06/05/meituan-ab-online-controlled-experiment-03.html">阅读全文</a>]]></content>
     </entry>
 </feed>
