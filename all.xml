@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kkyeer.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-11-03T05:44:38.193Z</updated>
+    <updated>2025-11-03T17:45:47.300Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[LongCat-Flash-Omni正式发布并开源：开启全模态实时交互时代 (美团技术博客)]]></title>
+        <id>https://tech.meituan.com/2025/11/03/longcat-flash-omni.html</id>
+        <link href="https://tech.meituan.com/2025/11/03/longcat-flash-omni.html"/>
+        <updated>2025-11-03T17:45:42.119Z</updated>
+        <content type="html"><![CDATA[美团 LongCat-Flash 系列再升级，美团正式发布全新家族成员 LongCat-Flash-Omni，在文本、图像、视频理解及语音感知与生成等关键单模态任务中，均展现出极强的竞争力。LongCat-Flash-Omni 是业界首个实现&nbsp;“全模态覆盖、端到端架构、大参数量高效推理”&nbsp;于一体的开源大语言模型。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/11/03/longcat-flash-omni.html">阅读全文</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ICCV 2025 | 美团论文精选及多模态推理竞赛冠军方法分享 (美团技术博客)]]></title>
         <id>https://tech.meituan.com/2025/10/27/iccv-2025.html</id>
@@ -155,14 +163,6 @@
         <updated>2025-06-20T17:43:59.982Z</updated>
         <content type="html"><![CDATA[本文系《可信实验白皮书》系列的第六篇文章，上一篇我们介绍了准实验，然后重点介绍了双重差分法，包括概述、评估原理及美团的一些实践案例。本篇重点介绍了观察性研究，内容主要包括合成控制法、匹配方法、Causal Impact等几个方面。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/06/20/meituan-ab-online-controlled-experiment-06.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[可信实验白皮书系列05：准实验 (美团技术博客)]]></title>
-        <id>https://tech.meituan.com/2025/06/16/meituan-ab-online-controlled-experiment-05.html</id>
-        <link href="https://tech.meituan.com/2025/06/16/meituan-ab-online-controlled-experiment-05.html"/>
-        <updated>2025-06-16T05:47:50.152Z</updated>
-        <content type="html"><![CDATA[本文系《可信实验白皮书》系列的第五篇文章，上一篇我们围绕随机轮转实验展开，内容主要包括抛硬币随机轮转、完全随机轮转、配对随机轮转等几个实验方法的介绍。本篇我们会介绍准实验，然后会重点介绍双重差分法，包括概述、评估原理及美团的一些实践案例。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/06/16/meituan-ab-online-controlled-experiment-05.html">阅读全文</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[知识库检索匹配的服务化实践 (有赞技术团队)]]></title>
