@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tech.meituan.com/</id>
     <title>美团技术博客</title>
-    <updated>2025-11-04T17:44:15.627Z</updated>
+    <updated>2025-11-05T05:45:39.746Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://awps-assets.meituan.net/mit/blog/v20190629/asset/icon/android-icon-192x192.png?v=Whistle&amp;t=20181017-1r</icon>
     <entry>
@@ -12,6 +12,14 @@
         <updated>2025-11-03T17:45:42.119Z</updated>
         <content type="html"><![CDATA[美团 LongCat-Flash 系列再升级，美团正式发布全新家族成员 LongCat-Flash-Omni，在文本、图像、视频理解及语音感知与生成等关键单模态任务中，均展现出极强的竞争力。LongCat-Flash-Omni 是业界首个实现&nbsp;“全模态覆盖、端到端架构、大参数量高效推理”&nbsp;于一体的开源大语言模型。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/11/03/longcat-flash-omni.html">阅读全文</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美团 LongCat 团队发布 VitaBench：基于复杂生活场景的交互式 Agent 评测基准]]></title>
+        <id>https://tech.meituan.com/2025/11/02/vitabench-agent.html</id>
+        <link href="https://tech.meituan.com/2025/11/02/vitabench-agent.html"/>
+        <updated>2025-11-05T05:45:34.807Z</updated>
+        <content type="html"><![CDATA[美团 LongCat 团队研发的 VitaBench（Versatile Interactive Tasks Benchmark）正式发布，这是当前高度贴近真实生活场景所面临复杂问题的大模型智能体评测基准。VitaBench 以外卖点餐、餐厅就餐、旅游出行三大高频真实生活场景为典型载体，构建了包含 66 个工具的交互式评测环境，并进行了跨场景的综合任务设计，例如要求 agent 在一个旅行规划任务中通过思考、调用工具和用户交互，完整执行到买好票、订好餐厅的终端状态。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/11/02/vitabench-agent.html">阅读全文</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ICCV 2025 | 美团论文精选及多模态推理竞赛冠军方法分享]]></title>
@@ -156,13 +164,5 @@
         <updated>2025-08-06T05:56:04.810Z</updated>
         <content type="html"><![CDATA[美团信息安全技术团队核心服务升级JDK 17后，性能与稳定性大幅提升，机器成本降低了10%。高版本JDK与ZGC技术令人惊艳，且Java AI SDK最低支持JDK 17。本文总结了JDK 17的主要特性，然后重点分享了JDK 17+ZGC在安全领域的一些实践，希望能对大家有所帮助或启发。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/06/20/jdk17-zgc.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[可信实验白皮书系列06：观察性研究]]></title>
-        <id>https://tech.meituan.com/2025/06/20/meituan-ab-online-controlled-experiment-06.html</id>
-        <link href="https://tech.meituan.com/2025/06/20/meituan-ab-online-controlled-experiment-06.html"/>
-        <updated>2025-08-06T05:56:04.811Z</updated>
-        <content type="html"><![CDATA[本文系《可信实验白皮书》系列的第六篇文章，上一篇我们介绍了准实验，然后重点介绍了双重差分法，包括概述、评估原理及美团的一些实践案例。本篇重点介绍了观察性研究，内容主要包括合成控制法、匹配方法、Causal Impact等几个方面。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/06/20/meituan-ab-online-controlled-experiment-06.html">阅读全文</a>]]></content>
     </entry>
 </feed>
