@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tech.meituan.com/</id>
     <title>美团技术博客</title>
-    <updated>2025-11-17T05:45:17.647Z</updated>
+    <updated>2025-11-17T17:44:15.123Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://awps-assets.meituan.net/mit/blog/v20190629/asset/icon/android-icon-192x192.png?v=Whistle&amp;t=20181017-1r</icon>
+    <entry>
+        <title type="html"><![CDATA[美团 LongCat 团队发布全模态一站式评测基准 UNO-Bench]]></title>
+        <id>https://tech.meituan.com/2025/11/17/longcat-uno-bench.html</id>
+        <link href="https://tech.meituan.com/2025/11/17/longcat-uno-bench.html"/>
+        <updated>2025-11-17T17:44:10.184Z</updated>
+        <content type="html"><![CDATA[美团 LongCat 团队提出了一套高质量、多样化的一站式全模态大模型评测基准——UNO-Bench。该基准通过一个统一的框架，不仅能同时精准衡量模型的单模态与全模态理解能力，更首次验证了全模态大模型的“组合定律”——该定律在能力较弱的模型上呈现为短板效应，而在能力较强的模型上则涌现出协同增益，为行业提供了一种全新的、跨越模型规模的分析范式。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/11/17/longcat-uno-bench.html">阅读全文</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美团开源LongCat-Audio-Codec，高效语音编解码器助力实时交互落地]]></title>
+        <id>https://tech.meituan.com/2025/11/14/longcat-audio-codec.html</id>
+        <link href="https://tech.meituan.com/2025/11/14/longcat-audio-codec.html"/>
+        <updated>2025-11-17T17:44:10.185Z</updated>
+        <content type="html"><![CDATA[针对 Speech LLM 落地中的音频处理难题，美团 LongCat 团队正式开源专用语音编解码方案 LongCat-Audio-Codec。它提供了一套一站式的 Token 生成器（Tokenizer）与 Token 还原器（DeTokenizer）工具链，其核心功能是将原始音频信号映射为语义与声学并行的 Token 序列，实现高效离散化，再通过解码模块重构高质量音频，为 Speech LLM 提供从信号输入到输出的全链路音频处理支持。真正让语音大模型既 “听懂” 语义，又能够“说清” 。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/11/14/longcat-audio-codec.html">阅读全文</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LongCat-Flash-Omni正式发布并开源：开启全模态实时交互时代]]></title>
         <id>https://tech.meituan.com/2025/11/03/longcat-flash-omni.html</id>
@@ -148,21 +164,5 @@
         <updated>2025-08-06T05:56:04.805Z</updated>
         <content type="html"><![CDATA[本文系《可信实验白皮书》系列的第七篇文章。上一篇我们重点介绍了观察性研究，内容主要包括合成控制法、匹配方法、Causal Impact等几个方面。针对单次实验功效不足、假阳性、策略调优等实验中面临的问题，本篇我们来介绍几个高阶实验工具，重点解读了统合分析、多重比较，同时还有一些拓展与展望。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/06/26/meituan-ab-online-controlled-experiment-07.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开源 | MeiGen-MultiTalk：基于单张照片实现多人互动演绎]]></title>
-        <id>https://tech.meituan.com/2025/06/26/multitalk-github.html</id>
-        <link href="https://tech.meituan.com/2025/06/26/multitalk-github.html"/>
-        <updated>2025-08-06T05:56:04.808Z</updated>
-        <content type="html"><![CDATA[近日，美团推出了音频驱动的多人对话视频生成框架MultiTalk，并在GitHub上开源，首创L-RoPE绑定技术，通过标签旋转位置编码精准解决多音频流与人物错位难题。该框架创新性地采用局部参数训练+多任务学习策略，在保留复杂动作指令跟随能力的同时，实现自适应动态人物定位。只需输入多人音频流、参考图像和文本提示，即可生成口型精准同步、肢体自然的交互视频，可支持影视制作、直播电商等场景的工具升级。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/06/26/multitalk-github.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JDK高版本特性总结与ZGC实践]]></title>
-        <id>https://tech.meituan.com/2025/06/20/jdk17-zgc.html</id>
-        <link href="https://tech.meituan.com/2025/06/20/jdk17-zgc.html"/>
-        <updated>2025-08-06T05:56:04.810Z</updated>
-        <content type="html"><![CDATA[美团信息安全技术团队核心服务升级JDK 17后，性能与稳定性大幅提升，机器成本降低了10%。高版本JDK与ZGC技术令人惊艳，且Java AI SDK最低支持JDK 17。本文总结了JDK 17的主要特性，然后重点分享了JDK 17+ZGC在安全领域的一些实践，希望能对大家有所帮助或启发。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/06/20/jdk17-zgc.html">阅读全文</a>]]></content>
     </entry>
 </feed>
