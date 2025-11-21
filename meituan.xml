@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tech.meituan.com/</id>
     <title>美团技术博客</title>
-    <updated>2025-11-21T05:44:32.937Z</updated>
+    <updated>2025-11-21T17:43:19.926Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://awps-assets.meituan.net/mit/blog/v20190629/asset/icon/android-icon-192x192.png?v=Whistle&amp;t=20181017-1r</icon>
+    <entry>
+        <title type="html"><![CDATA[美团 LongCat Interaction 团队发布大模型交互系统技术报告 WOWService]]></title>
+        <id>https://tech.meituan.com/2025/11/21/longcat-interaction-wowservice.html</id>
+        <link href="https://tech.meituan.com/2025/11/21/longcat-interaction-wowservice.html"/>
+        <updated>2025-11-21T17:43:15.010Z</updated>
+        <content type="html"><![CDATA[美团 LongCat 团队正式发布——「WOWService 大模型交互系统技术报告」，深度拆解了 「数据与知识双驱动」「自我优化训练」「四阶段训练流水线」「多 Agent 协同」 四大核心技术框架，希望对行业发展提供参考与启发。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/11/21/longcat-interaction-wowservice.html">阅读全文</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美团 LongCat 团队发布全模态一站式评测基准 UNO-Bench]]></title>
         <id>https://tech.meituan.com/2025/11/17/longcat-uno-bench.html</id>
@@ -156,13 +164,5 @@
         <updated>2025-08-06T05:56:04.805Z</updated>
         <content type="html"><![CDATA[Meituan-M17 团队联合上海交大等机构，分别推出了 OIBench（聚焦高区分度算法题评测）与 CoreCodeBench（聚焦多场景工程级代码基准）两大数据集，旨在揭示大模型编程能力真实水平，这两大数据集已分别在GitHub和Huggingface上进行开源。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/07/17/meituan-m17-oibench-corecodebench.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[可信实验白皮书系列07：高阶实验工具]]></title>
-        <id>https://tech.meituan.com/2025/06/26/meituan-ab-online-controlled-experiment-07.html</id>
-        <link href="https://tech.meituan.com/2025/06/26/meituan-ab-online-controlled-experiment-07.html"/>
-        <updated>2025-08-06T05:56:04.805Z</updated>
-        <content type="html"><![CDATA[本文系《可信实验白皮书》系列的第七篇文章。上一篇我们重点介绍了观察性研究，内容主要包括合成控制法、匹配方法、Causal Impact等几个方面。针对单次实验功效不足、假阳性、策略调优等实验中面临的问题，本篇我们来介绍几个高阶实验工具，重点解读了统合分析、多重比较，同时还有一些拓展与展望。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/06/26/meituan-ab-online-controlled-experiment-07.html">阅读全文</a>]]></content>
     </entry>
 </feed>
