@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kkyeer.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-12-23T05:49:12.292Z</updated>
+    <updated>2025-12-23T17:46:02.060Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[美团 LongCat-Video-Avatar 正式发布，实现开源 SOTA 级拟真表现 (美团技术博客)]]></title>
+        <id>https://tech.meituan.com/2025/12/23/longcat-video-avatar.html</id>
+        <link href="https://tech.meituan.com/2025/12/23/longcat-video-avatar.html"/>
+        <updated>2025-12-23T17:45:56.437Z</updated>
+        <content type="html"><![CDATA[今年 8 月，美团开源的 InfiniteTalk 项目凭借无限长度生成能力与精准的唇形、头部、表情及姿态同步表现，迅速成为语音驱动虚拟人领域的主流工具，吸引全球数万名开
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/12/23/longcat-video-avatar.html">阅读全文</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大模型剪枝新范式：先浓缩，再剪枝——DenoiseRotator技术解读 (美团技术博客)]]></title>
         <id>https://tech.meituan.com/2025/12/19/longcat-interaction-denoiserotator.html</id>
@@ -155,14 +163,6 @@
         <updated>2025-09-01T17:40:27.325Z</updated>
         <content type="html"><![CDATA[我们正式发布 LongCat-Flash-Chat，并同步开源。LongCat-Flash 采用创新性混合专家模型（Mixture-of-Experts, MoE）架构，总参数 560B，激活参数 18.6B~31.3B（平均 27B），实现了计算效率与性能的双重优化。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/09/01/longcat-flash-chat.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美团 M17 团队开源 Meeseeks 评测集：揭秘大模型的“听话”能力 (美团技术博客)]]></title>
-        <id>https://tech.meituan.com/2025/08/29/meituan-m17-meeseeks.html</id>
-        <link href="https://tech.meituan.com/2025/08/29/meituan-m17-meeseeks.html"/>
-        <updated>2025-09-01T05:44:10.418Z</updated>
-        <content type="html"><![CDATA[针对大模型知识推理能力与指令遵循能力存在表现差异的现象，为推进指令遵循能力的系统化研究与精准评估，美团 M17 团队推出全新评测基准 Meeseeks，并在GitHub、Huggingface、魔搭社区等开源平台上线。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/08/29/meituan-m17-meeseeks.html">阅读全文</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[知识库检索匹配的服务化实践 (有赞技术团队)]]></title>
