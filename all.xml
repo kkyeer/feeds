@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kkyeer.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-12-28T17:44:05.628Z</updated>
+    <updated>2025-12-29T05:52:42.471Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[2025 | 美团技术团队热门技术文章汇总 (美团技术博客)]]></title>
+        <id>https://tech.meituan.com/2025/12/29/2025-annual-review.html</id>
+        <link href="https://tech.meituan.com/2025/12/29/2025-annual-review.html"/>
+        <updated>2025-12-29T05:52:37.506Z</updated>
+        <content type="html"><![CDATA[感谢这一路上，每一位伙伴的并肩前行与坚定支持。今年，美团技术团队在持续深耕中涌现出不少值得分享的实践与开源产品&amp;服务。我们从中精选了18篇具有代表性的技术文章，内容涵盖大模型开源、研发技能、产品服务三大方向。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/12/29/2025-annual-review.html">阅读全文</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美团 LongCat-Video-Avatar 正式发布，实现开源 SOTA 级拟真表现 (美团技术博客)]]></title>
         <id>https://tech.meituan.com/2025/12/23/longcat-video-avatar.html</id>
@@ -155,14 +163,6 @@
         <updated>2025-09-17T17:42:21.646Z</updated>
         <content type="html"><![CDATA[SGLang 团队是业界专注于大模型推理系统优化的技术团队，提供并维护大模型推理的开源框架SGLang。近期，美团M17团队与SGLang团队一起合作，共同实现了LongCat-Flash模型在SGLang上的优化。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/09/11/longcat-flash-sglang.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美团正式发布并开源 LongCat-Flash-Chat，动态计算开启高效 AI 时代 (美团技术博客)]]></title>
-        <id>https://tech.meituan.com/2025/09/01/longcat-flash-chat.html</id>
-        <link href="https://tech.meituan.com/2025/09/01/longcat-flash-chat.html"/>
-        <updated>2025-09-01T17:40:27.325Z</updated>
-        <content type="html"><![CDATA[我们正式发布 LongCat-Flash-Chat，并同步开源。LongCat-Flash 采用创新性混合专家模型（Mixture-of-Experts, MoE）架构，总参数 560B，激活参数 18.6B~31.3B（平均 27B），实现了计算效率与性能的双重优化。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/09/01/longcat-flash-chat.html">阅读全文</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[知识库检索匹配的服务化实践 (有赞技术团队)]]></title>
