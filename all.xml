@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kkyeer.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-01-05T17:48:31.674Z</updated>
+    <updated>2026-01-06T05:50:09.363Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[2025 | 美团技术团队热门技术文章汇总 (美团技术博客)]]></title>
@@ -93,6 +93,14 @@
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/11/14/longcat-audio-codec.html">阅读全文</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[NeurIPS 2025 | 美团技术团队论文精选 (美团技术博客)]]></title>
+        <id>https://tech.meituan.com/2025/11/13/neurips-2025.html</id>
+        <link href="https://tech.meituan.com/2025/11/13/neurips-2025.html"/>
+        <updated>2026-01-06T05:50:04.295Z</updated>
+        <content type="html"><![CDATA[本文精选了美团技术团队在国际顶会NeurIPS 2025中发表的10篇论文，研究方向覆盖了大模型、多模态、自然语音处理、计算机视觉、基础技术、因果推断等技术领域，希望相关研究能给同学们带来一些帮助或启发。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/11/13/neurips-2025.html">阅读全文</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[LongCat-Flash-Omni正式发布并开源：开启全模态实时交互时代 (美团技术博客)]]></title>
         <id>https://tech.meituan.com/2025/11/03/longcat-flash-omni.html</id>
         <link href="https://tech.meituan.com/2025/11/03/longcat-flash-omni.html"/>
@@ -155,14 +163,6 @@
         <updated>2025-09-24T17:44:43.141Z</updated>
         <content type="html"><![CDATA[为解决虚拟人长视频生成的质量退化问题，美团基础研发平台/视觉智能团队推出了 InfiniteTalk 技术，实现无限时长视频生成。已在 GitHub 开源并获 1.6K Stars，Hugging Face 月下载量 64.8K，受到了很多好评，能够应用到电商直播、教育、影视等领域。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/09/21/infinitetalk.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LongCat-Flash：如何使用 SGLang 部署美团 Agentic 模型 (美团技术博客)]]></title>
-        <id>https://tech.meituan.com/2025/09/11/longcat-flash-sglang.html</id>
-        <link href="https://tech.meituan.com/2025/09/11/longcat-flash-sglang.html"/>
-        <updated>2025-09-17T17:42:21.646Z</updated>
-        <content type="html"><![CDATA[SGLang 团队是业界专注于大模型推理系统优化的技术团队，提供并维护大模型推理的开源框架SGLang。近期，美团M17团队与SGLang团队一起合作，共同实现了LongCat-Flash模型在SGLang上的优化。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/09/11/longcat-flash-sglang.html">阅读全文</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[知识库检索匹配的服务化实践 (有赞技术团队)]]></title>
