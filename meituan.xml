@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tech.meituan.com/</id>
     <title>美团技术博客</title>
-    <updated>2026-01-13T05:49:57.351Z</updated>
+    <updated>2026-01-13T17:52:42.921Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://awps-assets.meituan.net/mit/blog/v20190629/asset/icon/android-icon-192x192.png?v=Whistle&amp;t=20181017-1r</icon>
+    <entry>
+        <title type="html"><![CDATA[KuiTest：基于大模型通识的 UI 交互遍历测试]]></title>
+        <id>https://tech.meituan.com/2026/01/13/kuitest-ui.html</id>
+        <link href="https://tech.meituan.com/2026/01/13/kuitest-ui.html"/>
+        <updated>2026-01-13T17:52:37.652Z</updated>
+        <content type="html"><![CDATA[美团质效技术部联合复旦大学周扬帆教授团队推出 KuiTest——零规则 UI 功能性异常测试工具。KuiTest 通过将“人类预期”直接用作 Test Oracle，解决了长期以来 UI 测试 Oracle 泛化性差的自动化痛点。实验表明，KuiTest 异常召回率达 86%，误报率仅 1.2%，已在执行 21 万+测试用例，发现百余例有效缺陷，大幅降低人工成本并提升测试覆盖率。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2026/01/13/kuitest-ui.html">阅读全文</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AAAI 2026 | 美团技术团队学术论文精选]]></title>
+        <id>https://tech.meituan.com/2026/01/12/aaai-2026.html</id>
+        <link href="https://tech.meituan.com/2026/01/12/aaai-2026.html"/>
+        <updated>2026-01-13T17:52:37.657Z</updated>
+        <content type="html"><![CDATA[AAAI 是人工智能领域顶级的国际学术会议，本文精选了美团技术团队被收录的8篇学术论文（附下载链接），覆盖大模型推理、&nbsp;退火策略、过程奖励模型、强化学习、视觉文本渲染等多个技术领域，希望这些论文能对大家有所帮助或启发。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2026/01/12/aaai-2026.html">阅读全文</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025 | 美团技术团队热门技术文章汇总]]></title>
         <id>https://tech.meituan.com/2025/12/29/2025-annual-review.html</id>
@@ -148,21 +164,5 @@
         <updated>2025-10-10T17:41:40.775Z</updated>
         <content type="html"><![CDATA[美团业务研发搜推平台部算法团队创新提出可验证过程奖励机制（VSRM），针对大模型推理中的冗余回复与过度思考问题，精准奖励有效推理步骤，显著缩减输出长度并提升推理效率。VSRM 通过步骤级正确率增益评估，有效抑制无效步骤，兼容主流强化学习算法，助力高效、可靠的复杂推理任务。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/10/10/vsrm.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LongCat-Flash-Thinking 正式发布，更强、更专业，保持极速！]]></title>
-        <id>https://tech.meituan.com/2025/09/22/longcat-flash-thinking.html</id>
-        <link href="https://tech.meituan.com/2025/09/22/longcat-flash-thinking.html"/>
-        <updated>2025-09-24T05:42:25.768Z</updated>
-        <content type="html"><![CDATA[美团 LongCat 团队正式发布全新高效推理模型 LongCat-Flash-Thinking。综合评估显示，LongCat-Flash-Thinking 在逻辑、数学、代码、智能体等多个领域的推理任务中，达到了全球开源模型的最先进水平（SOTA）。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/09/22/longcat-flash-thinking.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开源 | InfiniteTalk：无限长虚拟人视频生成的新范式]]></title>
-        <id>https://tech.meituan.com/2025/09/21/infinitetalk.html</id>
-        <link href="https://tech.meituan.com/2025/09/21/infinitetalk.html"/>
-        <updated>2025-09-24T17:44:43.141Z</updated>
-        <content type="html"><![CDATA[为解决虚拟人长视频生成的质量退化问题，美团基础研发平台/视觉智能团队推出了 InfiniteTalk 技术，实现无限时长视频生成。已在 GitHub 开源并获 1.6K Stars，Hugging Face 月下载量 64.8K，受到了很多好评，能够应用到电商直播、教育、影视等领域。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/09/21/infinitetalk.html">阅读全文</a>]]></content>
     </entry>
 </feed>
