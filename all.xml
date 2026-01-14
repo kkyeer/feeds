@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kkyeer.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-01-13T17:52:42.929Z</updated>
+    <updated>2026-01-14T05:50:26.609Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[KuiTest：基于大模型通识的 UI 交互遍历测试 (美团技术博客)]]></title>
         <id>https://tech.meituan.com/2026/01/13/kuitest-ui.html</id>
         <link href="https://tech.meituan.com/2026/01/13/kuitest-ui.html"/>
-        <updated>2026-01-13T17:52:37.652Z</updated>
+        <updated>2026-01-14T05:50:22.053Z</updated>
         <content type="html"><![CDATA[美团质效技术部联合复旦大学周扬帆教授团队推出 KuiTest——零规则 UI 功能性异常测试工具。KuiTest 通过将“人类预期”直接用作 Test Oracle，解决了长期以来 UI 测试 Oracle 泛化性差的自动化痛点。实验表明，KuiTest 异常召回率达 86%，误报率仅 1.2%，已在执行 21 万+测试用例，发现百余例有效缺陷，大幅降低人工成本并提升测试覆盖率。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2026/01/13/kuitest-ui.html">阅读全文</a>]]></content>
     </entry>
@@ -16,7 +16,7 @@
         <title type="html"><![CDATA[AAAI 2026 | 美团技术团队学术论文精选 (美团技术博客)]]></title>
         <id>https://tech.meituan.com/2026/01/12/aaai-2026.html</id>
         <link href="https://tech.meituan.com/2026/01/12/aaai-2026.html"/>
-        <updated>2026-01-13T17:52:37.657Z</updated>
+        <updated>2026-01-14T05:50:22.059Z</updated>
         <content type="html"><![CDATA[AAAI 是人工智能领域顶级的国际学术会议，本文精选了美团技术团队被收录的8篇学术论文（附下载链接），覆盖大模型推理、&nbsp;退火策略、过程奖励模型、强化学习、视觉文本渲染等多个技术领域，希望这些论文能对大家有所帮助或启发。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2026/01/12/aaai-2026.html">阅读全文</a>]]></content>
     </entry>
