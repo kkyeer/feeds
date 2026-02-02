@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tech.meituan.com/</id>
     <title>美团技术博客</title>
-    <updated>2026-02-01T17:51:56.704Z</updated>
+    <updated>2026-02-02T06:39:52.754Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://awps-assets.meituan.net/mit/blog/v20190629/asset/icon/android-icon-192x192.png?v=Whistle&amp;t=20181017-1r</icon>
+    <entry>
+        <title type="html"><![CDATA[2025美团技术年货，「马」上到来]]></title>
+        <id>https://tech.meituan.com/2026/02/02/2025-spring-festival-present.html</id>
+        <link href="https://tech.meituan.com/2026/02/02/2025-spring-festival-present.html"/>
+        <updated>2026-02-02T06:39:47.537Z</updated>
+        <content type="html"><![CDATA[值此马年春节来临之际，我们精选了过去一年美团技术团队微信公众号发布的 40 多篇优质技术文章，精心汇编成一本 500 多页的电子书。谨以此作为一份特别的新年礼物，献给每一位热爱技术、持续探索的同学。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2026/02/02/2025-spring-festival-present.html">阅读全文</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[多维创新打造强泛化智能体模型，LongCat-Flash-Thinking-2601技术报告发布]]></title>
+        <id>https://tech.meituan.com/2026/02/02/longcat-flash-thinking-2601-techreport.html</id>
+        <link href="https://tech.meituan.com/2026/02/02/longcat-flash-thinking-2601-techreport.html"/>
+        <updated>2026-02-02T06:39:47.539Z</updated>
+        <content type="html"><![CDATA[LongCat-Flash-Thinking-2601模型创新性地打造了 “重思考模式” ，通过并行推理与深度总结，实现推理宽度与深度的协同扩展，显著提升复杂交互与多步规划任务中的表现。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2026/02/02/longcat-flash-thinking-2601-techreport.html">阅读全文</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美团 EvoCUA 刷新开源 SOTA，会用电脑还会持续进化的智能体！]]></title>
         <id>https://tech.meituan.com/2026/01/26/evocua.html</id>
@@ -148,21 +164,5 @@
         <updated>2025-11-05T05:45:34.807Z</updated>
         <content type="html"><![CDATA[美团 LongCat 团队研发的 VitaBench（Versatile Interactive Tasks Benchmark）正式发布，这是当前高度贴近真实生活场景所面临复杂问题的大模型智能体评测基准。VitaBench 以外卖点餐、餐厅就餐、旅游出行三大高频真实生活场景为典型载体，构建了包含 66 个工具的交互式评测环境，并进行了跨场景的综合任务设计，例如要求 agent 在一个旅行规划任务中通过思考、调用工具和用户交互，完整执行到买好票、订好餐厅的终端状态。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/11/02/vitabench-agent.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ICCV 2025 | 美团论文精选及多模态推理竞赛冠军方法分享]]></title>
-        <id>https://tech.meituan.com/2025/10/27/iccv-2025.html</id>
-        <link href="https://tech.meituan.com/2025/10/27/iccv-2025.html"/>
-        <updated>2025-10-31T05:45:57.688Z</updated>
-        <content type="html"><![CDATA[本文介绍了美团技术团队在国际顶会 ICCV 2025 中发表的 5 篇论文。同时，在ICCV 2025 举办的多模态推理竞赛中，美团基础研发平台/计算和智能平台组建的 ActiveAlphaAgent 团队，斩获赛题 1 真实场景视觉定位（VG-RS）冠军，赛题 2 空间感知视觉问答（VQA-SA）季军和赛题 3 创意广告视频视觉推理（VR-Ads）季军。本文也分享了这三道赛题的解题思路，希望相关研究能给同学们带来一些帮助或启发。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/10/27/iccv-2025.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LongCat-Video 视频生成模型正式发布，探索世界模型的第一步]]></title>
-        <id>https://tech.meituan.com/2025/10/27/longcat-video.html</id>
-        <link href="https://tech.meituan.com/2025/10/27/longcat-video.html"/>
-        <updated>2025-10-31T05:45:57.691Z</updated>
-        <content type="html"><![CDATA[美团 LongCat 团队正式发布 LongCat-Video 视频生成模型 —— 不仅以统一模型在文生、图生视频基础任务上达到开源最先进水平，更依托原生视频续写任务预训练，实现分钟级长视频连贯生成，从根源上保障跨帧时序一致性与物理运动合理性，尤其在长视频生成领域具备显著优势。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/10/27/longcat-video.html">阅读全文</a>]]></content>
     </entry>
 </feed>
