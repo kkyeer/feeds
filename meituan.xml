@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tech.meituan.com/</id>
     <title>美团技术博客</title>
-    <updated>2026-03-08T17:50:07.136Z</updated>
+    <updated>2026-03-09T06:37:48.627Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://awps-assets.meituan.net/mit/blog/v20190629/asset/icon/android-icon-192x192.png?v=Whistle&amp;t=20181017-1r</icon>
+    <entry>
+        <title type="html"><![CDATA[LongCat 为 OpenClaw 装上效率引擎：你的自动化任务还能再快 30%]]></title>
+        <id>https://tech.meituan.com/2026/03/09/longcat-openclaw.html</id>
+        <link href="https://tech.meituan.com/2026/03/09/longcat-openclaw.html"/>
+        <updated>2026-03-09T06:37:43.183Z</updated>
+        <content type="html"><![CDATA[依赖第三方订阅进行非官方调用存在账号安全风险与服务不稳定性。为规避此类问题，LongCat 团队提供稳定合规的官方免费 API，开发者可通过官方渠道直接接入 OpenClaw，在确保账号安全的前提下构建自动化工作流。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2026/03/09/longcat-openclaw.html">阅读全文</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美团发布基于 N-gram 全新模型：嵌入扩展新范式，实现轻量化 MoE 高效进化]]></title>
         <id>https://tech.meituan.com/2026/02/10/longcat-flash-lite.html</id>
@@ -156,13 +164,5 @@
         <updated>2026-01-06T05:50:04.295Z</updated>
         <content type="html"><![CDATA[本文精选了美团技术团队在国际顶会NeurIPS 2025中发表的10篇论文，研究方向覆盖了大模型、多模态、自然语音处理、计算机视觉、基础技术、因果推断等技术领域，希望相关研究能给同学们带来一些帮助或启发。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/11/13/neurips-2025.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LongCat-Flash-Omni正式发布并开源：开启全模态实时交互时代]]></title>
-        <id>https://tech.meituan.com/2025/11/03/longcat-flash-omni.html</id>
-        <link href="https://tech.meituan.com/2025/11/03/longcat-flash-omni.html"/>
-        <updated>2025-11-03T17:45:42.119Z</updated>
-        <content type="html"><![CDATA[美团 LongCat-Flash 系列再升级，美团正式发布全新家族成员 LongCat-Flash-Omni，在文本、图像、视频理解及语音感知与生成等关键单模态任务中，均展现出极强的竞争力。LongCat-Flash-Omni 是业界首个实现&nbsp;“全模态覆盖、端到端架构、大参数量高效推理”&nbsp;于一体的开源大语言模型。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/11/03/longcat-flash-omni.html">阅读全文</a>]]></content>
     </entry>
 </feed>
