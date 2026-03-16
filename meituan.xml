@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tech.meituan.com/</id>
     <title>美团技术博客</title>
-    <updated>2026-03-15T17:54:43.567Z</updated>
+    <updated>2026-03-16T06:53:45.778Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://awps-assets.meituan.net/mit/blog/v20190629/asset/icon/android-icon-192x192.png?v=Whistle&amp;t=20181017-1r</icon>
+    <entry>
+        <title type="html"><![CDATA[重塑站外体验：大众点评 M 站基于 Qwik.js 的重构实践]]></title>
+        <id>https://tech.meituan.com/2026/03/13/qwik-practice-in-dianping.html</id>
+        <link href="https://tech.meituan.com/2026/03/13/qwik-practice-in-dianping.html"/>
+        <updated>2026-03-16T06:53:40.987Z</updated>
+        <content type="html"><![CDATA[为突破传统 Web 框架的性能瓶颈，大众点评增长团队引入 Qwik.js 重构 M 站核心页面架构，解决了重构前页面加载慢、维护成本高的难题。借助“可恢复性”能力，我们甩掉了传统水合的性能损耗，搭配全链路优化与工程化适配，让各个页面的性能指标都得到了明显提升。本文将拆解本次重构的技术选型、原理与落地细节，沉淀前沿框架在站外场景的落地经验。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2026/03/13/qwik-practice-in-dianping.html">阅读全文</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LongCat 为 OpenClaw 装上效率引擎：你的自动化任务还能再快 30%]]></title>
         <id>https://tech.meituan.com/2026/03/09/longcat-openclaw.html</id>
@@ -156,13 +164,5 @@
         <updated>2025-11-17T17:44:10.185Z</updated>
         <content type="html"><![CDATA[针对 Speech LLM 落地中的音频处理难题，美团 LongCat 团队正式开源专用语音编解码方案 LongCat-Audio-Codec。它提供了一套一站式的 Token 生成器（Tokenizer）与 Token 还原器（DeTokenizer）工具链，其核心功能是将原始音频信号映射为语义与声学并行的 Token 序列，实现高效离散化，再通过解码模块重构高质量音频，为 Speech LLM 提供从信号输入到输出的全链路音频处理支持。真正让语音大模型既 “听懂” 语义，又能够“说清” 。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/11/14/longcat-audio-codec.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NeurIPS 2025 | 美团技术团队论文精选]]></title>
-        <id>https://tech.meituan.com/2025/11/13/neurips-2025.html</id>
-        <link href="https://tech.meituan.com/2025/11/13/neurips-2025.html"/>
-        <updated>2026-01-06T05:50:04.295Z</updated>
-        <content type="html"><![CDATA[本文精选了美团技术团队在国际顶会NeurIPS 2025中发表的10篇论文，研究方向覆盖了大模型、多模态、自然语音处理、计算机视觉、基础技术、因果推断等技术领域，希望相关研究能给同学们带来一些帮助或启发。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/11/13/neurips-2025.html">阅读全文</a>]]></content>
     </entry>
 </feed>
