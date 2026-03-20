@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tech.meituan.com/</id>
     <title>美团技术博客</title>
-    <updated>2026-03-20T06:12:09.244Z</updated>
+    <updated>2026-03-20T18:03:11.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://awps-assets.meituan.net/mit/blog/v20190629/asset/icon/android-icon-192x192.png?v=Whistle&amp;t=20181017-1r</icon>
+    <entry>
+        <title type="html"><![CDATA[美团 BI 在指标平台和分析引擎上的探索和实践]]></title>
+        <id>https://tech.meituan.com/2026/03/20/busniness-intelligence-practice-in-meituan.html</id>
+        <link href="https://tech.meituan.com/2026/03/20/busniness-intelligence-practice-in-meituan.html"/>
+        <updated>2026-03-20T18:03:05.752Z</updated>
+        <content type="html"><![CDATA[美团数据平台构建了以指标平台为核心的新一代 BI 架构，通过自动语义和增强计算两种核心能力的建设，部分解决了传统 BI 平台在个性化数据集驱动下产生的数据口径混乱、查询性能差等问题。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2026/03/20/busniness-intelligence-practice-in-meituan.html">阅读全文</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[重塑站外体验：大众点评 M 站基于 Qwik.js 的重构实践]]></title>
         <id>https://tech.meituan.com/2026/03/13/qwik-practice-in-dianping.html</id>
@@ -156,13 +164,5 @@
         <updated>2025-11-17T17:44:10.184Z</updated>
         <content type="html"><![CDATA[美团 LongCat 团队提出了一套高质量、多样化的一站式全模态大模型评测基准——UNO-Bench。该基准通过一个统一的框架，不仅能同时精准衡量模型的单模态与全模态理解能力，更首次验证了全模态大模型的“组合定律”——该定律在能力较弱的模型上呈现为短板效应，而在能力较强的模型上则涌现出协同增益，为行业提供了一种全新的、跨越模型规模的分析范式。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/11/17/longcat-uno-bench.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美团开源LongCat-Audio-Codec，高效语音编解码器助力实时交互落地]]></title>
-        <id>https://tech.meituan.com/2025/11/14/longcat-audio-codec.html</id>
-        <link href="https://tech.meituan.com/2025/11/14/longcat-audio-codec.html"/>
-        <updated>2025-11-17T17:44:10.185Z</updated>
-        <content type="html"><![CDATA[针对 Speech LLM 落地中的音频处理难题，美团 LongCat 团队正式开源专用语音编解码方案 LongCat-Audio-Codec。它提供了一套一站式的 Token 生成器（Tokenizer）与 Token 还原器（DeTokenizer）工具链，其核心功能是将原始音频信号映射为语义与声学并行的 Token 序列，实现高效离散化，再通过解码模块重构高质量音频，为 Speech LLM 提供从信号输入到输出的全链路音频处理支持。真正让语音大模型既 “听懂” 语义，又能够“说清” 。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/11/14/longcat-audio-codec.html">阅读全文</a>]]></content>
     </entry>
 </feed>
