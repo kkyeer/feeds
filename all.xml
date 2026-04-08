@@ -2,8 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kkyeer.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-04-07T18:36:37.672Z</updated>
+    <updated>2026-04-08T06:55:47.776Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[LongCat-Flash-Prover：AI 攻克数学定理证明，不仅要“算得对”，更要“证得严” (美团技术博客)]]></title>
+        <id>https://tech.meituan.com/2026/04/07/longcat-flash-prover.html</id>
+        <link href="https://tech.meituan.com/2026/04/07/longcat-flash-prover.html"/>
+        <updated>2026-04-08T06:55:42.938Z</updated>
+        <content type="html"><![CDATA[在常规的数学解题中，模型只需要“答对最终数值”即可，但数学定理证明不同，它要求极度严苛的逻辑链条，任何一句自然语言的模棱两可，都可能导致整个证明的崩塌。那么，如何让 AI 从“猜答案”走向“严谨证明”，成为复杂推理具有挑战的课题。为了解答这个问题，我们开源了专门用于数学形式化与定理证明的模型 —— LongCat-Flash-Prover。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2026/04/07/longcat-flash-prover.html">阅读全文</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美团发布原生多模态 LongCat-Next：当视觉和语音成为AI的母语 (美团技术博客)]]></title>
+        <id>https://tech.meituan.com/2026/04/02/longcat-next.html</id>
+        <link href="https://tech.meituan.com/2026/04/02/longcat-next.html"/>
+        <updated>2026-04-08T06:55:42.940Z</updated>
+        <content type="html"><![CDATA[LongCat-Next 是我们在通往物理世界 AI 道路上的一次探索。今天，我们把研究思路的核心——LongCat-Next 模型和它的离散分词器全部开源，希望更多开发者能基于它，构建真正能感知、理解并作用于真实世界的 AI。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2026/04/02/longcat-next.html">阅读全文</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美团 BI 在指标平台和分析引擎上的探索和实践 (美团技术博客)]]></title>
         <id>https://tech.meituan.com/2026/03/20/busniness-intelligence-practice-in-meituan.html</id>
@@ -147,22 +163,6 @@
         <updated>2025-12-02T17:48:07.727Z</updated>
         <content type="html"><![CDATA[美团 LongCat 团队发布数学推理评测基准—— AMO-Bench&nbsp;。该评测集共包含 50 道竞赛专家原创试题，所有题目均对标甚至超越 IMO 竞赛难度。AMO-Bench 既揭示出当前大语言模型在处理复杂推理任务上的局限性，同时也为模型推理能力的进一步提升树立了新的标杆。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/11/27/longcat-amo-bench.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美团 LongCat Interaction 团队发布大模型交互系统技术报告 WOWService (美团技术博客)]]></title>
-        <id>https://tech.meituan.com/2025/11/21/longcat-interaction-wowservice.html</id>
-        <link href="https://tech.meituan.com/2025/11/21/longcat-interaction-wowservice.html"/>
-        <updated>2025-11-21T17:43:15.010Z</updated>
-        <content type="html"><![CDATA[美团 LongCat 团队正式发布——「WOWService 大模型交互系统技术报告」，深度拆解了 「数据与知识双驱动」「自我优化训练」「四阶段训练流水线」「多 Agent 协同」 四大核心技术框架，希望对行业发展提供参考与启发。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/11/21/longcat-interaction-wowservice.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美团 LongCat 团队发布全模态一站式评测基准 UNO-Bench (美团技术博客)]]></title>
-        <id>https://tech.meituan.com/2025/11/17/longcat-uno-bench.html</id>
-        <link href="https://tech.meituan.com/2025/11/17/longcat-uno-bench.html"/>
-        <updated>2025-11-17T17:44:10.184Z</updated>
-        <content type="html"><![CDATA[美团 LongCat 团队提出了一套高质量、多样化的一站式全模态大模型评测基准——UNO-Bench。该基准通过一个统一的框架，不仅能同时精准衡量模型的单模态与全模态理解能力，更首次验证了全模态大模型的“组合定律”——该定律在能力较弱的模型上呈现为短板效应，而在能力较强的模型上则涌现出协同增益，为行业提供了一种全新的、跨越模型规模的分析范式。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/11/17/longcat-uno-bench.html">阅读全文</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[知识库检索匹配的服务化实践 (有赞技术团队)]]></title>
