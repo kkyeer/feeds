@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tech.meituan.com/</id>
     <title>美团技术博客</title>
-    <updated>2026-04-26T18:07:16.414Z</updated>
+    <updated>2026-04-27T07:54:30.669Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://awps-assets.meituan.net/mit/blog/v20190629/asset/icon/android-icon-192x192.png?v=Whistle&amp;t=20181017-1r</icon>
+    <entry>
+        <title type="html"><![CDATA[LARYBench 发布：定义具身动作表征 ImageNet，首次度量从人类视频学习的泛化表征]]></title>
+        <id>https://tech.meituan.com/2026/04/27/longcat-larybench.html</id>
+        <link href="https://tech.meituan.com/2026/04/27/longcat-larybench.html"/>
+        <updated>2026-04-27T07:54:25.943Z</updated>
+        <content type="html"><![CDATA[LARYBench （Latent Action Representation Yielding Benchmark），一个指引从大规模的视觉数据学习到通用的隐式动作表征的系统化评测基准。实验结果表明：在动作泛化和控制精度上，通用视觉模型的表现均显著优于专门为具身智能设计的动作专家模型，具身动作表征可以从大规模人类视频数据中涌现。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2026/04/27/longcat-larybench.html">阅读全文</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[突破零样本 TTS 音色克隆上限：LongCat-AudioDiT 的声音克隆艺术]]></title>
         <id>https://tech.meituan.com/2026/04/20/longcat-audiodit.html</id>
@@ -156,13 +164,5 @@
         <updated>2025-12-05T17:44:27.151Z</updated>
         <content type="html"><![CDATA[AI生成代码质量难以把控！本文分享来自美团的技术实践，三大策略破解AI编程痛点。单测快速验证逻辑正确性，安全网保护存量代码演进，TDD模式精准传递需求。告别「看起来没问题」的错觉，构建AI时代的代码质量保障体系。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/12/05/ai-coding-unit-testing.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[R-HORIZON：探索长程推理边界，复旦NLP&美团LongCat联合提出LRMs能力评测新框架]]></title>
-        <id>https://tech.meituan.com/2025/11/28/longcat-r-horizon.html</id>
-        <link href="https://tech.meituan.com/2025/11/28/longcat-r-horizon.html"/>
-        <updated>2025-12-02T17:48:07.727Z</updated>
-        <content type="html"><![CDATA[复旦大学与美团LongCat联合推出&nbsp;R-HORIZON——首个系统性评估与增强 LRMs 长链推理能力的评测框架与训练方法。核心创新：R-HORIZON 提出了问题组合（Query Composition）方法，通过构建问题间的依赖关系，将孤立任务转化为复杂的多步骤推理链。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/11/28/longcat-r-horizon.html">阅读全文</a>]]></content>
     </entry>
 </feed>
