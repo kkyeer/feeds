@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tech.meituan.com/</id>
     <title>美团技术博客</title>
-    <updated>2026-05-07T19:16:06.652Z</updated>
+    <updated>2026-05-08T07:07:40.746Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://awps-assets.meituan.net/mit/blog/v20190629/asset/icon/android-icon-192x192.png?v=Whistle&amp;t=20181017-1r</icon>
+    <entry>
+        <title type="html"><![CDATA[用Agent评测思路管理AI Coding —— 31万行代码AI重构的实践]]></title>
+        <id>https://tech.meituan.com/2026/05/07/agent-ai-coding.html</id>
+        <link href="https://tech.meituan.com/2026/05/07/agent-ai-coding.html"/>
+        <updated>2026-05-08T07:07:35.808Z</updated>
+        <content type="html"><![CDATA[当 90% 以上代码由 AI 生成，决定系统走向的不是谁写得更快，而是约束 AI 的能力。没有统一规范，AI 只会成倍放大混乱。本文基于 31 万行代码重构实践，分享我们如何用 Agent 评测思路管理 AI Coding——通过技术债梳理、建设Rule、重构 SOP 和 Pre-PR 机制，把重构从高成本专项变成随迭代持续推进的日常动作。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2026/05/07/agent-ai-coding.html">阅读全文</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LARYBench 发布：定义具身动作表征 ImageNet，首次度量从人类视频学习的泛化表征]]></title>
         <id>https://tech.meituan.com/2026/04/27/longcat-larybench.html</id>
@@ -156,13 +164,5 @@
         <updated>2025-12-09T17:45:57.246Z</updated>
         <content type="html"><![CDATA[美团 LongCat 团队正式发布并开源 LongCat-Image 模型，通过高性能模型架构设计、系统性的训练策略和数据工程，以 6B 参数规模，成功在文生图和图像编辑的核心能力维度上逼近更大尺寸模型效果，为开发者社区与产业界提供了 “高性能、低门槛、全开放” 的全新选择。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/12/09/longcat-image-model.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Coding与单元测试的协同进化：从验证到驱动]]></title>
-        <id>https://tech.meituan.com/2025/12/05/ai-coding-unit-testing.html</id>
-        <link href="https://tech.meituan.com/2025/12/05/ai-coding-unit-testing.html"/>
-        <updated>2025-12-05T17:44:27.151Z</updated>
-        <content type="html"><![CDATA[AI生成代码质量难以把控！本文分享来自美团的技术实践，三大策略破解AI编程痛点。单测快速验证逻辑正确性，安全网保护存量代码演进，TDD模式精准传递需求。告别「看起来没问题」的错觉，构建AI时代的代码质量保障体系。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/12/05/ai-coding-unit-testing.html">阅读全文</a>]]></content>
     </entry>
 </feed>
