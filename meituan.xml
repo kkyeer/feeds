@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tech.meituan.com/</id>
     <title>美团技术博客</title>
-    <updated>2026-05-14T19:20:17.223Z</updated>
+    <updated>2026-05-15T08:22:20.364Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://awps-assets.meituan.net/mit/blog/v20190629/asset/icon/android-icon-192x192.png?v=Whistle&amp;t=20181017-1r</icon>
+    <entry>
+        <title type="html"><![CDATA[美团 LongCat 开源 General 365：树立推理评测新标尺]]></title>
+        <id>https://tech.meituan.com/2026/05/15/longcat-general-365.html</id>
+        <link href="https://tech.meituan.com/2026/05/15/longcat-general-365.html"/>
+        <updated>2026-05-15T08:22:15.581Z</updated>
+        <content type="html"><![CDATA[美团 LongCat 团队正式发布 General 365。我们发现，在对 26 款主流模型的实测中，目前地表最强的 Gemini 3 Pro 准确率仅为 62.8%，而绝大多数模型甚至没能摸到 60 分的及格线。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2026/05/15/longcat-general-365.html">阅读全文</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用Agent评测思路管理AI Coding —— 31万行代码AI重构的实践]]></title>
         <id>https://tech.meituan.com/2026/05/07/agent-ai-coding.html</id>
@@ -156,13 +164,5 @@
         <updated>2025-12-09T17:45:57.244Z</updated>
         <content type="html"><![CDATA[美团 LongCat 全新上线&nbsp;AI 生图功能，该功能基于 LongCat 系列模型「LongCat-Image」打造而成。无论是追求高效出图的普通用户，还是需要精准落地创意的专业创作者，LongCat 都以 “轻量化模型 + 流畅体验” ，让 AI 生图真正成为人人可用的创作工具。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/12/09/longcat-image-application.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美团发布 LongCat-Image 图像生成模型，编辑能力登顶开源 SOTA]]></title>
-        <id>https://tech.meituan.com/2025/12/09/longcat-image-model.html</id>
-        <link href="https://tech.meituan.com/2025/12/09/longcat-image-model.html"/>
-        <updated>2025-12-09T17:45:57.246Z</updated>
-        <content type="html"><![CDATA[美团 LongCat 团队正式发布并开源 LongCat-Image 模型，通过高性能模型架构设计、系统性的训练策略和数据工程，以 6B 参数规模，成功在文生图和图像编辑的核心能力维度上逼近更大尺寸模型效果，为开发者社区与产业界提供了 “高性能、低门槛、全开放” 的全新选择。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/12/09/longcat-image-model.html">阅读全文</a>]]></content>
     </entry>
 </feed>
