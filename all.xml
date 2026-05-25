@@ -2,8 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kkyeer.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-05-24T18:41:08.496Z</updated>
+    <updated>2026-05-25T09:37:05.913Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[从高拟真到真可用，LongCat-Video-Avatar 1.5 正式开源 (美团技术博客)]]></title>
+        <id>https://tech.meituan.com/2026/05/25/longcat-video-avatar-1.5.html</id>
+        <link href="https://tech.meituan.com/2026/05/25/longcat-video-avatar-1.5.html"/>
+        <updated>2026-05-25T09:37:01.897Z</updated>
+        <content type="html"><![CDATA[LongCat-Video-Avatar 1.5是一款从开源 SOTA 迈向商业级应用的数字人视频模型。在唇形同步、物理合理性、长视频稳定性、多人互动和高效推理上实现了全面跃升。LongCat-Video-Avatar 1.5 即便在复杂商业场景里，也能稳定、自然地输出高质量内容，让数字人视频生成从彩排室的完美演练，走向千人千面的真实舞台。
+<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2026/05/25/longcat-video-avatar-1.5.html">阅读全文</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美团 LongCat 开源 General 365：树立推理评测新标尺 (美团技术博客)]]></title>
         <id>https://tech.meituan.com/2026/05/15/longcat-general-365.html</id>
@@ -155,14 +163,6 @@
         <updated>2025-12-22T05:48:41.286Z</updated>
         <content type="html"><![CDATA[美团 LongCat Interaction 团队联合上海交通大学听觉认知与计算声学实验室，以及香港科技大学的研究者，共同完成了大模型剪枝方法的创新研究，提出了名为 DenoiseRotator 的新技术。通过首先对参数矩阵进行变换，“将知识和推理能力浓缩到由少量参数组成的子网络内”，“再裁剪掉子网络外的参数”，实现了大模型剪枝的新范式。
 <a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/12/19/longcat-interaction-denoiserotator.html">阅读全文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LongCat 上线 AI 生图！精准高效，AI 创作不设限 (美团技术博客)]]></title>
-        <id>https://tech.meituan.com/2025/12/09/longcat-image-application.html</id>
-        <link href="https://tech.meituan.com/2025/12/09/longcat-image-application.html"/>
-        <updated>2025-12-09T17:45:57.244Z</updated>
-        <content type="html"><![CDATA[美团 LongCat 全新上线&nbsp;AI 生图功能，该功能基于 LongCat 系列模型「LongCat-Image」打造而成。无论是追求高效出图的普通用户，还是需要精准落地创意的专业创作者，LongCat 都以 “轻量化模型 + 流畅体验” ，让 AI 生图真正成为人人可用的创作工具。
-<a class="more-link btn btn-primary btn-xs" href="https://tech.meituan.com/2025/12/09/longcat-image-application.html">阅读全文</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[知识库检索匹配的服务化实践 (有赞技术团队)]]></title>
